@@ -1,0 +1,103 @@
+# English (United Kingdom) translation for scilab
+# Copyright (c) 2011 Rosetta Contributors and Canonical Ltd 2011
+# This file is distributed under the same license as the scilab package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: scilab\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-10-03 10:34+0100\n"
+"PO-Revision-Date: 2011-09-15 14:06+0000\n"
+"Last-Translator: John Bradshaw <Unknown>\n"
+"Language-Team: English (United Kingdom) <en_GB@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2011-11-07 21:35+0000\n"
+"X-Generator: Launchpad (build 14231)\n"
+
+#, c-format
+msgid "FFTW Library %s not found.\n"
+msgstr "FFTW Library %s not found.\n"
+
+msgid "FFTW Library not found.\n"
+msgstr "FFTW Library not found.\n"
+
+#, c-format
+msgid "%s: Wrong number of input arguments: %d not expected.\n"
+msgstr "%s: Wrong number of input arguments: %d not expected.\n"
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: A Real or Complex expected.\n"
+msgstr "%s: Wrong type for input argument #%d: A Real or Complex expected.\n"
+
+#, c-format
+msgid "%s: Wrong values for input argument #%d.\n"
+msgstr "%s: Wrong values for input argument #%d.\n"
+
+#, c-format
+msgid ""
+"%s: Wrong type for input argument #%d: N-dimensional array expected.\n"
+msgstr ""
+"%s: Wrong type for input argument #%d: N-dimensional array expected.\n"
+
+#, c-format
+msgid "%s: Wrong size for input argument #%d.\n"
+msgstr "%s: Wrong size for input argument #%d.\n"
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: int matrix expected.\n"
+msgstr "%s: Wrong type for input argument #%d: int matrix expected.\n"
+
+#, c-format
+msgid ""
+"%s: Incompatible input arguments '#%d and '#%d': Same sizes expected.\n"
+msgstr ""
+"%s: Incompatible input arguments '#%d and '#%d': Same sizes expected.\n"
+
+#, c-format
+msgid "%s: No more memory.\n"
+msgstr "%s: No more memory.\n"
+
+#, c-format
+msgid ""
+"%s: Wrong values for input argument #%d: Non-negative integers expected.\n"
+msgstr ""
+"%s: Wrong values for input argument #%d: Non-negative integers expected.\n"
+
+#, c-format
+msgid "%s: Wrong values for input argument #%d: FFTW flag expected.\n"
+msgstr "%s: Wrong values for input argument #%d: FFTW flag expected.\n"
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d.\n"
+msgstr "%s: Wrong type for input argument #%d.\n"
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: A string expected.\n"
+msgstr "%s: Wrong type for input argument #%d: A string expected.\n"
+
+#, c-format
+msgid "%s: An error occurred: %s\n"
+msgstr "%s: An error occurred: %s\n"
+
+msgid "FFTW can't read wisdom."
+msgstr "FFTW can't read wisdom."
+
+msgid "Scilab FFTW module not installed.\n"
+msgstr "Scilab FFTW module not installed.\n"
+
+msgid "You choose to install scilab with fftw module."
+msgstr "You choose to install scilab with fftw module."
+
+msgid "This module requires : "
+msgstr "This module requires : "
+
+msgid ""
+"Scilab will use standard fft by default until you install this library."
+msgstr ""
+"Scilab will use standard fft by default until you install this library."
+
+msgid "See help fftw for more informations."
+msgstr "See help fftw for more informations."

@@ -1,0 +1,62 @@
+# Korean translation for scilab
+# Copyright (c) 2009 Rosetta Contributors and Canonical Ltd 2009
+# This file is distributed under the same license as the scilab package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: scilab\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-10-03 10:33+0100\n"
+"PO-Revision-Date: 2009-09-09 10:04+0000\n"
+"Last-Translator: sungyup nham <Unknown>\n"
+"Language-Team: Korean <ko@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2011-11-07 21:34+0000\n"
+"X-Generator: Launchpad (build 14231)\n"
+
+#, c-format
+msgid "%s: Wrong size for input argument #%d: A string expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: String expected.\n"
+msgstr "%s: 잘못된 형식은 입력인자값 #%d: 문자열이 기대됨.\n"
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument: '%s', '%s', '%s', '%s', '%s' or '%s' "
+"expected.\n"
+msgstr "%s: 잘못된 입력인자값: '%s', '%s', '%s', '%s', '%s' 혹은 '%s' 이 기대됨.\n"
+
+#, c-format
+msgid "%s: Wrong number of output argument(s).\n"
+msgstr "%s: 잘못된 출력인자 갯수(들).\n"
+
+msgid "File or Directory"
+msgstr ""
+
+msgid "Scilab completion module not installed.\n"
+msgstr "Scilab 자동완성 모듈이 설치되지 않음.\n"
+
+#, c-format
+msgid "%s: Wrong type for input arguments.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong size for input argument #%d: A boolean expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong size for input argument %d.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong size for input argument: A string expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: A string expected.\n"
+msgstr ""

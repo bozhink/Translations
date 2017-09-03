@@ -1,0 +1,200 @@
+# Czech translation for scilab
+# Copyright (c) 2011 Rosetta Contributors and Canonical Ltd 2011
+# This file is distributed under the same license as the scilab package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: scilab\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-03-09 11:38+0100\n"
+"PO-Revision-Date: 2011-08-10 06:11+0000\n"
+"Last-Translator: Zbyněk Schwarz <Unknown>\n"
+"Language-Team: Czech <cs@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2011-11-07 21:39+0000\n"
+"X-Generator: Launchpad (build 14231)\n"
+
+#, c-format
+msgid "%s: An error occurred: %s\n"
+msgstr "%s: Vyskytla se chyba: %s\n"
+
+#, c-format
+msgid "%s: Error while creating processes: %s.\n"
+msgstr "%s: Chyba při vytváření procesů: %s.\n"
+
+#, c-format
+msgid "%s: No more memory.\n"
+msgstr "%s: Není více paměti.\n"
+
+#, c-format
+msgid "%s: No such file or directory.\n"
+msgstr "%s: Žádný takový soubor nebo adresář.\n"
+
+#, c-format
+msgid "%s: Unknown or not yet implemented type.\n"
+msgstr "%s: Neznámý, nebo ještě nezavedený typ.\n"
+
+#, c-format
+msgid "%s: Wrong first input argument: '%s' or '%s' expected.\n"
+msgstr "%s: Špatný první vstupní argument: Očekáváno '%s' nebo '%s'.\n"
+
+#, c-format
+msgid "%s: workspace (stacksize) is too small.\n"
+msgstr "%s: pracovní prostor (velikost zásobníku) je příliš malý.\n"
+
+msgid "(group,instance) already exists"
+msgstr "(skupina, instnace) již existuje"
+
+msgid "Already doing operation"
+msgstr "Již provádím operaci"
+
+msgid "Already in group"
+msgstr "Již ve skupině"
+
+msgid "Bad message id"
+msgstr "Špatné id zprávy"
+
+msgid "Bad parameter"
+msgstr "Špatný parametr"
+
+msgid "Barrier count mismatch"
+msgstr "Neshoda s počtem bariér"
+
+msgid "Can not decode received msg"
+msgstr "Nelze dekódovat přijatou zprávu"
+
+msgid "Can not get memory"
+msgstr "Nelze získat paměť"
+
+msgid "Daemon pvmd is not responding"
+msgstr "Daemon pvmd neodpovídá"
+
+msgid "Error MALLOC in pvm_error\n"
+msgstr "MALLOC chyba v pvm_error\n"
+
+msgid "Error pvm_halt - signal\n"
+msgstr "Chyba pvm_halt - signál\n"
+
+msgid "Error pvm_reduce: Not scalar type\n"
+msgstr "Chyba pvm_reduce: Není typ skaláru\n"
+
+#, c-format
+msgid "Error pvm_reduce: Unknown reduction operation %s\n"
+msgstr "Chyba pvm_reduce: Neznámá operace zmenšení %s\n"
+
+msgid "Failed to exec new slave pvmd"
+msgstr "Nelze spustit nový podřízený pvmd"
+
+msgid "Function not implemented"
+msgstr "Funkce není zavedena"
+
+msgid "Host already configured (Duplicate host)"
+msgstr "Hostitel je již nastaven (Duplicitní hostitel)"
+
+msgid "Host failed"
+msgstr "Hostitel selhal"
+
+msgid "No current buffer"
+msgstr "Žádná současná vyrovnávací paměť"
+
+msgid "No group with that name"
+msgstr "Žádná skupina s takovým jménem"
+
+msgid "No parent task"
+msgstr "Žádný nadřazený úkol"
+
+msgid "No such (group,instance)"
+msgstr "Žádná taková (skupina,instance)"
+
+msgid "No such executable"
+msgstr "Žádný takový spustitelný soubor"
+
+msgid "No such host"
+msgstr "Žádný takový hostitel"
+
+msgid "No such instance in group"
+msgstr "Žádná taková instance ve skupině"
+
+msgid "No such task"
+msgstr "Žádné takové úkoly"
+
+msgid "Not in group"
+msgstr "Není ve skupině"
+
+msgid "Null group name is illegal"
+msgstr "Prázdné jméno skupiny není povoleno"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Out of resources"
+msgstr "Došly zdroje"
+
+msgid "PVM exists"
+msgstr "PVM existuje"
+
+msgid "PVM not found"
+msgstr "Pvm neexistuje"
+
+msgid "Pvmd system error"
+msgstr "Systémový chyba pvmd"
+
+msgid "Pvmd-pvmd protocol mismatch"
+msgstr "Neshoda protokolu pvmd-pvmd"
+
+msgid "Read past end of buffer"
+msgstr "Čtení za koncem vyrovnávací paměti"
+
+msgid "Scilab PVM module not installed.\n"
+msgstr "Scilab modul PVM není nainstalován.\n"
+
+#, c-format
+msgid "The configuration file %s is used.\n"
+msgstr "Je použit soubor s nastavením %s.\n"
+
+#, c-format
+msgid ""
+"The standard configuration file $SCI%s will be used.\n"
+"With SCI=%s\n"
+"SCI will have to be set on remote hosts\n"
+"in order to spawn scilab\n"
+msgstr ""
+"Bude použit standardní soubor s nastavením $SCI%s.\n"
+"Se SCI=%s\n"
+"SCI bude muset být nastaveno na vzdálené hostitele\n"
+"aby mohl být scilab vytvořen\n"
+
+#, c-format
+msgid ""
+"The standard configuration file $SCI%s%s needs the environment variables %s, "
+"%s, %s to be set. PVM can not be started.\n"
+msgstr ""
+"Standardní soubor s nastavením $SCI%s%s vyžaduje, aby proměnné prostředí "
+"%s,%s, %s byly nastaveny. PVM nemůže být spuštěno.\n"
+
+msgid "Unknown Error"
+msgstr "Neznámá chyba"
+
+msgid "Warning: PVM_ROOT is not set.\n"
+msgstr "Varování: PVM_ROOT není nastaven.\n"
+
+#, c-format
+msgid "Warning: PVM_ROOT is set to %s\n"
+msgstr "Varování: PVM_ROOT je nastaven na %s\n"
+
+#, c-format
+msgid ""
+"Warning: The standard configuration file $SCI%s was not found.\n"
+"We supposed that PVM and scilab are in standard place on your net\n"
+" (Cf. man pvmd3)\n"
+msgstr ""
+"Varování: Standardní soubor s nastavením $SCI%s nebyl nalezen.\n"
+"Předpokládali jsme, že PVM a scilab jsou na Vaší síti ve standardním "
+"umístění\n"
+" (Cf. man pvmd3)\n"
+
+msgid "but there exists no configuration file:\n"
+msgstr "ale žádný soubor s nastavením tam není přítomen:\n"

@@ -1,0 +1,46 @@
+# Turkish translation for scilab
+# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
+# This file is distributed under the same license as the scilab package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: scilab\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-10-03 10:33+0100\n"
+"PO-Revision-Date: 2010-06-21 04:46+0000\n"
+"Last-Translator: Cagri Emer <cagri@linux.com>\n"
+"Language-Team: Turkish <tr@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2011-11-07 21:39+0000\n"
+"X-Generator: Launchpad (build 14231)\n"
+
+msgid "Please wait ..."
+msgstr ""
+
+msgid "Simulated Annealing"
+msgstr ""
+
+msgid "Simulated Annealing and Ising problem"
+msgstr ""
+
+#, c-format
+msgid "%s: cit_f is mandatory"
+msgstr "%s: cit_f zorunlu"
+
+#, c-format
+msgid "%s: error - wrong accept type"
+msgstr "%s: hata - yanlis kabul tipi"
+
+msgid "optim_sa: sa_f is mandatory"
+msgstr "optim_sa: sa_f zorunlu"
+
+#, c-format
+msgid ""
+"%s: Temperature step %d / %d - T = %f, E(f(T)) = %f var(f(T)) = %f f_best = "
+"%f\n"
+msgstr ""
+"%s: Sicaklik degisimi %d / %d - T = %f, E(f(T)) = %f var(f(T)) = %f f_best = "
+"%f\n"

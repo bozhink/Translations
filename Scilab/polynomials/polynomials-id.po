@@ -1,0 +1,104 @@
+# Indonesian translation for scilab
+# Copyright (c) 2009 Rosetta Contributors and Canonical Ltd 2009
+# This file is distributed under the same license as the scilab package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: scilab\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-10-03 10:33+0100\n"
+"PO-Revision-Date: 2010-12-14 05:09+0000\n"
+"Last-Translator: Waluyo Adi Siswanto <Unknown>\n"
+"Language-Team: Indonesian <id@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2011-11-07 21:36+0000\n"
+"X-Generator: Launchpad (build 14231)\n"
+
+msgid "Polynomials"
+msgstr "Polinomial"
+
+msgid "Introduction"
+msgstr "Pengantar"
+
+#, c-format
+msgid "%s: Wrong size for input argument #%d: A square matrix expected.\n"
+msgstr ""
+"%s: Kesalahan ukuran untuk argumen masukan #%d: Diharapkan matriks "
+"segiempat.\n"
+
+#, c-format
+msgid ""
+"%s: Wrong type for input argument #%d: A floating point number or polynomial "
+"or rational fraction array expected.\n"
+msgstr ""
+"%s: Kesalahan ukuran untuk argumen masukan #%d: angka pangkat atau "
+"polinomial atau fraksi rasional diharapkan.\n"
+
+msgid "Computing determinant: Be patient...\n"
+msgstr "Menghitung determinan: Harap sabar...\n"
+
+#, c-format
+msgid "%s: Wrong size for input argument #%d: A polynomial expected.\n"
+msgstr ""
+"%s: Kesalahan ukuran untuk argumen masukan #%d: Diharapkan polinomial.\n"
+
+#, c-format
+msgid ""
+"%s: Wrong size for input argument #%d: A rational fraction expected.\n"
+msgstr ""
+"%s: Kesalahan ukuran untuk argumen masukan #%d: Diharapkan fraksi yang "
+"rasional.\n"
+
+#, c-format
+msgid ""
+"%s: Wrong size for input argument #%d: A single input, single output system "
+"expected.\n"
+msgstr ""
+"%s: Kesalahan ukuran untuk argumen masukan  #%d: Diharapka sistem satu "
+"masukan satu keluaran.\n"
+
+#, c-format
+msgid ""
+"%s: Wrong type for input argument #%d: Linear dynamical system or polynomial "
+"array expected.\n"
+msgstr ""
+"%s: Kesalahan tipe untuk argumen masukan #%d: Sistem dinamik linear atau "
+"array polinomial.\n"
+
+#, c-format
+msgid "%s: Wrong type for input argument: Polynomial array expected.\n"
+msgstr ""
+"%s: Kesalahan tipe untuk argumen masukan: Array polinomial diharapkan.\n"
+
+#, c-format
+msgid "%s: Wrong number of input argument(s): %d expected.\n"
+msgstr "%s: Kesalahan nomer pada argumen masukan: %d diperlukan.\n"
+
+#, c-format
+msgid "%s: Unexpected type for input argument #%d.\n"
+msgstr "%s: Tipe yang salah untuk argumen masukan #%d.\n"
+
+#, c-format
+msgid "%s: Wrong size for input argument #%d: A row vector expected.\n"
+msgstr ""
+"%s: Kesalahan ukuran untuk argumen masukan #%d: Vektor baris diharapkan.\n"
+
+#, c-format
+msgid "%s: incompatible input arguments %d and %d\n"
+msgstr "%s: argumen masukan tidak sepadan %d dan %d\n"
+
+#, c-format
+msgid "%s: Wrong value for input argument #%d: Must be in the set {%s}.\n"
+msgstr ""
+"%s: Kesalahan angka untuk argumen masukan #%d: Harus dalam bentuk {%s}.\n"
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: Polynomial expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Input argument #%d must be real.\n"
+msgstr "%s: Argumen masukan #%d harus bilangan riil.\n"

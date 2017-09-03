@@ -1,0 +1,82 @@
+# Bozhin Karaivanov <bozhink@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: Scilab\n"
+"Report-Msgid-Bugs-To: <localization@lists.scilab.org>\n"
+"POT-Creation-Date: 2011-10-03 10:34+0100\n"
+"PO-Revision-Date: 2012-03-04 17:09+0200\n"
+"Last-Translator: Bozhin Karaivanov <bozhink@gmail.com>\n"
+"Language-Team: Bulgarian <bozhink@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2011-11-07 21:40+0000\n"
+"X-Generator: Lokalize 1.2\n"
+"Revision-Date: 2011-11-03 10:55+0100\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# File: sci_gateway/cpp/sci_export_to_hdf5.cpp, line: 80
+#, c-format
+msgid "%s: Wrong number of input argument(s): At most %d expected.\n"
+msgstr "%s: Невалиден брой входни аргументи: Очакват се не повече от %d.\n"
+
+#
+# File: sci_gateway/cpp/sci_export_to_hdf5.cpp, line: 99
+#, c-format
+msgid "%s: Wrong value for input argument #%d: Defined variable expected.\n"
+msgstr ""
+"%s: Невалидна стойност на входен аргумент #%d: Очаква се дефинирана "
+"променлива.\n"
+
+#
+# File: sci_gateway/cpp/sci_export_to_hdf5.cpp, line: 113
+#, c-format
+msgid "%s: Wrong value for input argument #%d: \"%s\" is a directory"
+msgstr "%s: Невалидна стойност на входен аргумент #%d: \"%s\" е директория"
+
+#
+# File: sci_gateway/cpp/sci_export_to_hdf5.cpp, line: 117
+#, c-format
+msgid "%s: Cannot open file %s.\n"
+msgstr "%s: Файлът %s не може да бъде отворен.\n"
+
+#
+# File: sci_gateway/cpp/sci_export_to_hdf5.cpp, line: 838
+#, c-format
+msgid "%s: Wrong type for input argument #%d: A string expected.\n"
+msgstr "%s: Невалиден тип на входен аргумент #%d: Очаква се низ.\n"
+
+#
+# File: sci_gateway/cpp/sci_export_to_hdf5.cpp, line: 851
+# File: sci_gateway/cpp/sci_import_from_hdf5.cpp, line: 89
+#, c-format
+msgid "%s: Wrong size for input argument #%d: A string expected.\n"
+msgstr "%s: Невалиден размер на входен аргумент #%d: Очаква се низ.\n"
+
+#
+# File: sci_gateway/cpp/sci_export_to_hdf5.cpp, line: 852
+#, c-format
+msgid "%s: Type: %dx%d\n"
+msgstr "%s: Тип: %dx%d\n"
+
+#
+# File: sci_gateway/cpp/sci_import_from_hdf5.cpp, line: 112
+#, c-format
+msgid "%s: Unable to open file: %s\n"
+msgstr "%s: Невъзможно отварянето на файл: %s\n"
+
+#
+# File: sci_gateway/cpp/sci_import_from_hdf5.cpp, line: 230
+#, c-format
+msgid "%s: Invalid HDF5 Scilab format.\n"
+msgstr "%s: Невалиден HDF5 Scilab формат.\n"
+
+#
+# File: sci_gateway/cpp/sci_no_hdf5.cpp, line: 21
+# File: sci_gateway/cpp/sci_no_hdf5.cpp, line: 27
+# File: sci_gateway/cpp/sci_no_hdf5.cpp, line: 34
+msgid "HDF5 is not installed"
+msgstr "HDF5 не е инсталиран"
+
+

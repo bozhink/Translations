@@ -1,0 +1,89 @@
+# Slovak translation for scilab
+# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
+# This file is distributed under the same license as the scilab package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: scilab\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-03-09 11:38+0100\n"
+"PO-Revision-Date: 2010-12-03 14:39+0000\n"
+"Last-Translator: Ondrej Staš <Unknown>\n"
+"Language-Team: Slovak <sk@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2011-11-07 21:38+0000\n"
+"X-Generator: Launchpad (build 14231)\n"
+
+msgid "mexPutFull failed\n"
+msgstr "mexPutFull zlyhal\n"
+
+msgid "No more memory available: increase stacksize"
+msgstr "Nie je dostupný dostatok pamäte: zvýšte veľkosť zásobníka"
+
+msgid "Routine mxIsSingle not implemented.\n"
+msgstr "Rutina mxIsSingle nie je implementovaná.\n"
+
+msgid "Variable is not logical."
+msgstr "Premenná nie je logická."
+
+msgid "No more memory available: increase stacksize."
+msgstr "Nie je dostupný dostatok pamäte: zvýšte veľkosť zásobníka."
+
+msgid "Warning: "
+msgstr "Upozornenie: "
+
+msgid "mexCallSCILAB: invalid pointer passed to called function."
+msgstr "mexCallSCILAB: neplatný ukazovateľ pre volanie funkcie."
+
+msgid "mexCallSCILAB: evaluation failed. "
+msgstr "mexCallSCILAB: vyhodnotenie zlyhalo. "
+
+msgid "GetElementSize error."
+msgstr "GetElementSize chyba."
+
+msgid "Function mexPutArray is obsolete, use mexPutVariable!\n"
+msgstr "Funkcia mexPutArray is neplatná, použi mexPutVariable!\n"
+
+msgid "Routine mxSetName not implemented !\n"
+msgstr "Rutina mxSetName nie je implementovaná !\n"
+
+msgid "Routine mxSetData not implemented.\n"
+msgstr "Rutina mxSetData nie je implementovaná.\n"
+
+msgid "Last warning"
+msgstr "Posledné varovanie"
+
+msgid "Warning"
+msgstr "Upozornenie"
+
+#, c-format
+msgid "%s: mxSetPr overwriting destination by %i bytes.\n"
+msgstr "%s: mxSetPr prepisuje cieľ  %i -timi bajtmi.\n"
+
+#, c-format
+msgid "%s: mxSetPi overwriting destination by %i bytes.\n"
+msgstr "%s: mxSetPi prepisuje cieľ  %i -timi bajtmi.\n"
+
+msgid "Routine mxGetName not implemented.\n"
+msgstr "Rutina mxGetName nie je implementovaná.\n"
+
+msgid "Routine mxSetDimensions not implemented.\n"
+msgstr "Rutinae mxSetDimensions nie je implementovaná.\n"
+
+msgid "Invalid string matrix (at most one column!)"
+msgstr "Chybná matica reťazcov (najviac jeden stĺpec!)"
+
+msgid "Column length of string matrix must agree!"
+msgstr "Stĺpcová dĺžka reťazcovej matice musí súhlasiť!"
+
+msgid "Use mtlb_sparse(sparse( ))!"
+msgstr "Použi mtlb_sparse(sparse( ))!"
+
+msgid "Invalid input"
+msgstr "Chybný vstup"
+
+msgid "No more memory"
+msgstr "Nedostatok pamäte"

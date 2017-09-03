@@ -1,0 +1,130 @@
+# Indonesian translation for scilab
+# Copyright (c) 2009 Rosetta Contributors and Canonical Ltd 2009
+# This file is distributed under the same license as the scilab package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: scilab\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-10-03 10:34+0100\n"
+"PO-Revision-Date: 2010-12-14 05:07+0000\n"
+"Last-Translator: Waluyo Adi Siswanto <Unknown>\n"
+"Language-Team: Indonesian <id@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2011-11-07 21:35+0000\n"
+"X-Generator: Launchpad (build 14231)\n"
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: String array expected.\n"
+msgstr ""
+"%s: Kesalahan tipe untuk argumen masukan #%d: Diharapkan array string.\n"
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: A scalar expected.\n"
+msgstr "%s: Kesalahan tipe untuk argumen masukan #%d: Diharapkan skalar.\n"
+
+#, c-format
+msgid "%s: An error occurred: %s\n"
+msgstr "%s: Ada kesalahan : %s\n"
+
+msgid "filename not defined."
+msgstr "nama berkas belum didefinisikan"
+
+#, c-format
+msgid "%s: Wrong value for input argument #%d: Must be '%s' or '%s'.\n"
+msgstr ""
+"%s: Kesalahan angka untuk argumen masukan #%d: Harus '%s' atau '%s'.\n"
+
+#, c-format
+msgid "%s: Wrong value for input argument #%d: \"%s\" expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Memory allocation error.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong size for input argument #%d.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong value for input argument #%d.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: Must be in the interval [%d, %d].\n"
+msgstr ""
+"%s: Kesalahan angka untuk argumen masukan #%d: Harus dalam interval [%d, "
+"%d].\n"
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: A boolean expected.\n"
+msgstr "%s: Kesalahan tipe untuk argumen masukan #%d: Diharapkan bolean.\n"
+
+msgid "Begin Session : "
+msgstr "Mulai Sesi : "
+
+msgid "Sun"
+msgstr "Mng"
+
+msgid "Mon"
+msgstr "Sen"
+
+msgid "Tue"
+msgstr "Sel"
+
+msgid "Wed"
+msgstr "Rab"
+
+msgid "Thu"
+msgstr "Kam"
+
+msgid "Fri"
+msgstr "Jum"
+
+msgid "Sat"
+msgstr "Sab"
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "Feb"
+msgstr "Feb"
+
+msgid "Mar"
+msgstr "Mar"
+
+msgid "Apr"
+msgstr "Apr"
+
+msgid "May"
+msgstr "Mei"
+
+msgid "Jun"
+msgstr "Jun"
+
+msgid "Jul"
+msgstr "Jul"
+
+msgid "Aug"
+msgstr "Ags"
+
+msgid "Sep"
+msgstr "Sep"
+
+msgid "Oct"
+msgstr "Okt"
+
+msgid "Nov"
+msgstr "Nov"
+
+msgid "Dec"
+msgstr "Des"

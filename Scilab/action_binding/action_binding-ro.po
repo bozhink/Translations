@@ -1,0 +1,46 @@
+# Romanian translation for scilab
+# Copyright (c) 2009 Rosetta Contributors and Canonical Ltd 2009
+# This file is distributed under the same license as the scilab package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: scilab\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-10-03 10:34+0100\n"
+"PO-Revision-Date: 2011-10-04 23:42+0000\n"
+"Last-Translator: Nicolae Crefelean <Unknown>\n"
+"Language-Team: Romanian <ro@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2011-11-07 21:34+0000\n"
+"X-Generator: Launchpad (build 14231)\n"
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: A string expected.\n"
+msgstr ""
+"%s: Tip gresit pentru argumentul de intrare #%d: asteptat un sir de "
+"caractere.\n"
+
+#, c-format
+msgid "%s: No more memory.\n"
+msgstr "%s: Memorie indisponibilă\n"
+
+#, c-format
+msgid ""
+"%s: A Java exception arisen:\n"
+"%s"
+msgstr ""
+"%s: O excepție Java întâmpinată:\n"
+"%s"
+
+msgid "Same command executed again"
+msgstr "Comanda a fost executată din nou"
+
+msgid "Unable to communicate with the interpreter"
+msgstr "Nu se poate comunica cu interpretorul"
+
+#, c-format
+msgid "Scilab '%s' module not installed.\n"
+msgstr "Modulul Scilab '%s' nu este instalat.\n"

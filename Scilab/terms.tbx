@@ -1,0 +1,3256 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE martif PUBLIC 'ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN' 'TBXcdv04.dtd'>
+<martif type="TBX" xml:lang="en_US">
+    <text>
+        <body>
+        <termEntry id="божин_ангелов_караиванов-7">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>array</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>масив</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="божин_ангелов_караиванов-8">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>vector</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>вектор</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="божин_ангелов_караиванов-10">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>wrong type for input argument</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>невалиден тип на входен аргумент</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="божин_ангелов_караиванов-11">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>real matrix expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очаква се реална матрица</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="божин_ангелов_караиванов-12">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>wrong value for input argument</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>невалидна стойност на входен аргумент</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="божин_ангелов_караиванов-13">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>wrong size for input argument</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>невалиден размер на входен аргумент</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+    <termEntry id="bozhin_karaivanov-0">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>unknown type</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>неизвестен тип</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-1">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>wrong number of input argument(s)</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>невалиден брой на входните параметри</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+    <termEntry id="bozhin_karaivanov-2">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>Очаква се</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-3">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>a matrix expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очаква се матрица</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-4">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>a string expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очаква се низ</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-5">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>sparse vectors expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очакват се разредени вектори</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-7">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>must be in the interval</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>трябва да бъде в интервала</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+    <termEntry id="bozhin_karaivanov-6">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>real or complex matrix expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очаква се реална или комплексна матрица</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-8">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>a square matrix expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очаква се квадратна матрица</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-9">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>matrix of strings expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очаква се матрица от низове</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-10">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>integer expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очаква се цяло число</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-12">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>no more memory</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>няма повече памет</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-13">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>matrix of strings</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>матрица от низове</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-16">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>must be between %d and %d</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>трябва да бъде между %d и %d</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-17">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>wrong input argument</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>невалиден входен аргумент</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-18">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>at least %d expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очакват се поне %d</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-19">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>an unsigned integer expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очаква се цяло число без знак</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-20">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>a real expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очаква се реално число</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-21">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>wrong type for input arguments</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>невалиден тип на входните аргументи</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-22">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>same types expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очакват се еднакви типове</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-23">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>wrong size for input arguments</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>невалиден размер на входните аргументи</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-24">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>same size expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очаква се същият размер</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-25">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>unsigned integer</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>цяло число без знак</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+    <termEntry id="bozhin_karaivanov-11">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>same sizes expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очакват се еднакви размери</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-14">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>scalar/matrix of unsigned integers  expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очаква се скалар/матрица от цели числа без знак</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-15">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>a positive real expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очаква се положително реално число</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-26">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>must be</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>трябва да бъде</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-27">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>matrix of string expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очаква се матрица от низове</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-28">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>wrong number of input arguments</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>невалиден брой на входните аргументи</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-29">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>wrong type for argument</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>невалиден тип на аргумент</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-30">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>matrix expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очаква се матрица</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-31">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>incompatible input arguments</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>несъвместими входни аргументи</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-32">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>matrix is not diagonalisable</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>матрицата е недиагонализируема</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-33">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>scalar/vector/matrix of positive  integers expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очаква се скалар/вектор/матрица от положителни цели числа</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-34">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>a positive integer expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очаква се положително цяло число</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-35">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>scalar</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>скалар</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-36">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>matrix</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>матрица</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-37">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>hypermatrix</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>хиперматрица</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-38">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>positive integers</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>положителни цели числа</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-39">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>at most</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>не повече от</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-40">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>square matrix expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очаква се квадратна матрица</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-41">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>wrong number of output arguments</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>невалиден брой на изходните аргументи</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-42">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>at most %d expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очакват се не повече от %d</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-43">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>same number  expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очаква се еднакъв брой</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-44">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>wrong argument</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>невалиден аргумент</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-45">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>positive integer expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очаква се положително цяло число</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-46">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>vector expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очаква се вектор</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-47">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>wrong size for argument</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>невалиден размер на аргумент</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-48">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>a real scalar or vector expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очаква се реален скалар или вектор</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-49">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>a real scalar expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очаква се реален скалар</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-50">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>equal to</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>равно на</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-51">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>same type expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очакват се еднакви типове</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-52">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>incompatible sizes</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>несъвместими размери</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-53">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>wrong values for input argument</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>невалидни стойности на входен аргумент</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-54">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>wrong value for input arguments</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>невалидни стойности на входни аргументи</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+    <termEntry id="bozhin_karaivanov-55">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>size incompatibility between grid points and values</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>несъвместими размери на точките в решетката и стойностите</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-56">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>size incompatibility between grid points and grid values</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>несъвместими размери на точките в решетката и стойностите в решетката</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-57">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>warning</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>внимание</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-58">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>vector of same size  expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очаква се вектор със същия размер</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+    <termEntry id="bozhin_karaivanov-59">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>non-negative</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>неотрицателен</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+    <termEntry id="bozhin_karaivanov-60">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>wrong parameter type</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>невалиден тип на параметъра</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-61">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>return default value</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>върната е стойност по подразбиране</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-62">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>default value</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>стойност по подразбиране</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-63">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>min bound</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>минимална граница</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-64">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>max bound</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>максимална граница</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-65">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>wrong value for parameter</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>невалидна стойност за параметъра</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-66">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>wrong parameter type</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>невалиден тип на параметъра</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-67">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>invalid argument address</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>невалиден адрес на аргумента</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-68">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>invalid argument type</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>невалиден тип на аргумента</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-69">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>invalid variable name</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>невалидно име на променлива</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-70">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>variable</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>променлива</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-71">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>a scalar expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очаква се скалар</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-72">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>unable to get</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>не може да вземе</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-73">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>argument</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>аргумент</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+    <termEntry id="bozhin_karaivanov-74">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>wrong size of input argument</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>невалиден размер на входен аргумент</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+    <termEntry id="bozhin_karaivanov-75">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>wrong number of input argument</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>невалиден брой входни аргументи</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-76">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>%d to %d expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очакват се %d до %d</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-77">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>string matrix</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>низова матрица</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-78">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>%d or %d expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очакват се %d или %d</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-79">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>is needed by</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>се изисква от</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+    <termEntry id="bozhin_karaivanov-80">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>error</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>грешка</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-81">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>invalid</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>невалиден</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-82">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>problem</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>проблем</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-83">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>same size expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очакват се еднакви размери</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+    <termEntry id="bozhin_karaivanov-84">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>linear dynamical system</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>линейна динамична система</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-85">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term/>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term/>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-86">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>must be in the set</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>трябва да бъде в множеството</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-87">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term/>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term/>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-88">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>input argument</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>входният аргумент</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-89">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term/>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term/>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-90">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>value</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>стойност</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-91">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>parameter</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>параметър</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-92">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term/>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term/>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-93">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>parameter not found</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>параметърът не е намерен</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-94">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>wrong size for parameter</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>невалиден размер за параметър</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-95">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>requested</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>изисква се</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-96">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>not defined</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>не е дефиниран</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-97">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>string expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очаква се низ</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-98">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>parameter doesn't exist</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>параметърът не съществува</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+    <termEntry id="bozhin_karaivanov-99">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>and</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>и</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-100">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>same column dimensions  expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очакват се еднакви размери на колоните</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-101">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>linear dynamical system</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>линейна динамична система</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-102">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>row vector</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>вектор-ред</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-103">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>same number of elements</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>еднакъв брой елементи</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-104">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>same number</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>еднакъв брой</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+    <termEntry id="bozhin_karaivanov-105">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>or</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>или</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-106">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>wrong number of output argument(s)</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>невалиден брой на изходните аргументи</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-107">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>this feature has not been implemented</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>тази функция не е приложима</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-108">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>console</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>конзола</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-109">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>must have at least</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>трябва да има поне</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-110">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>insertion</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>вмъкване</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-111">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>arguments</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>аргументи</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-112">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>non-negative  integers</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>неотрицателни цели числа</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-113">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>file</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>файл</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-114">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>tools</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>инструменти</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-115">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>edit</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>редактиране</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+    <termEntry id="bozhin_karaivanov-116">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>error message</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>съобщение за грешка</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-117">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>assertion failed</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>провал в съгласуването</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-118">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>error number</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>номер на грешка</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+    <termEntry id="bozhin_karaivanov-119">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>this feature has not been implemented</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>тази възможност не е приложима</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-120">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>character arrays</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>буквени масиви</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-121">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>wrong</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>невалиден</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-122">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>size</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>размер</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-123">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>wrong size</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>невалиден размер</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-124">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>vector expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очаква се вектор</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-125">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>close</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>затвори</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-126">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>jan</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>януари</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-127">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>cannot open file</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>файлът не може да бъде отворен</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-128">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>the format</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>форматът</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-129">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>unknown</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>неизвестен</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-130">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>end of file</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>краят на файла</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-131">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>column vector expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очаква се вектор сълб</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-132">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>column vector</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>вектор сълб</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-133">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>the normalization</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>нормализиращият</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-134">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>factor is zero</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>фактор е нула</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-135">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>factor</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>фактор</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-136">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>is zero</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>е нула</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-137">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>the file</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>файлът</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-138">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>does not exist</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>не съществува</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-139">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>the content</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>съдържанието</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-140">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>cannot close file %s</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>файлът %s не може да бъде затворен</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-141">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>cannot open file %s</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>файлът %s не може да бъде отворен</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-142">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>%d to %d expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очакват се от %d до %d</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-143">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>output arguments</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>изходните аргументи</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-144">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term> input  arguments</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>входните аргументи</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-145">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>input argument</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>входен аргумент</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-146">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>see</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>виж</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-147">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>test failed</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>тестът се провали</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+    <termEntry id="bozhin_karaivanov-148">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>function</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>функция</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-149">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>integer value expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очаква се целочислена стойност</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-150">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>must be in the interval</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>трябва да бъде в интервала</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-151">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>wrong module name</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>невалидно име на модул</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-152">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>strings expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очакват се низове</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-153">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>cannot allocate memory</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>не може да бъде заделена памет</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-154">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>out of bounds value</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>стойност извън границите</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-155">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>not in</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>не е в</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-156">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>incorrect</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>некоректно</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-157">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>a scalar or a string expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очаква се скалар или низ</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-158">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>string</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>низ</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-159">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>gateway</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>шлюз</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-160">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>invalid module name</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>невалидно име на модул</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-161">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>module</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>модул</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-162">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>name</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>име</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-163">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>Очакват се</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-164">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>exists</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>съществува</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-165">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>already</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>вече</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-166">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>already exists</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>вече съществува</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-167">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>unknown error</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>неизвестна грешка</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+    <termEntry id="bozhin_karaivanov-168">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>internal functions</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>вътрешни функции</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-169">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>commands</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>команди</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-170">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>variables</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>променливи</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-171">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>impossible</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>невъзможно е</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-172">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>aborting</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>прекратяване</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-173">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>current</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>текущ</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-174">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>computation</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>изчисление</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-175">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>not a valid</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>не е валиден</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-176">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>id</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>идентификатор</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-177">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>ID</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>идентификатор</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-178">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>environment variable</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>променлива на средата</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-179">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>module not found</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>модулът не е намерен</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-180">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>instead of</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>вместо</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+    <termEntry id="bozhin_karaivanov-181">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>operator</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>оператор</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+    <termEntry id="bozhin_karaivanov-182">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>functions</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>функциите</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-183">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term/>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term/>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-184">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>information</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>информация</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-185">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>should be</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>трябва да бъде</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-186">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>at least</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>поне</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-187">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>list element</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>списъчен елемент</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-188">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>boolean matrix expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очаква се булева матрица</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-189">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>sparse matrix expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очаква се разредена матрица</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-190">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>real vector expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очаква се реален вектор</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-191">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>scalar expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очаква се скалар</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-192">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>string matrix expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очаква се низова матрица</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-193">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>list expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очаква се списък</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-194">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>int matrix</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>матрица от цели числа</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bozhin_karaivanov-195">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>row vector expected</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>очаква се вектор-ред</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+    <termEntry id="божин_ангелов_караиванов-0">
+        <langSet xml:lang="en_US">
+          <ntig>
+            <termGrp>
+              <term>not found</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="bg">
+          <ntig>
+            <termGrp>
+              <term>не е намерен</term>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+    </body>
+    </text>
+</martif>

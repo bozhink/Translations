@@ -1,0 +1,329 @@
+# Indonesian translation for scilab
+# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
+# This file is distributed under the same license as the scilab package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: scilab\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-10-03 10:33+0100\n"
+"PO-Revision-Date: 2010-01-03 03:52+0000\n"
+"Last-Translator: Waluyo Adi Siswanto <Unknown>\n"
+"Language-Team: Indonesian <id@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2011-11-07 21:36+0000\n"
+"X-Generator: Launchpad (build 14231)\n"
+
+#, c-format
+msgid "sparse: panic in file `%s' at line %d.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: A zero was encountered on the diagonal the matrix.\n"
+msgstr ""
+
+#, c-format
+msgid "Reordering,  Step = %1d\n"
+msgstr ""
+
+#, c-format
+msgid "Operation count for inner loop of factorization = %d.\n"
+msgstr ""
+
+#, c-format
+msgid "Pivot found at %1d,%1d using "
+msgstr ""
+
+#, c-format
+msgid ""
+"MATRIX SUMMARY\n"
+"\n"
+msgstr ""
+
+#, c-format
+msgid "Size of matrix = %1u x %1u.\n"
+msgstr ""
+
+#, c-format
+msgid "Matrix has been reordered.\n"
+msgstr ""
+
+#, c-format
+msgid "Matrix after factorization:\n"
+msgstr ""
+
+#, c-format
+msgid "Matrix before factorization:\n"
+msgstr ""
+
+#, c-format
+msgid "Columns %1d to %1d.\n"
+msgstr "Kolom %1d sampai %1d.\n"
+
+#, c-format
+msgid ""
+"\n"
+"Largest element in matrix = %-1.4lg.\n"
+msgstr ""
+
+#, c-format
+msgid "Smallest element in matrix = %-1.4lg.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"\n"
+"Largest diagonal element = %-1.4lg.\n"
+msgstr ""
+
+#, c-format
+msgid "Smallest diagonal element = %-1.4lg.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"\n"
+"Largest pivot element = %-1.4lg.\n"
+msgstr ""
+
+#, c-format
+msgid "Smallest pivot element = %-1.4lg.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"\n"
+"Density = %2.2lf%%.\n"
+msgstr ""
+
+#, c-format
+msgid "Number of fill-ins = %1d.\n"
+msgstr ""
+
+#, c-format
+msgid "Warning : The following matrix is factored in to LU form.\n"
+msgstr ""
+
+#, c-format
+msgid "Matrix has not been factored.\n"
+msgstr ""
+
+#, c-format
+msgid "|||  Starting new matrix  |||\n"
+msgstr ""
+
+#, c-format
+msgid "Matrix is complex.\n"
+msgstr ""
+
+#, c-format
+msgid "Matrix is real.\n"
+msgstr ""
+
+#, c-format
+msgid "     Initial number of elements = %d\n"
+msgstr ""
+
+#, c-format
+msgid "     Initial average number of elements per row = %lf\n"
+msgstr ""
+
+#, c-format
+msgid "     Fill-ins = %d\n"
+msgstr ""
+
+#, c-format
+msgid "     Average number of fill-ins per row = %lf%%\n"
+msgstr ""
+
+#, c-format
+msgid "     Total number of elements = %d\n"
+msgstr ""
+
+#, c-format
+msgid "     Average number of elements per row = %lf\n"
+msgstr ""
+
+#, c-format
+msgid "     Density = %lf%%\n"
+msgstr ""
+
+#, c-format
+msgid "     Relative Threshold = %e\n"
+msgstr ""
+
+#, c-format
+msgid "     Absolute Threshold = %e\n"
+msgstr ""
+
+#, c-format
+msgid "     Largest Element = %e\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"     Smallest Element = %e\n"
+"\n"
+"\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong number of input arguments: %d to %d expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong number of output arguments: %d to %d expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong size for input argument #%d: %s has size %d, but %d is expected.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: %s=%d, but a positive value is "
+"expected.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: %s=%s, but a floating point integer "
+"is expected.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: %s=%d, which does not match %s: %d.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: %s=%d, which does not match size of "
+"%s: %d.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong number of input argument: At least %d expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong size for input argument #%d: Square matrix expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong size for input argument #%d: Column vector expected.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong size for input argument #%d: Same size as input argument #%d "
+"expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong size for input argument #%d: Scalar expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Did not converge.\n"
+msgstr ""
+
+#, c-format
+msgid "Arguments:\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: Square matrix expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: Column vector expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: Scalar expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong value for input argument #%d: Column vector expected.\n"
+msgstr ""
+
+#, c-format
+msgid "Norm of right-hand side : %s\n"
+msgstr ""
+
+#, c-format
+msgid "Special processing where the right-hand side is zero.\n"
+msgstr ""
+
+#, c-format
+msgid "  Type of preconditionning #1 : %d\n"
+msgstr ""
+
+#, c-format
+msgid "  Type of preconditionning #2 : %d\n"
+msgstr ""
+
+#, c-format
+msgid "  New residual = %s < tol = %s => break\n"
+msgstr ""
+
+#, c-format
+msgid "  Iteration #%s/%s residual : %s\n"
+msgstr ""
+
+#, c-format
+msgid "Final residual = %s > tol =%s\n"
+msgstr ""
+
+#, c-format
+msgid "Algorithm fails\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Convergence error.\n"
+msgstr ""
+
+#, c-format
+msgid "Algorithm pass\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong number of input arguments: At least %d expected.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong type for input argument #%d: Transpose of the function %s "
+"expected.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: Transpose of the function %s "
+"expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong value for input argument #%d: Vector expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong number of input arguments: %d or %d expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: A string expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong value for input argument #%d: '%s' or '%s' expected.\n"
+msgstr ""

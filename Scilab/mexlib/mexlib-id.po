@@ -1,0 +1,90 @@
+# Indonesian translation for scilab
+# Copyright (c) 2009 Rosetta Contributors and Canonical Ltd 2009
+# This file is distributed under the same license as the scilab package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: scilab\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-03-09 11:38+0100\n"
+"PO-Revision-Date: 2010-01-09 03:58+0000\n"
+"Last-Translator: Waluyo Adi Siswanto <Unknown>\n"
+"Language-Team: Indonesian <id@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2011-11-07 21:38+0000\n"
+"X-Generator: Launchpad (build 14231)\n"
+
+msgid "mexPutFull failed\n"
+msgstr "mexPutFull gagal\n"
+
+msgid "No more memory available: increase stacksize"
+msgstr "Memori tidak cukup: naikkan ukuran stack"
+
+msgid "Routine mxIsSingle not implemented.\n"
+msgstr "Rutin mxIsSingle tidak diimplementasikan.\n"
+
+msgid "Variable is not logical."
+msgstr "Bukan variabel logika."
+
+msgid "No more memory available: increase stacksize."
+msgstr "Memori tidak cukup: naikkan ukuran stack."
+
+msgid "Warning: "
+msgstr "Peringatan: "
+
+msgid "mexCallSCILAB: invalid pointer passed to called function."
+msgstr ""
+"mexCallSCILAB: pointer yang tidak sah dilewatkan ke fungsi yang dipanggil."
+
+msgid "mexCallSCILAB: evaluation failed. "
+msgstr "mexCallSCILAB: evaluasi gagal. "
+
+msgid "GetElementSize error."
+msgstr "Kesalahan GetElementSize."
+
+msgid "Function mexPutArray is obsolete, use mexPutVariable!\n"
+msgstr "Fungsi mexPutArray sudah kedaluarsa, gunakan mexPutVariable!\n"
+
+msgid "Routine mxSetName not implemented !\n"
+msgstr "Rutin mxSetName tidak diimplementasikan.\n"
+
+msgid "Routine mxSetData not implemented.\n"
+msgstr "Rutin mxSetData tidak diimplementasikan.\n"
+
+msgid "Last warning"
+msgstr "Peringatan terakhir"
+
+msgid "Warning"
+msgstr "Peringatan"
+
+#, c-format
+msgid "%s: mxSetPr overwriting destination by %i bytes.\n"
+msgstr "%s: mxSetPr menindih tujuan sebesar %i bytes.\n"
+
+#, c-format
+msgid "%s: mxSetPi overwriting destination by %i bytes.\n"
+msgstr "%s: mxSetPi menindih tujuan sebesar %i bytes.\n"
+
+msgid "Routine mxGetName not implemented.\n"
+msgstr "Rutin mxGetName tidak diimplementasikan.\n"
+
+msgid "Routine mxSetDimensions not implemented.\n"
+msgstr "Rutin mxSetDimensions tidak diimplementasikan.\n"
+
+msgid "Invalid string matrix (at most one column!)"
+msgstr "Matriks string tidak sah (paling banyak satu kolom!)"
+
+msgid "Column length of string matrix must agree!"
+msgstr "Panjang kolom dari matriks string harus sesuai!"
+
+msgid "Use mtlb_sparse(sparse( ))!"
+msgstr "Gunakan mtlb_sparse(sparse( ))!"
+
+msgid "Invalid input"
+msgstr "Masukan salah"
+
+msgid "No more memory"
+msgstr "Tidak cukup memori"

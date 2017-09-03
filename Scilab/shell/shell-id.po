@@ -1,0 +1,85 @@
+# Indonesian translation for scilab
+# Copyright (c) 2009 Rosetta Contributors and Canonical Ltd 2009
+# This file is distributed under the same license as the scilab package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: scilab\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-03-09 11:38+0100\n"
+"PO-Revision-Date: 2010-12-14 05:10+0000\n"
+"Last-Translator: Waluyo Adi Siswanto <Unknown>\n"
+"Language-Team: Indonesian <id@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2011-11-07 21:36+0000\n"
+"X-Generator: Launchpad (build 14231)\n"
+
+#, c-format
+msgid "%s: Not implemented in this mode.\n"
+msgstr "%s: Belum diimplementasikan dalam mode ini.\n"
+
+#, c-format
+msgid "%s: This feature has not been implemented in this mode.\n"
+msgstr "%s: Pada mode ini, fitur ini belum diimplementasikan.\n"
+
+#, c-format
+msgid "%s: This feature has not been implemented.\n"
+msgstr "%s: fitur ini belum diimplementasikan.\n"
+
+#, c-format
+msgid "%s: Wrong number of output argument(s).\n"
+msgstr "%s: Angka yang salah untuk argumen keluaran.\n"
+
+#, c-format
+msgid "%s: Wrong size for input argument #%d: A string expected.\n"
+msgstr ""
+"%s: Kesalahan ukuran untuk argumen masukan #%d: Tanda string diperlukan.\n"
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: A string expected.\n"
+msgstr ""
+"%s: Kesalahan tipe pada argumen masukan #%d: Diperlukan tanda string.\n"
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: Matrix expected.\n"
+msgstr "%s: Kesalahan tipe untuk argumen masukan #%d: Matriks diperlukan.\n"
+
+#, c-format
+msgid "%s: Wrong value for input argument #%d.\n"
+msgstr "%s: Kesalahan angka untuk argumen masukan #%d.\n"
+
+msgid "File or Directory"
+msgstr "Berkas atau Direktori"
+
+msgid "Graphics handle field"
+msgstr "Ruas untuk mengatur grafik"
+
+msgid "Scilab Command"
+msgstr "Perintah Scilab"
+
+msgid "Scilab Fields"
+msgstr "Bidang Scilab"
+
+msgid "Scilab Function"
+msgstr "Fungsi Scilab"
+
+msgid "Scilab Macro"
+msgstr "Makro Scilab"
+
+msgid "Scilab Variable"
+msgstr "Variabel Scilab"
+
+#, c-format
+msgid ""
+"Type '%s' or '%s' to return to standard level prompt.\n"
+"\n"
+msgstr ""
+"Tulis '%s' atau '%s' untuk kembali ke prompt standar.\n"
+"\n"
+
+msgid "[Continue display? n (no) to stop, any other key to continue]"
+msgstr ""
+"[Terus menampilkan? n (tidak) untuk berhenti, tombol lain untuk terus]"

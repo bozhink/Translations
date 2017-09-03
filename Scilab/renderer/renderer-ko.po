@@ -1,0 +1,42 @@
+# Korean translation for scilab
+# Copyright (c) 2009 Rosetta Contributors and Canonical Ltd 2009
+# This file is distributed under the same license as the scilab package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: scilab\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-10-03 10:33+0100\n"
+"PO-Revision-Date: 2009-09-09 10:15+0000\n"
+"Last-Translator: sungyup nham <Unknown>\n"
+"Language-Team: Korean <ko@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2011-11-07 21:38+0000\n"
+"X-Generator: Launchpad (build 14231)\n"
+
+#, c-format
+msgid "%s: No more memory.\n"
+msgstr "%s: 더이상의 메모리가 없습니다.\n"
+
+msgid "Unable to render polyline, memory full.\n"
+msgstr "polyline을 그릴수 없음, 메모리 꽉참.\n"
+
+#, c-format
+msgid ""
+"Warning !!!\n"
+"Scilab has found a critical error (%s).\n"
+"Save your data and restart Scilab.\n"
+msgstr ""
+"경고 !!!\n"
+"Scilab  치명적인 에러를 발견함 (%s).\n"
+"당신의 데이터를 저장하고 Scilab을 재시동 하시오.\n"
+
+msgid ""
+"Click on an Axes object to start rotation. Right click or ESCAPE to cancel."
+msgstr "회전을 시작하려면 좌표축을 클릭하세요. 오른쪽 클릭 혹은 이스케입키는 취소입니다."
+
+msgid "Click or press ESCAPE to terminate rotation."
+msgstr "클릭 혹은 이스케입키를 눌러 회전을 종료하시오."

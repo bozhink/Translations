@@ -1,0 +1,396 @@
+# Indonesian translation for scilab
+# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
+# This file is distributed under the same license as the scilab package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: scilab\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-10-03 10:33+0100\n"
+"PO-Revision-Date: 2010-12-14 05:18+0000\n"
+"Last-Translator: Waluyo Adi Siswanto <Unknown>\n"
+"Language-Team: Indonesian <id@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2011-11-07 21:34+0000\n"
+"X-Generator: Launchpad (build 14231)\n"
+
+msgid "X,Y,A and B"
+msgstr "X,Y,A dan B"
+
+msgid "A,B,P and Q"
+msgstr "A,B,P dan Q"
+
+msgid "B,P,Q,X and Y"
+msgstr "B,P,Q,X dan Y"
+
+msgid "P,Q,X,Y and A"
+msgstr "P,Q,X,Y dan A"
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: '%s', '%s', '%s' or '%s' expected.\n"
+msgstr ""
+"%s: Kesalahan angka untuk argumen masukan #%d: '%s', '%s', '%s' atau '%s' "
+"diharapkan.\n"
+
+msgid "S,Xn,Pr and Ompr"
+msgstr "S,Xn,Pr dan Ompr"
+
+msgid "Xn,Pr,Ompr,P and Q"
+msgstr "Xn,Pr,Ompr,P dan Q"
+
+msgid "Pr,OMPr,P,Q and S"
+msgstr "Pr,OMPr,P,Q dan S"
+
+msgid "P,Q,S  and Xn"
+msgstr "P,Q,S  dan Xn"
+
+msgid "X and Df"
+msgstr "X dan Df"
+
+msgid "Df, P and Q"
+msgstr "Df, P dan Q"
+
+msgid "P,Q and X"
+msgstr "P,Q dan X"
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: '%s', '%s' or '%s' expected.\n"
+msgstr ""
+"%s: Kesalahan angka untuk argumen masukan #%d: Diharapkan '%s', '%s' atau "
+"'%s'.\n"
+
+msgid "cdfchi: Error in cumgam\n"
+msgstr "cdfchi: Kesalahan di cumgam\n"
+
+msgid "X,Df and Pnonc"
+msgstr "X,Df dan Pnonc"
+
+msgid "Df,Pnonc,P and Q"
+msgstr "Df,Pnonc,P dan Q"
+
+msgid "Pnonc,P,Q and X"
+msgstr "Pnonc,P,Q dan X"
+
+msgid "P,Q,X and Df"
+msgstr "P,Q,X dan Df"
+
+msgid "F,Dfn and Dfd"
+msgstr "F,Dfn dan Dfd"
+
+msgid "Dfn,Dfd,P and Q"
+msgstr "Dfn,Dfd,P dan Q"
+
+msgid "Dfd,P,Q and F"
+msgstr "Dfd,P,Q dan F"
+
+msgid "P,Q,F and Dfn"
+msgstr "P,Q,F dan Dfn"
+
+msgid "F,Dfn,Dfd and Pnonc"
+msgstr "F,Dfn,Dfd dan Pnonc"
+
+msgid "Dfn,Dfd,Pnonc,P and Q"
+msgstr "Dfn,Dfd,Pnonc,P dan Q"
+
+msgid "Dfd,Pnonc,P,Q and F"
+msgstr "Dfd,Pnonc,P,Q dan F"
+
+msgid "Pnonc,P,Q,F and Dfn"
+msgstr "Pnonc,P,Q,F dan Dfn"
+
+msgid "P,Q,F,Dfn and Dfd"
+msgstr "P,Q,F,Dfn dan Dfd"
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: '%s', '%s', '%s', '%s' or '%s' "
+"expected.\n"
+msgstr ""
+"%s: Kesalahan angka untuk argumen masukan #%d: Diharapkan '%s', '%s', '%s', "
+"'%s' atau '%s'.\n"
+
+msgid "X,Shape and Rate"
+msgstr "X,Bentuk dan Tingkat"
+
+msgid "Shape,Rate,P and Q"
+msgstr "Bentuk,Tingkat,P dan Q"
+
+msgid "Rate,P,Q and X"
+msgstr "Tingkat,P,Q dan X"
+
+msgid "P,Q,X and Shape"
+msgstr "P,Q,X dan Shape"
+
+msgid "S,XN,PR and OMPR"
+msgstr "S,XN,PR dan OMPR"
+
+msgid "XN,PR,OMPR,P and Q"
+msgstr "XN,PR,OMPR,P dan Q"
+
+msgid "PR,OMPR,P,Q and S"
+msgstr "PR,OMPR,P,Q dan S"
+
+msgid "P,Q,S and Xn"
+msgstr "P,Q,S dan Xn"
+
+msgid "X,Mean and Std"
+msgstr "X,Mean dan Std"
+
+msgid "Mean,Std,P and Q"
+msgstr "Mean,Std,P dan Q"
+
+msgid "Std,P,Q and X"
+msgstr "Std,P,Q dan X"
+
+msgid "P,Q,X and Mean"
+msgstr "P,Q,X dan Mean"
+
+msgid " Std must not be zero\n"
+msgstr " Std tidak boleh nol\n"
+
+msgid "S and Xlam"
+msgstr "S dan Xlam"
+
+msgid "Xlam,P and Q"
+msgstr "Xlam,P dan Q"
+
+msgid "P,Q and S"
+msgstr "P,Q dan S"
+
+msgid "T and Df"
+msgstr "T dan Df"
+
+msgid "P,Q and T"
+msgstr "P,Q dan T"
+
+#, c-format
+msgid ""
+"%s: Wrong number of input arguments with the '%s' option: %d expected.\n"
+msgstr ""
+"%s: Kesalahan nomor untuk argumen masukan dengan pilihan '%s': %d "
+"diharapkan.\n"
+
+#, c-format
+msgid "%s and %s must have same size.\n"
+msgstr "%s dan %s harus mempunyai ukuran sama.\n"
+
+#, c-format
+msgid "Answer appears to be lower than lowest search bound %f\n"
+msgstr "Jawaban tampaknya lebih rendah dari batas pencarian terendah %f\n"
+
+#, c-format
+msgid "Answer appears to be higher than greatest search bound %s\n"
+msgstr "Jawaban tampaknya lebih tinggi dari batas pencarian tertinggi %s\n"
+
+#, c-format
+msgid "Answer appears to be higher than greatest search bound %f\n"
+msgstr "Jawaban tampaknya lebih tinggi dari batas pencarian tertinggi %f\n"
+
+#, c-format
+msgid "%s: Wrong number of input arguments: %d to %d expected.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: '%s', '%s', %d or %d expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong number of input arguments: %d expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: Vector expected.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: Same number of line as first input "
+"argument expected.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: Same number of column as first input "
+"argument expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong number of input argument: At least %d expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong number of input argument: %d to %d expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong value for input argument #%d: '%s', '%s','%s', %d or %d.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong type for input argument #%d: Real vector or matrix expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: Scalar or vector expected.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: '%s', '%s','%s' or a positive number "
+"expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong number of input argument: %d expected.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: '%s', '%s', '%s', %d or %d "
+"expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong type for input arguments #%d: Numerical expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong value for input argument #%d: Must be between %d and %d.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: Numerical expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: Boolean expected."
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong type for input arguments: Numerical expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong size for both input arguments: same size expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong size for input argument #%d: Must be > %d.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong size for input argument #%d and #%d: Same size expected.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong size for input argument #%d: Same number of rows of the second "
+"input argument expected.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong size for input argument #%d: Same number of columns of the second "
+"input argument expected.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong value of input argument #%d: Less or equal than length of last "
+"input argument expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong size for input argument #%d: Size %s expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Graph demand out of bounds.\n"
+msgstr ""
+
+msgid "Correlations Circle"
+msgstr ""
+
+msgid "Eigenvalues (in percent)"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong size for input arguments #%d and #%d: Same dimensions expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong value for input argument #%d: Must be in the set {%s}.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong value for %d input argument: '%s', '%s', %d or %d expected.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong type for input argument #%d: Vector, matrix of numbers or strings "
+"expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong value for input argument #%d: '%s' or '%s' expected.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: Real number between %d to %d "
+"expected.\n"
+msgstr ""
+
+#, c-format
+msgid "Wrong value for input argument orien: %s.\n"
+msgstr ""
+
+#, c-format
+msgid "Size of x is zero : returning NaN.\n"
+msgstr ""
+
+#, c-format
+msgid "discard=%s\n"
+msgstr ""
+
+#, c-format
+msgid "orien=%s\n"
+msgstr ""
+
+#, c-format
+msgid "Size of x:%i\n"
+msgstr ""
+
+#, c-format
+msgid "Keeping %i values from %i to %i in sorted order\n"
+msgstr ""
+
+#, c-format
+msgid "Unexpected value of orien : %s\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong value of w : %d; 0 or 1 expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong value for input argument: '%s', '%s', %d or %d expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong value for input argument #%d: Must be > %d.\n"
+msgstr ""

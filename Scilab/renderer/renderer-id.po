@@ -1,0 +1,44 @@
+# Indonesian translation for scilab
+# Copyright (c) 2009 Rosetta Contributors and Canonical Ltd 2009
+# This file is distributed under the same license as the scilab package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: scilab\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-10-03 10:33+0100\n"
+"PO-Revision-Date: 2009-12-11 01:46+0000\n"
+"Last-Translator: Waluyo Adi Siswanto <Unknown>\n"
+"Language-Team: Indonesian <id@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2011-11-07 21:38+0000\n"
+"X-Generator: Launchpad (build 14231)\n"
+
+#, c-format
+msgid "%s: No more memory.\n"
+msgstr "%s: Tidak ada lagi memori\n"
+
+msgid "Unable to render polyline, memory full.\n"
+msgstr "Tidak bisa memproses polyline, memori penuh.\n"
+
+#, c-format
+msgid ""
+"Warning !!!\n"
+"Scilab has found a critical error (%s).\n"
+"Save your data and restart Scilab.\n"
+msgstr ""
+"Peringatan!!!\n"
+"Scilab mengalami kesalahan kritikal (%s).\n"
+"Simpan data anda segera dan jalankan ulang Scilab.\n"
+
+msgid ""
+"Click on an Axes object to start rotation. Right click or ESCAPE to cancel."
+msgstr ""
+"Klik pada sumbu obyek untuk memutar. Klik kanan atau ESCAPE untuk "
+"membatalkan."
+
+msgid "Click or press ESCAPE to terminate rotation."
+msgstr "Klik atau tekan ESCAPE untuk menghentikan memutar."

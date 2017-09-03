@@ -1,0 +1,103 @@
+# Romanian translation for scilab
+# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
+# This file is distributed under the same license as the scilab package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: scilab\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-10-03 10:34+0100\n"
+"PO-Revision-Date: 2010-03-09 09:10+0000\n"
+"Last-Translator: fantana gabriel <gabi_fantana@yahoo.com>\n"
+"Language-Team: Romanian <ro@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2011-11-07 21:37+0000\n"
+"X-Generator: Launchpad (build 14231)\n"
+
+#, c-format
+msgid "%s: Wrong value for input argument #%d.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: This feature has not been implemented.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: This feature has not been implemented in this mode.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Not implemented in this mode.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: A scalar expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong size for input argument #%d: A scalar expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong value for input argument #%d: A scalar (>= 0) expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: A string expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong size for input argument #%d: A string expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong number of output argument(s).\n"
+msgstr ""
+
+msgid "[Continue display? n (no) to stop, any other key to continue]"
+msgstr ""
+
+msgid "File or Directory"
+msgstr "Fisier sau Director"
+
+msgid "Scilab Fields"
+msgstr ""
+
+msgid "Scilab Function"
+msgstr "Functie Scilab"
+
+msgid "Scilab Command"
+msgstr "Comanda Scilab"
+
+msgid "Scilab Macro"
+msgstr "Macro Scilab"
+
+msgid "Scilab Variable"
+msgstr "Variabila Scilab"
+
+msgid "Graphics handle field"
+msgstr "Campul de manevra grafica"
+
+#, c-format
+msgid ""
+"Type '%s' or '%s' to return to standard level prompt.\n"
+"\n"
+msgstr ""
+
+msgid "Field"
+msgstr ""
+
+msgid "No help"
+msgstr "fara ajutor"
+
+msgid "Out of Screen"
+msgstr "In afara ecranului"
+
+msgid "Could not change the Console Font."
+msgstr "Nu s-a putut schimba Fontul Consola"
+
+msgid "Could not change the Console Foreground."
+msgstr "Nu s-a putut schimba Foreground-ul Consola"

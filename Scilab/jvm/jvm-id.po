@@ -1,0 +1,265 @@
+# Indonesian translation for scilab
+# Copyright (c) 2009 Rosetta Contributors and Canonical Ltd 2009
+# This file is distributed under the same license as the scilab package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: scilab\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-03-09 11:38+0100\n"
+"PO-Revision-Date: 2010-12-14 05:08+0000\n"
+"Last-Translator: Waluyo Adi Siswanto <Unknown>\n"
+"Language-Team: Indonesian <id@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2011-11-07 21:36+0000\n"
+"X-Generator: Launchpad (build 14231)\n"
+
+msgid "JVM interface disabled in -nogui or -nwni modes.\n"
+msgstr "Antarmuka JVM dipadamkan pada mode -nogui atau -nwni.\n"
+
+#, c-format
+msgid "%s: No more memory.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Could not add URL to system classloader : %s.\n"
+msgstr "%s: Tidak bisa menambah URL untuk sistem classloader : %s.\n"
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: String expected.\n"
+msgstr ""
+"%s: Kesalahan tipe untuk argumen input  #%d: Yang diharapkan string.\n"
+
+#, c-format
+msgid "%s: Could not add path to java.library.path: %s.\n"
+msgstr "%s: Tidak bisa menemukan jalur ke java.library.path: %s.\n"
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d or #%d: String expected.\n"
+msgstr ""
+"%s: Kesalahan untuk argumen masukan #%d atau #%d: Diharapkan string.\n"
+
+#, c-format
+msgid ""
+"\n"
+"Scilab cannot open JVM library.\n"
+msgstr ""
+"\n"
+"Scilab tidak bisa membuka pustaka JVM.\n"
+
+msgid "Error"
+msgstr "Kesalahan"
+
+msgid ""
+"\n"
+"Scilab cannot create Scilab Java Main-Class (we have not been able to find "
+"the main Scilab class. Check if the Scilab and thirdparty packages are "
+"available).\n"
+msgstr ""
+"\n"
+"Scilab tidak bisa membuat Scilab Java Main-Class (kami belum menemukan induk "
+"Scilab class. Proses mencari apakah Scilab dan paket pihak ketiga sudah "
+"menyediakan).\n"
+
+msgid ""
+"If Scilab is used from Java, make sure that your IDE (ex: Netbeans, etc) is "
+"not adding extra dependencies which could not be found at runtime.\n"
+msgstr ""
+
+msgid "Could not access to the Main Scilab Class:\n"
+msgstr "Tidak bisa akses ke Induk Scilab Class:\n"
+
+msgid "Cannot execute initial hooks. Error:\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"\n"
+"Error: Cannot return Scilab Java environment (JNIEnv_SCILAB).\n"
+msgstr ""
+"\n"
+"Kesalahan: Tidak bisa kembali ke lingkungan Java Scilab (JNIEnv_SCILAB).\n"
+
+#, c-format
+msgid ""
+"\n"
+"Error: Cannot return Scilab Java environment (jvm_SCILAB): check if the JVM "
+"has been loaded by Scilab before calling this function.\n"
+msgstr ""
+"\n"
+"Kesalahan: Tidak bisa kembali ke lingkungan Java Scilab (jvm_SCILAB): "
+"periksa jika JVM telah dimuat oleh Scilab sebelum memanggil fungsi ini.\n"
+
+#, c-format
+msgid ""
+"\n"
+"Weird error. Calling from Java but haven't been able to find the already "
+"existing JVM.\n"
+msgstr ""
+"\n"
+"Kesalahan aneh. Memanggil dari Java tetapi belum bisa menemukan JVM yang "
+"sudah ada.\n"
+
+#, c-format
+msgid ""
+"\n"
+"Could not load JVM dynamic library (libjava).\n"
+msgstr ""
+"\n"
+"Tidak bisa memuat pustaka dinamik JVM (libjava).\n"
+
+#, c-format
+msgid "Error: %s\n"
+msgstr "Salah: %s\n"
+
+#, c-format
+msgid ""
+"If you are using a binary version of Scilab, please report a bug "
+"http://bugzilla.scilab.org/.\n"
+msgstr ""
+"Apabila anda menggunakan versi biner Scilab, sebarang kutu silahkan "
+"dilaporkan http://bugzilla.scilab.org/.\n"
+
+#, c-format
+msgid ""
+"If you are using a self-built version of Scilab, update the script "
+"bin/scilab to provide the path to the JVM.\n"
+msgstr ""
+"Apabila anda menggunakan versi Scilab dibangun sendiri, perbarui skrip "
+"bin/scilab untuk menambahkan path ke JVM.\n"
+
+#, c-format
+msgid "The problem might be related to SELinux. Try to deactivate it.\n"
+msgstr ""
+"Permasalahan mungkin terkait dengan SELinux. Coba tidak diaktifkan.\n"
+
+#, c-format
+msgid ""
+"Please also check that you are not trying to run Scilab 64 bits on a 32 bits "
+"system (or vice versa).\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"\n"
+"Impossible to read %s.\n"
+msgstr ""
+"\n"
+"Tidak mungkin membaca%s.\n"
+
+#, c-format
+msgid ""
+"\n"
+"Incorrect version JNI (needs at least JDK 1.4).\n"
+msgstr ""
+"\n"
+"Versi JNI tidak sesuai (memerlukan versi paling tidak JDK 1.4).\n"
+
+#, c-format
+msgid "Error in the creation of the Java VM: %s\n"
+msgstr "Kesalahan saat pembentukan Java VM: %s\n"
+
+#, c-format
+msgid "Options:\n"
+msgstr "Pilihan:\n"
+
+#, c-format
+msgid ""
+"\n"
+"JVM error in AttachCurrentThread: Could not attach to the current thread.\n"
+msgstr ""
+"\n"
+"Kesalahan JVM di AttachCurrentThread: Tidak bisa ditambahkan ke thread "
+"sekarang.\n"
+
+msgid "Unknown JNI error"
+msgstr "Kesalahan JNI tidak dikenal"
+
+msgid "Thread detached from the VM"
+msgstr "Ulir dilepaskan dari VM"
+
+msgid "JNI version error"
+msgstr "Kesalahan versi JNI version"
+
+msgid "JNI: not enough memory"
+msgstr "JNI: tidak cukup memori"
+
+msgid "VM already created"
+msgstr "VM sudah dibuat"
+
+msgid "JNI: invalid arguments"
+msgstr "JNI: argumen tidak sah"
+
+msgid "Undefined error code in the JNI. Weird problem"
+msgstr "Kode kesalahan tidak didefinisikan dalam JNI. Kesalahan yang aneh"
+
+#, c-format
+msgid "Warning: Could not find Java package '%s'.\n"
+msgstr "Peringatan: Tidak bisa menemukan paket Java '%s'.\n"
+
+msgid "Could not access to the constructor of the Main Scilab Class:\n"
+msgstr "Tidak bisa akses ke pembangun Induk Scilab Class:\n"
+
+msgid "Could not create a Scilab main class. Error:\n"
+msgstr "Tidak bisa membuat satu induk Scilab class. Kesalahan:\n"
+
+msgid "Cannot execute final hooks. Error:\n"
+msgstr ""
+
+msgid "Error with Scilab.canClose():\n"
+msgstr ""
+
+#, c-format
+msgid "Error: Could not parse file %s.\n"
+msgstr "Kesalahan: Tidak bisa mengurai berkas %s.\n"
+
+#, c-format
+msgid ""
+"Error: Not a valid configuration file %s (encoding not '%s') Encoding '%s' "
+"found.\n"
+msgstr ""
+"Kesalahan: Bukan berkas konfigurasi yang valid %s (penyandian bukan '%s') "
+"Ditemukan penyandian '%s'.\n"
+
+#, c-format
+msgid "Error: could not parse file %s\n"
+msgstr "Eror: tidak dapat mengurai berkas %s\n"
+
+#, c-format
+msgid "Wrong format for %s.\n"
+msgstr "Kesalahan format untuk %s.\n"
+
+#, c-format
+msgid ""
+"Error : Not a valid classpath file %s (encoding not 'utf-8') Encoding '%s' "
+"found\n"
+msgstr ""
+"Kesalahan : bukan berkas classpath yang valid %s (penyandian bukan 'utf-8') "
+"Ditemukan penyandian '%s'\n"
+
+#, c-format
+msgid "Warning: could not find classpath declaration file %s.\n"
+msgstr "Peringatan: tidak bisa menemukan berkas deklarasi classpath %s.\n"
+
+#, c-format
+msgid ""
+"Some problems during the loading of the Java libraries occured.\n"
+"This could lead to inconsistent behaviours.\n"
+"Please check SCI/etc/classpath.xml.\n"
+msgstr ""
+"Ada beberapa permasalahan terjadi ketika memuat pustaka Java.\n"
+"Hal ini akan memnyebabkan perilaku yang tidak konsisten.\n"
+"Silahkan periksa SCI/etc/classpath.xml.\n"
+
+#, c-format
+msgid ""
+"Error : Not a valid path file %s (encoding not 'utf-8') Encoding '%s' found\n"
+msgstr ""
+"Kesalahan : Bukan jalur berkas yang valid %s (penyandian bukan 'utf-8') "
+"Ditemukan penyandian '%s'\n"
+
+msgid "Scilab Java module not installed.\n"
+msgstr "Modul Scilab Java tidak dipasang.\n"

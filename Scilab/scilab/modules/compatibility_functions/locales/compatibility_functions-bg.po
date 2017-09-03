@@ -1,0 +1,485 @@
+# Bozhin Karaivanov <bozhink@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: Scilab\n"
+"Report-Msgid-Bugs-To: <localization@lists.scilab.org>\n"
+"POT-Creation-Date: 2011-10-03 10:33+0100\n"
+"PO-Revision-Date: 2012-05-04 19:21+0300\n"
+"Last-Translator: Bozhin Karaivanov <bozhink@gmail.com>\n"
+"Language-Team: Bulgarian <bozhink@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2011-11-07 21:37+0000\n"
+"X-Generator: Lokalize 1.2\n"
+"Revision-Date: 2011-11-03 10:55+0100\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# File: macros/%b_cumprod.sci, line: 19
+# File: macros/%b_cumsum.sci, line: 19
+#, c-format
+msgid "%s: Wrong size for input argument #%d: A string expected.\n"
+msgstr "%s: Невалиден размер на входен аргумент #%d: Очаква се низ.\n"
+
+#
+# File: macros/%b_cumprod.sci, line: 21
+# File: macros/%b_cumsum.sci, line: 21
+#, c-format
+msgid "%s: Wrong size for input argument #%d: A scalar expected.\n"
+msgstr "%s: Невалиден размер на входен аргумент #%d: Очаква се скалар.\n"
+
+#
+# File: macros/%b_cumprod.sci, line: 28
+# File: macros/%b_cumprod.sci, line: 40
+# File: macros/%b_cumsum.sci, line: 28
+# File: macros/%b_cumsum.sci, line: 40
+#, c-format
+msgid "%s: Wrong value for input argument #%d: Must be in the set {%s}.\n"
+msgstr ""
+"%s: Невалидна стойност на входен аргумент #%d: Трябва да бъде в множеството {%"
+"s}.\n"
+
+#
+# File: macros/asciimat.sci, line: 27
+#, c-format
+msgid "%s: Wrong input argument #%d: Inconsistent size.\n"
+msgstr "%s: Невалиден входен аргумент #%d: Несъстоятелен размер.\n"
+
+#
+# File: macros/asciimat.sci, line: 40
+#, c-format
+msgid ""
+"%s: Wrong type for input argument #%d: A Real, Integer or String matrix "
+"expected.\n"
+msgstr ""
+"%s: Невалиден тип на входен аргумент #%d: Очаква се реална, целочислена или "
+"низова матрица.\n"
+
+#
+# File: macros/asciimat.sci, line: 60
+# File: macros/char.sci, line: 101
+# File: macros/mtlb_axes.sci, line: 33
+# File: macros/mtlb_box.sci, line: 36
+# File: macros/mtlb_close.sci, line: 48
+# File: macros/mtlb_delete.sci, line: 18
+#, c-format
+msgid "%s: This feature has not been implemented.\n"
+msgstr "%s: Тази възможност не е приложима.\n"
+
+#
+# File: macros/char.sci, line: 44
+# File: macros/char.sci, line: 53
+# File: macros/char.sci, line: 67
+# File: macros/char.sci, line: 76
+#, c-format
+msgid ""
+"%s: Wrong type for input argument: Cell elements must be character arrays.\n"
+msgstr ""
+"%s: Невалиден тип на входен аргумент: Елементите на клетката трябва да бъдат "
+"буквени масиви.\n"
+
+#
+# File: macros/char.sci, line: 104
+#, c-format
+msgid "%s: Wrong type for input argument: Cell expected.\n"
+msgstr "%s: Невалиден тип на входен аргумент: Очаква се клетка.\n"
+
+#
+# File: macros/char.sci, line: 119
+# File: macros/char.sci, line: 129
+#, c-format
+msgid "%s: Wrong type for input arguments: String expected.\n"
+msgstr "%s: Невалиден тип на входните аргументи: Очаква се низ.\n"
+
+#
+# File: macros/fseek_origin.sci, line: 26
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: %s, %s, %s, '%s', '%s' or '%s' "
+"expected.\n"
+msgstr ""
+"%s: Невалидна стойност на входен аргумент #%d: Очаква се %s, %s, %s, '%s', '%"
+"s' или '%s' .\n"
+
+#
+# File: macros/makecell.sci, line: 21
+#, c-format
+msgid ""
+"%s: Wrong input arguments: Dimensions given as first argument do not match "
+"specified cell contents.\n"
+msgstr ""
+"%s: Невалидни входни аргументи: Размерностите, подадени като първи аргумент, "
+"не съвпадат със съдържанието на клетката.\n"
+
+#
+# File: macros/mstr2sci.sci, line: 18
+#, c-format
+msgid "%s: This feature has not been implemented: Support for hypermatrices.\n"
+msgstr "%s: Тази възможност не е приложима: Поддръжка за хиперматрици.\n"
+
+#
+# File: macros/mstr2sci.sci, line: 22
+#, c-format
+msgid "%s: Wrong type for input argument #%d: Matrix of strings expected.\n"
+msgstr ""
+"%s: Невалиден тип на входен аргумент #%d: Очаква се матрица от низове.\n"
+
+#
+# File: macros/mtlb_axis.sci, line: 34
+#, c-format
+msgid "%s: Wrong size for '%s': Vector expected.\n"
+msgstr "%s: Невалиден размер за '%s': Очаква се вектор.\n"
+
+#
+# File: macros/mtlb_axis.sci, line: 49
+# File: macros/mtlb_axis.sci, line: 71
+# File: macros/mtlb_axis.sci, line: 87
+# File: macros/mtlb_axis.sci, line: 102
+# File: macros/mtlb_axis.sci, line: 127
+#, c-format
+msgid "%s: This feature has not been implemented: %s.\n"
+msgstr "%s: Тази възможност не е приложима: %s.\n"
+
+#
+# File: macros/mtlb_axis.sci, line: 52
+#, c-format
+msgid "%s: Wrong value for affectation to '%s'.\n"
+msgstr ""
+
+#
+# File: macros/mtlb_axis.sci, line: 92
+#, c-format
+msgid "%s: '%s' only used in 3d mode."
+msgstr "%s: '%s' се използва само в 3d режим."
+
+#
+# File: macros/mtlb_axis.sci, line: 143
+#, c-format
+msgid "%s: This feature has not been implemented: Argument of type %d.\n"
+msgstr "%s: Тази възможност не е приложима: Аргумент от тип %d.\n"
+
+#
+# File: macros/mtlb_choices.sci, line: 13
+msgid "Close"
+msgstr "Затвори"
+
+#
+# File: macros/mtlb_close.sci, line: 15
+#, c-format
+msgid "%s: '%s' ignored.\n"
+msgstr "%s: '%s' пренебрегнат.\n"
+
+#
+# File: macros/mtlb_close.sci, line: 51
+#, c-format
+msgid "%s: All windows deleted.\n"
+msgstr "%s: Всички прозорци са изтрити.\n"
+
+#
+# File: macros/mtlb_cond.sci, line: 15
+#, c-format
+msgid "%s: Wrong type for input argument #%d: Square matrix expected.\n"
+msgstr ""
+"%s: Невалиден тип на входен аргумент #%d: Очаква се квадратна матрица.\n"
+
+#
+# File: macros/mtlb_cond.sci, line: 36
+#, c-format
+msgid "%s: Wrong value for input argument #%d: %s, %s,'%s' or '%s' expected.\n"
+msgstr ""
+"%s: Невалидна стойност на входен аргумент #%d: Очаква се %s, %s,'%s' или '%s'."
+"\n"
+
+#
+# File: macros/mtlb_dir.sci, line: 45
+msgid "Jan"
+msgstr "Януари"
+
+#
+# File: macros/mtlb_dir.sci, line: 46
+msgid "Feb"
+msgstr "Февруари"
+
+#
+# File: macros/mtlb_dir.sci, line: 47
+msgid "Mar"
+msgstr "Март"
+
+#
+# File: macros/mtlb_dir.sci, line: 48
+msgid "Apr"
+msgstr "Април"
+
+#
+# File: macros/mtlb_dir.sci, line: 49
+msgid "May"
+msgstr "Май"
+
+#
+# File: macros/mtlb_dir.sci, line: 50
+msgid "Jun"
+msgstr "Юни"
+
+#
+# File: macros/mtlb_dir.sci, line: 51
+msgid "Jul"
+msgstr "Юли"
+
+#
+# File: macros/mtlb_dir.sci, line: 52
+msgid "Aug"
+msgstr "Август"
+
+#
+# File: macros/mtlb_dir.sci, line: 53
+msgid "Sep"
+msgstr "Септември"
+
+#
+# File: macros/mtlb_dir.sci, line: 54
+msgid "Oct"
+msgstr "Октомври"
+
+#
+# File: macros/mtlb_dir.sci, line: 55
+msgid "Nov"
+msgstr "Ноември"
+
+#
+# File: macros/mtlb_dir.sci, line: 56
+msgid "Dec"
+msgstr "Декември"
+
+#
+# File: macros/mtlb_echo.sci, line: 23
+# File: macros/mtlb_echo.sci, line: 26
+# File: macros/mtlb_hold.sci, line: 27
+# File: macros/mtlb_num2str.sci, line: 25
+# File: macros/mtlb_realmax.sci, line: 21
+# File: macros/mtlb_realmin.sci, line: 21
+#, c-format
+msgid "%s: Not yet implemented.\n"
+msgstr "%s: Все още не е приложим.\n"
+
+#
+# File: macros/mtlb_fopen.sci, line: 18
+#, c-format
+msgid "%s: Cannot open file '%s'.\n"
+msgstr "%s: Файлът '%s' не може да бъде отворен.\n"
+
+#
+# File: macros/mtlb_format.sci, line: 57
+#, c-format
+msgid "%s: Unknown type.\n"
+msgstr "%s: Неизвестен тип.\n"
+
+#
+# File: macros/mtlb_format.sci, line: 59
+#, c-format
+msgid "%s: Unknown type '%s': IGNORED.\n"
+msgstr "%s: Неизвестен тип '%s': IGNORED.\n"
+
+#
+# File: macros/mtlb_fprintf.sci, line: 43
+# File: macros/mtlb_fprintf.sci, line: 92
+# File: macros/mtlb_fprintf.sci, line: 94
+#, c-format
+msgid "%s: %s is not implemented.\n"
+msgstr "%s: %s не е приложим.\n"
+
+#
+# File: macros/mtlb_fprintf.sci, line: 57
+# File: macros/mtlb_fprintf.sci, line: 114
+#, c-format
+msgid ""
+"%s: %s Scilab function does not work with more than one row variables.\n"
+msgstr "%s: %s Scilab функцията не работи с повече от една променливи-ред.\n"
+
+#
+# File: macros/mtlb_fread.sci, line: 44
+# File: macros/mtlb_fwrite.sci, line: 40
+#, c-format
+msgid "%s: The format '%s' is unknown.\n"
+msgstr "%s: Форматът '%s' е неизвестен.\n"
+
+#
+# File: macros/mtlb_fread.sci, line: 48
+# File: macros/mtlb_fwrite.sci, line: 44
+#, fuzzy, c-format
+msgid "%s: The format '%s' is not yet handled.\n"
+msgstr "%s: Форматът '%s' вече не е handled.\n"
+
+#
+# File: macros/mtlb_fread.sci, line: 66
+#, c-format
+msgid "%s: End of file reached before all matrix is read.\n"
+msgstr ""
+"%s: Краят на файла е достигнат преди цялата матрица да бъде прочетена.\n"
+
+#
+# File: macros/mtlb_get.sci, line: 24
+# File: macros/mtlb_get.sci, line: 26
+# File: macros/mtlb_get.sci, line: 28
+# File: macros/mtlb_get.sci, line: 30
+# File: macros/mtlb_get.sci, line: 32
+# File: macros/mtlb_get.sci, line: 34
+# File: macros/mtlb_get.sci, line: 36
+# File: macros/mtlb_get.sci, line: 38
+# File: macros/mtlb_get.sci, line: 40
+# File: macros/mtlb_get.sci, line: 45
+# File: macros/mtlb_get.sci, line: 47
+# File: macros/mtlb_get.sci, line: 49
+# File: macros/mtlb_get.sci, line: 51
+# File: macros/mtlb_get.sci, line: 53
+# File: macros/mtlb_get.sci, line: 55
+# File: macros/mtlb_get.sci, line: 57
+# File: macros/mtlb_get.sci, line: 59
+# File: macros/mtlb_get.sci, line: 69
+# File: macros/mtlb_get.sci, line: 71
+# File: macros/mtlb_get.sci, line: 73
+# File: macros/mtlb_get.sci, line: 75
+# File: macros/mtlb_get.sci, line: 77
+# File: macros/mtlb_get.sci, line: 79
+# File: macros/mtlb_get.sci, line: 81
+# File: macros/mtlb_get.sci, line: 83
+# File: macros/mtlb_get.sci, line: 85
+# File: macros/mtlb_get.sci, line: 90
+# File: macros/mtlb_get.sci, line: 92
+# File: macros/mtlb_get.sci, line: 96
+#, c-format
+msgid "%s: No equivalent for '%s' property.\n"
+msgstr "%s: Няма еквивалент за свойството '%s'.\n"
+
+#
+# File: macros/mtlb_grid.sci, line: 35
+# File: macros/mtlb_grid.sci, line: 51
+#, c-format
+msgid "%s: No minor grid in Scilab.\n"
+msgstr ""
+
+#
+# File: macros/mtlb_grid.sci, line: 42
+# File: macros/mtlb_grid.sci, line: 58
+#, c-format
+msgid "%s: Wrong value for input argument #%d: '%s', '%s' or '%s' expected.\n"
+msgstr ""
+"%s: Невалидна стойност на входен аргумент #%d: Очаква се '%s', '%s' или '%s'."
+"\n"
+
+#
+# File: macros/mtlb_is.sci, line: 17
+# File: macros/mtlb_is.sci, line: 33
+#, c-format
+msgid ""
+"%s: Wrong size for input argument #%d: Matlab vector of strings expected.\n"
+msgstr ""
+"%s: Невалиден размер на входен аргумент #%d: Очаква се Matlab вектор от "
+"низове.\n"
+
+#
+# File: macros/mtlb_isa.sci, line: 45
+#, c-format
+msgid "%s: Unhandled class '%s'.\n"
+msgstr ""
+
+#
+# File: macros/mtlb_legendre.sci, line: 15
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: A positive integer value expected.\n"
+msgstr ""
+"%s: Невалидна стойност на входен аргумент #%d: Очаква се положителна "
+"целочислена стойност.\n"
+
+#
+# File: macros/mtlb_plot.sci, line: 128
+#, c-format
+msgid "%s: '%s' option ignored.\n"
+msgstr "%s: Опцията '%s' е пренебрегната.\n"
+
+#
+# File: macros/mtlb_plot.sci, line: 197
+#, c-format
+msgid "%s: Unknown line style found in '%s' -> set to 6.\n"
+msgstr "%s: Неизвестен стил на линия е намерен в '%s' -> положен е на 6.\n"
+
+#
+# File: macros/mtlb_plot.sci, line: 215
+#, c-format
+msgid "%s: Unknown color found in '%s' -> set to black.\n"
+msgstr "%s: Неизвестен цвят е намерен в '%s' -> положен е на black.\n"
+
+#
+# File: macros/mtlb_qr.sci, line: 16
+#, c-format
+msgid "%s: Wrong number of output argument(s): %d expected.\n"
+msgstr "%s: Невалиден брой на изходните аргументи: Очакват се %d.\n"
+
+#
+# File: macros/mtlb_qr.sci, line: 19
+#, c-format
+msgid "%s: Wrong number of input argument(s): %d expected.\n"
+msgstr "%s: Невалиден брой входни аргументи: Очакват се %d.\n"
+
+#
+# File: macros/mtlb_qz.sci, line: 21
+#, c-format
+msgid "%s: pencil is not diagonalizable.\n"
+msgstr "%s: моливът не е диагонализируем.\n"
+
+#
+# File: macros/mtlb_realmax.sci, line: 24
+# File: macros/mtlb_realmin.sci, line: 24
+#, c-format
+msgid "%s: Wrong number of input argument(s): %d to %d expected.\n"
+msgstr "%s: Невалиден брой входни аргументи: Очакват се от %d до %d.\n"
+
+#
+# File: macros/mtlb_sortrows.sci, line: 28
+#, c-format
+msgid "%s: Wrong type for input argument #%d: Column vector expected.\n"
+msgstr "%s: Невалиден тип на входен аргумент #%d: Очаква се вектор сълб.\n"
+
+#
+# File: macros/mtlb_sprintf.sci, line: 39
+#, c-format
+msgid "%s: This particular case is not implemented.\n"
+msgstr "%s: Този частен случай не е приложим.\n"
+
+#
+# File: macros/mtlb_sscanf.sci, line: 12
+#, c-format
+msgid "%s: '%s' not implemented.\n"
+msgstr "%s: '%s' не е приложим.\n"
+
+#
+# File: macros/mtlb_sscanf.sci, line: 25
+#, c-format
+msgid "%s: End of string reached before data has been read.\n"
+msgstr "%s: Достигнат е краят на низа преди данните да бъдат прочетени.\n"
+
+#
+# File: macros/mtlb_type.sci, line: 29
+#, c-format
+msgid "%s: Could not open neither '%s' nor '%s' nor '%s'.\n"
+msgstr "%s: Не могат да бъдат отворени нито '%s', нито '%s', нито '%s'.\n"
+
+#
+# File: macros/mtlb_var.sci, line: 32
+#, c-format
+msgid "%s: Wrong number of input arguments: %d to %d expected.\n"
+msgstr "%s: Невалиден брой входни аргументи: Очакват се от %d до %d.\n"
+
+#
+# File: macros/mtlb_var.sci, line: 44
+#, c-format
+msgid "%s: The normalization m - 1 factor is zero.\n"
+msgstr "%s: Нормализиращият m - 1 фактор е нула.\n"
+
+#
+# File: macros/mtlb_var.sci, line: 51
+#, c-format
+msgid "%s: The normalization n - 1 factor is zero.\n"
+msgstr "%s: Нормализиращият n - 1 фактор е нула.\n"
+

@@ -1,0 +1,42 @@
+# Dutch translation for scilab
+# Copyright (c) 2008 Rosetta Contributors and Canonical Ltd 2008
+# This file is distributed under the same license as the scilab package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: scilab\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-10-03 10:34+0100\n"
+"PO-Revision-Date: 2011-01-31 14:33+0000\n"
+"Last-Translator: Elco <Unknown>\n"
+"Language-Team: Dutch <nl@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2011-11-07 21:34+0000\n"
+"X-Generator: Launchpad (build 14231)\n"
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: A string expected.\n"
+msgstr "%s: Foutief type argument #%d: een string verwacht.\n"
+
+#, c-format
+msgid "%s: No more memory.\n"
+msgstr "%s: Geen geheugen beschikbaar.\n"
+
+#, c-format
+msgid ""
+"%s: A Java exception arisen:\n"
+"%s"
+msgstr ""
+
+msgid "Same command executed again"
+msgstr "Zelfde opdracht opnieuw uitvoeren"
+
+msgid "Unable to communicate with the interpreter"
+msgstr "Communicatie met de interpreter is mislukt"
+
+#, c-format
+msgid "Scilab '%s' module not installed.\n"
+msgstr "Scilab '%s' module niet geïnstalleerd.\n"

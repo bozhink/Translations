@@ -1,0 +1,68 @@
+# Indonesian translation for scilab
+# Copyright (c) 2009 Rosetta Contributors and Canonical Ltd 2009
+# This file is distributed under the same license as the scilab package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: scilab\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-03-09 11:38+0100\n"
+"PO-Revision-Date: 2010-12-26 15:26+0000\n"
+"Last-Translator: Waluyo Adi Siswanto <Unknown>\n"
+"Language-Team: Indonesian <id@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2011-11-07 21:39+0000\n"
+"X-Generator: Launchpad (build 14231)\n"
+
+msgid "Invalid index.\n"
+msgstr "Indeks tidak valid.\n"
+
+msgid "Incorrect assignment.\n"
+msgstr "Penugasan tidak tepat.\n"
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: String expected.\n"
+msgstr ""
+"%s: Tipe yang salah untuk argumen input #%d: Yang diharapkan string.\n"
+
+msgid "Affection of a string in a matrix of numbers is not implemented."
+msgstr "Penggunaan string dalam matriks angka tidak di implementasi."
+
+#, c-format
+msgid "%s: Wrong size for input argument #%d: A string expected.\n"
+msgstr "%s: Ukuran argumen masukan salah #%d: Diharapkan string.\n"
+
+#, c-format
+msgid "%s: Wrong size for input argument #%d: A scalar expected.\n"
+msgstr "%s: Ukuran argumen masukan salah  #%d: Diharapkan skalar.\n"
+
+#, c-format
+msgid "%s: Wrong value for input argument #%d: Must be in the set {%s}.\n"
+msgstr ""
+"%s: Kesalahan angka untuk argumen masukan #%d: Harus dalam bentuk {%s}.\n"
+
+msgid "A null assignment can have only one non-colon index"
+msgstr "Penugasan nol hanya mempunyai indeks satu non-colon"
+
+msgid "Invalid field name."
+msgstr "Nama bidang tidak valid."
+
+#, c-format
+msgid "%s is not a valid field name."
+msgstr "%s bukan nama bidang yang valid."
+
+#, c-format
+msgid "%s: Wrong type for argument %d: Real vector expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong type for argument %d: Real scalar expected.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: input and output matrices  must have the same number of elements.\n"
+msgstr ""

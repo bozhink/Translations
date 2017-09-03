@@ -1,0 +1,2832 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-19 20:09+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/TemplateDlg.cpp:40
+msgid "Category:"
+msgstr ""
+
+#: src/TemplateDlg.cpp:41
+msgid "Title:"
+msgstr ""
+
+#: src/TemplateDlg.cpp:42
+msgid "Disc Title"
+msgstr ""
+
+#: src/TemplateDlg.cpp:44
+msgid "All"
+msgstr ""
+
+#: src/TemplateDlg.cpp:50
+msgid "&No template"
+msgstr ""
+
+#: src/TemplateDlg.cpp:59
+msgid "Templates"
+msgstr ""
+
+#: src/TemplateDlg.cpp:93
+msgid "Select template for DVD menus"
+msgstr ""
+
+#: src/StatusBar.cpp:63
+#, c-format
+msgid "%d/%d Minutes"
+msgstr ""
+
+#: src/StatusBar.cpp:65
+#, c-format
+msgid "%d Minutes"
+msgstr ""
+
+#: src/StatusBar.cpp:68
+#, c-format
+msgid "%d MB/s"
+msgstr ""
+
+#: src/StatusBar.cpp:69
+#, c-format
+msgid "%.1f MB/s"
+msgstr ""
+
+#: src/CellPropDlg.cpp:51
+msgid "Type:"
+msgstr ""
+
+#: src/CellPropDlg.cpp:52 src/MenuCellsDlg.cpp:43 src/MenuCellsDlg.cpp:191
+msgid "Regular"
+msgstr ""
+
+#: src/CellPropDlg.cpp:53 src/MenuCellsDlg.cpp:43 src/MenuCellsDlg.cpp:63
+#: src/MenuCellsDlg.cpp:191 src/MenuPropDlg.cpp:206
+msgid "Chapter"
+msgstr ""
+
+#: src/CellPropDlg.cpp:54 src/MenuCellsDlg.cpp:43 src/MenuCellsDlg.cpp:64
+#: src/MenuCellsDlg.cpp:191
+msgid "Program"
+msgstr ""
+
+#: src/CellPropDlg.cpp:55 src/VideoPropDlg.cpp:120
+msgid "Start:"
+msgstr ""
+
+#: src/CellPropDlg.cpp:58 src/VideoPropDlg.cpp:123
+msgid "End:"
+msgstr ""
+
+#: src/CellPropDlg.cpp:61 src/TitlePropDlg.cpp:139 src/MenuPropDlg.cpp:185
+msgid "Pause:"
+msgstr ""
+
+#: src/CellPropDlg.cpp:63 src/VideoFrameDlg.cpp:80 src/TitlePropDlg.cpp:139
+#: src/TitlePropDlg.cpp:181 src/MenuPropDlg.cpp:185 src/VideoPropDlg.cpp:109
+#: src/VideoPropDlg.cpp:112
+msgid "sec"
+msgstr ""
+
+#: src/CellPropDlg.cpp:64
+msgid "Commands:"
+msgstr ""
+
+#: src/CellPropDlg.cpp:67 src/ChaptersDlg.cpp:102 src/About.cpp:162
+#: src/VideoPropDlg.cpp:126 buttons/ok.xml:3
+msgid "OK"
+msgstr ""
+
+#: src/CellPropDlg.cpp:68 src/BurnDlg.cpp:99 src/ChaptersDlg.cpp:103
+#: src/ProgressDlg.cpp:335 src/VideoPropDlg.cpp:127 buttons/cancel.xml:3
+#: buttons/cancel2.xml:4
+msgid "Cancel"
+msgstr ""
+
+#: src/CellPropDlg.cpp:79
+msgid "Cell properties"
+msgstr ""
+
+#: src/CellPropDlg.cpp:168 src/CellPropDlg.cpp:172
+#, c-format
+msgid "'%s' is not valid time"
+msgstr ""
+
+#: src/CellPropDlg.cpp:177
+msgid "Start time cannot be after end time"
+msgstr ""
+
+#: src/dvdstyler.cpp:171 src/dvdstyler.cpp:176
+msgid "automatically starts the generation and burning"
+msgstr ""
+
+#: src/dvdstyler.cpp:172 src/dvdstyler.cpp:177
+msgid "write log messages to standard error"
+msgstr ""
+
+#: src/dvdstyler.cpp:173 src/dvdstyler.cpp:178
+msgid "show version of program"
+msgstr ""
+
+#: src/dvdstyler.cpp:174 src/dvdstyler.cpp:179
+msgid "show summary of options"
+msgstr ""
+
+#: src/dvdstyler.cpp:181
+msgid "input file"
+msgstr ""
+
+#: src/DirCtrl.cpp:24 src/MainWin.cpp:259 src/MainWin.cpp:263
+msgid "&Refresh"
+msgstr ""
+
+#: src/AudioPropDlg.cpp:57
+msgid "Audio properties"
+msgstr ""
+
+#: src/AudioPropDlg.cpp:60 src/VideoPropDlg.cpp:76
+msgid "File Name:"
+msgstr ""
+
+#: src/AudioPropDlg.cpp:64 src/VideoFrameDlg.cpp:75 src/ChaptersDlg.cpp:100
+#: src/TitlePropDlg.cpp:181 src/VideoPropDlg.cpp:78 src/VobListBox.cpp:100
+msgid "Duration:"
+msgstr ""
+
+#: src/AudioPropDlg.cpp:68 src/VideoPropDlg.cpp:80
+msgid "Source Format:"
+msgstr ""
+
+#: src/AudioPropDlg.cpp:72 src/VideoPropDlg.cpp:82
+msgid "Destination Format:"
+msgstr ""
+
+#: src/AudioPropDlg.cpp:77
+msgid "5.1"
+msgstr ""
+
+#: src/AudioPropDlg.cpp:81 src/SubtitlePropDlg.cpp:108 src/SettingsDlg.cpp:65
+msgid "Language:"
+msgstr ""
+
+#: src/AudioPropDlg.cpp:85
+msgid "Volume:"
+msgstr ""
+
+#: src/AudioPropDlg.cpp:95
+msgid "Time delay:"
+msgstr ""
+
+#: src/AudioPropDlg.cpp:104
+msgid "ms"
+msgstr ""
+
+#: src/AudioPropDlg.cpp:228
+#, c-format
+msgid "Invalid volume value '%s'"
+msgstr ""
+
+#: src/AudioPropDlg.cpp:232
+#, c-format
+msgid "Invalid time value '%s'"
+msgstr ""
+
+#: src/Pgc.cpp:172
+msgid "mono"
+msgstr ""
+
+#: src/Pgc.cpp:174
+msgid "stereo"
+msgstr ""
+
+#: src/Pgc.cpp:178
+#, c-format
+msgid "%d channels"
+msgstr ""
+
+#: src/Pgc.cpp:181
+#, c-format
+msgid "%d Hz"
+msgstr ""
+
+#: src/Pgc.cpp:1157
+msgid "Can't load vob"
+msgstr ""
+
+#: src/DVDAction.cpp:41
+#, c-format
+msgid "select audio track %d and "
+msgstr ""
+
+#: src/DVDAction.cpp:44
+#, c-format
+msgid "select subtitle track %d and "
+msgstr ""
+
+#: src/DVDAction.cpp:52
+msgid "jump to start of current menu"
+msgstr ""
+
+#: src/DVDAction.cpp:61
+#, c-format
+msgid "from titleset %d"
+msgstr ""
+
+#: src/DVDAction.cpp:67
+msgid "jump to title vmMenu"
+msgstr ""
+
+#: src/DVDAction.cpp:67
+msgid "jump to root menu"
+msgstr ""
+
+#: src/DVDAction.cpp:67
+msgid "jump to subtitle menu"
+msgstr ""
+
+#: src/DVDAction.cpp:68
+msgid "jump to audio menu"
+msgstr ""
+
+#: src/DVDAction.cpp:68
+msgid "jump to angle menu"
+msgstr ""
+
+#: src/DVDAction.cpp:68
+msgid "jump to chapter menu"
+msgstr ""
+
+#: src/DVDAction.cpp:73 src/DVDAction.cpp:179 src/MenuObjectPropDlg.cpp:403
+#: src/MenuObjectPropDlg.cpp:423
+msgid "menu"
+msgstr ""
+
+#: src/DVDAction.cpp:75 src/DVDAction.cpp:89
+msgid "jump to menu"
+msgstr ""
+
+#: src/DVDAction.cpp:87
+msgid "jump to vmMenu"
+msgstr ""
+
+#: src/DVDAction.cpp:95
+#, c-format
+msgid "jump to title %d chapter %d"
+msgstr ""
+
+#: src/DVDAction.cpp:100
+msgid "jump to title"
+msgstr ""
+
+#: src/DVDAction.cpp:178 src/MenuObjectPropDlg.cpp:416
+#: src/MenuObjectPropDlg.cpp:425 src/MenuObjectPropDlg.cpp:435
+#: src/MenuObjectPropDlg.cpp:444
+msgid "titleset"
+msgstr ""
+
+#: src/DVDAction.cpp:179 src/MenuObjectPropDlg.cpp:433
+#: src/MenuObjectPropDlg.cpp:442
+msgid "title"
+msgstr ""
+
+#: src/DVDAction.cpp:181 src/TitlesetManager.cpp:332 src/MenuPropDlg.cpp:55
+msgid "vmMenu"
+msgstr ""
+
+#: src/DVDAction.cpp:191
+#, c-format
+msgid "cannot jump to titleset %d, only %d exist"
+msgstr ""
+
+#: src/DVDAction.cpp:199
+msgid "cannot jump to vmMenu; none exist"
+msgstr ""
+
+#: src/DVDAction.cpp:201 src/DVDAction.cpp:436
+msgid "cannot jump to menu; none exist"
+msgstr ""
+
+#: src/DVDAction.cpp:206
+msgid "title menu"
+msgstr ""
+
+#: src/DVDAction.cpp:206 src/MenuObjectPropDlg.cpp:409
+msgid "root menu"
+msgstr ""
+
+#: src/DVDAction.cpp:206 src/MenuObjectPropDlg.cpp:409
+msgid "subtitle menu"
+msgstr ""
+
+#: src/DVDAction.cpp:206 src/MenuObjectPropDlg.cpp:410
+msgid "audio menu"
+msgstr ""
+
+#: src/DVDAction.cpp:207 src/MenuObjectPropDlg.cpp:410
+msgid "angle menu"
+msgstr ""
+
+#: src/DVDAction.cpp:207 src/MenuObjectPropDlg.cpp:410
+msgid "chapter menu"
+msgstr ""
+
+#: src/DVDAction.cpp:210
+#, c-format
+msgid "cannot find %s"
+msgstr ""
+
+#: src/DVDAction.cpp:215
+#, c-format
+msgid "cannot jump to vmMenu %d, only %d exist"
+msgstr ""
+
+#: src/DVDAction.cpp:217
+#, c-format
+msgid "cannot jump to menu %d, only %d exist"
+msgstr ""
+
+#: src/DVDAction.cpp:228
+msgid "cannot jump to title; none exist"
+msgstr ""
+
+#: src/DVDAction.cpp:231
+#, c-format
+msgid "cannot jump to title %d, only %d exist"
+msgstr ""
+
+#: src/DVDAction.cpp:236
+#, c-format
+msgid "cannot jump to chapter %d of title %d, only %d exist"
+msgstr ""
+
+#: src/DVDAction.cpp:248
+msgid ""
+"cannot jump to a specific menu in another titleset, only to root/chapter/"
+"audio/subtitle/angle menu"
+msgstr ""
+
+#: src/DVDAction.cpp:251
+msgid ""
+"cannot jump from regular menu to a title in another titleset, use vmMenu "
+"instead"
+msgstr ""
+
+#: src/DVDAction.cpp:253
+msgid "cannot jump to a title in another titleset"
+msgstr ""
+
+#: src/DVDAction.cpp:265
+msgid "invalid action"
+msgstr ""
+
+#: src/DVDAction.cpp:275 src/DVDAction.cpp:366
+msgid "cannot jump to a menu from a title, use 'call' instead"
+msgstr ""
+
+#: src/DVDAction.cpp:282 src/DVDAction.cpp:398
+msgid "chapter"
+msgstr ""
+
+#: src/DVDAction.cpp:282 src/DVDAction.cpp:398
+msgid "program"
+msgstr ""
+
+#: src/DVDAction.cpp:282 src/DVDAction.cpp:398
+msgid "cell"
+msgstr ""
+
+#: src/DVDAction.cpp:283 src/DVDAction.cpp:399
+#, c-format
+msgid "jumping from vmMenu to %s is not allowed"
+msgstr ""
+
+#: src/DVDAction.cpp:315
+#, c-format
+msgid "on token '%s'"
+msgstr ""
+
+#: src/DVDAction.cpp:331
+msgid "0 is not valid menu/chapter number"
+msgstr ""
+
+#: src/DVDAction.cpp:335
+msgid "0 is not valid title number"
+msgstr ""
+
+#: src/DVDAction.cpp:339
+msgid "0 is not valid program number"
+msgstr ""
+
+#: src/DVDAction.cpp:343
+msgid "0 is not valid cell number"
+msgstr ""
+
+#: src/DVDAction.cpp:372
+msgid "cannot specify chapter when jumping to another menu"
+msgstr ""
+
+#: src/DVDAction.cpp:376
+msgid "cannot omit menu/title if specifying vmgm/titleset"
+msgstr ""
+
+#: src/DVDAction.cpp:380 src/DVDAction.cpp:463
+msgid "VMGM must be specified with FPC"
+msgstr ""
+
+#: src/DVDAction.cpp:391
+msgid "VMGM does not have titles"
+msgstr ""
+
+#: src/DVDAction.cpp:404
+msgid "cannot jump to a chapter from a FPC"
+msgstr ""
+
+#: src/DVDAction.cpp:410
+msgid "menus do not have chapters"
+msgstr ""
+
+#: src/DVDAction.cpp:415
+#, c-format
+msgid "cannot jump to chapter %d, only %d exist"
+msgstr ""
+
+#: src/DVDAction.cpp:450
+msgid "cannot 'call' a menu from another menu, use 'jump' instead"
+msgstr ""
+
+#: src/DVDAction.cpp:454
+msgid "cannot 'call' another title, use 'jump' instead"
+msgstr ""
+
+#: src/DVDAction.cpp:458
+msgid "cannot 'call' a chapter within a menu"
+msgstr ""
+
+#: src/DVDAction.cpp:468
+msgid "cannot call to a menu in another titleset"
+msgstr ""
+
+#: src/DVDAction.cpp:471
+msgid "cannot call to a specific menu PGC, only an entry"
+msgstr ""
+
+#: src/DVDAction.cpp:499
+#, c-format
+msgid "cannot set SPRM %d"
+msgstr ""
+
+#: src/DVDAction.cpp:553
+#, c-format
+msgid "unsupported VM opcode %d"
+msgstr ""
+
+#: src/DVDAction.cpp:571
+#, c-format
+msgid "invalid action '%s'"
+msgstr ""
+
+#: src/WelcomeDlg.cpp:46
+msgid "Welcome"
+msgstr ""
+
+#: src/WelcomeDlg.cpp:52
+msgid "New project"
+msgstr ""
+
+#: src/WelcomeDlg.cpp:57
+msgid "Create a new project"
+msgstr ""
+
+#: src/WelcomeDlg.cpp:64
+msgid "Open project"
+msgstr ""
+
+#: src/WelcomeDlg.cpp:69
+msgid "Open an existing project file"
+msgstr ""
+
+#: src/WelcomeDlg.cpp:82
+msgid "Browse files..."
+msgstr ""
+
+#: src/BurnDlg.cpp:65
+msgid "Temp directory:"
+msgstr ""
+
+#: src/BurnDlg.cpp:67 src/BurnDlg.cpp:77 src/SubtitlePropDlg.cpp:144
+#: src/SubtitlePropDlg.cpp:157 src/SubtitlePropDlg.cpp:175
+msgid "..."
+msgstr ""
+
+#: src/BurnDlg.cpp:68 src/BurnDlg.cpp:78
+msgid "Free:"
+msgstr ""
+
+#: src/BurnDlg.cpp:70 src/BurnDlg.cpp:80
+msgid "Required:"
+msgstr ""
+
+#: src/BurnDlg.cpp:72
+msgid "preview"
+msgstr ""
+
+#: src/BurnDlg.cpp:73
+msgid "just generate"
+msgstr ""
+
+#: src/BurnDlg.cpp:74
+msgid "create iso image"
+msgstr ""
+
+#: src/BurnDlg.cpp:75
+msgid "Save to:"
+msgstr ""
+
+#: src/BurnDlg.cpp:82
+msgid "burn"
+msgstr ""
+
+#: src/BurnDlg.cpp:83
+msgid "format DVD-RW"
+msgstr ""
+
+#: src/BurnDlg.cpp:84
+msgid "Device:"
+msgstr ""
+
+#: src/BurnDlg.cpp:92
+msgid "Speed:"
+msgstr ""
+
+#: src/BurnDlg.cpp:96
+msgid "add error correction data"
+msgstr ""
+
+#: src/BurnDlg.cpp:98 src/MenuCellsDlg.cpp:107
+msgid "Start"
+msgstr ""
+
+#: src/BurnDlg.cpp:100 src/VideoFrameDlg.cpp:73 wxVillaLib/PropDlg.cpp:188
+msgid "Reset"
+msgstr ""
+
+#: src/BurnDlg.cpp:301
+msgid "Scan devices"
+msgstr ""
+
+#: src/BurnDlg.cpp:301 src/MainWin.cpp:737
+msgid "Please wait..."
+msgstr ""
+
+#: src/BurnDlg.cpp:333 src/BurnDlg.cpp:564 src/BurnDlg.cpp:571
+#: src/BurnDlg.cpp:625 src/BurnDlg.cpp:630 src/BurnDlg.cpp:636
+#: src/BurnDlg.cpp:642 src/BurnDlg.cpp:655 src/BurnDlg.cpp:658
+#: src/TitlesetManager.cpp:473 src/TitlesetManager.cpp:477 src/MainWin.cpp:910
+#: src/MainWin.cpp:931 src/MainWin.cpp:936 src/ProgressDlg.cpp:937
+#: src/ProgressDlg.cpp:958 src/ProgressDlg.cpp:962 src/ProgressDlg.cpp:1054
+#: src/ProgressDlg.cpp:1064 src/ProgressDlg.cpp:1094 src/ProgressDlg.cpp:1112
+#: src/ProgressDlg.cpp:1154
+msgid "Burn"
+msgstr ""
+
+#: src/BurnDlg.cpp:514 src/BurnDlg.cpp:527 src/BurnDlg.cpp:536
+#: src/BurnDlg.cpp:547
+msgid "GB"
+msgstr ""
+
+#: src/BurnDlg.cpp:522 src/BurnDlg.cpp:542
+msgid "N/A"
+msgstr ""
+
+#: src/BurnDlg.cpp:564
+msgid "There is not enough space to store ISO file."
+msgstr ""
+
+#: src/BurnDlg.cpp:571
+msgid "There is not enough space on temporary directory."
+msgstr ""
+
+#: src/BurnDlg.cpp:577 wxVillaLib/PropDlg.cpp:809
+msgid "Choose a directory"
+msgstr ""
+
+#: src/BurnDlg.cpp:601
+msgid "Choose a file to save iso image"
+msgstr ""
+
+#: src/BurnDlg.cpp:625
+msgid "Please enter file name to save ISO"
+msgstr ""
+
+#: src/BurnDlg.cpp:629
+#, c-format
+msgid "File '%s' already exist. Do you want to overwrite it?"
+msgstr ""
+
+#: src/BurnDlg.cpp:636
+msgid "Please enter device name"
+msgstr ""
+
+#: src/BurnDlg.cpp:642
+msgid "Invalid device name"
+msgstr ""
+
+#: src/BurnDlg.cpp:654
+#, c-format
+msgid ""
+"There are %d transcoded file(s) in the cache. They\n"
+"will be removed if you change temporary directory."
+msgstr ""
+
+#: src/BurnDlg.cpp:658 src/ProgressDlg.cpp:704 src/ProgressDlg.cpp:708
+#: src/ProgressDlg.cpp:712
+#, c-format
+msgid "Can't create directory '%s'"
+msgstr ""
+
+#: src/Cache.cpp:154 src/Cache.cpp:168 src/Cache.cpp:186
+#: src/ProgressDlg.cpp:1304 src/ProgressDlg.cpp:1318 src/ProgressDlg.cpp:1672
+#, c-format
+msgid "Can't remove file '%s'"
+msgstr ""
+
+#: src/MenuEditor.cpp:93 src/MenuEditor.cpp:401
+msgid ": unknown format"
+msgstr ""
+
+#: src/MenuEditor.cpp:290
+msgid "&Bring to Front"
+msgstr ""
+
+#: src/MenuEditor.cpp:291
+msgid "Bring &Forward"
+msgstr ""
+
+#: src/MenuEditor.cpp:292
+msgid "Send Back&ward"
+msgstr ""
+
+#: src/MenuEditor.cpp:293
+msgid "&Send to Back"
+msgstr ""
+
+#: src/MenuEditor.cpp:297
+msgid "Center &Horizontally"
+msgstr ""
+
+#: src/MenuEditor.cpp:298
+msgid "Center &Vertically"
+msgstr ""
+
+#: src/MenuEditor.cpp:316
+msgid "&Show Safe TV area"
+msgstr ""
+
+#: src/MenuEditor.cpp:321
+msgid "&none"
+msgstr ""
+
+#: src/MenuEditor.cpp:328
+msgid "&Show"
+msgstr ""
+
+#: src/MenuEditor.cpp:329
+msgid "&Over objects"
+msgstr ""
+
+#: src/MenuEditor.cpp:330
+msgid "&Colour..."
+msgstr ""
+
+#: src/MenuEditor.cpp:334
+msgid "A&rrange"
+msgstr ""
+
+#: src/MenuEditor.cpp:335
+msgid "A&lign"
+msgstr ""
+
+#: src/MenuEditor.cpp:336 src/MenuEditor.cpp:358 src/TitlesetManager.cpp:173
+#: src/TitlesetManager.cpp:192 src/MainWin.cpp:180
+msgid "&Add"
+msgstr ""
+
+#: src/MenuEditor.cpp:339
+msgid "&First highlighted button"
+msgstr ""
+
+#: src/MenuEditor.cpp:341
+msgid "Cu&t"
+msgstr ""
+
+#: src/MenuEditor.cpp:344 src/TitlesetManager.cpp:194
+msgid "&Copy"
+msgstr ""
+
+#: src/MenuEditor.cpp:347 src/MenuEditor.cpp:361 src/TitlesetManager.cpp:174
+#: src/TitlesetManager.cpp:197
+msgid "&Paste"
+msgstr ""
+
+#: src/MenuEditor.cpp:350 src/TitlesetManager.cpp:200 src/MainWin.cpp:255
+#: wxVillaLib/PropDlg.cpp:632
+msgid "&Delete"
+msgstr ""
+
+#: src/MenuEditor.cpp:354 src/MenuEditor.cpp:364 src/TitlesetManager.cpp:203
+msgid "&Properties..."
+msgstr ""
+
+#: src/MenuEditor.cpp:359
+msgid "&View"
+msgstr ""
+
+#: src/MenuEditor.cpp:360
+msgid "&Grid"
+msgstr ""
+
+#: src/MenuEditor.cpp:448 src/Menu.cpp:1056 src/DVD.cpp:253
+msgid "Wide screen DVD menu can contain maximal 12 buttons"
+msgstr ""
+
+#: src/MenuEditor.cpp:451 src/Menu.cpp:1059 src/DVD.cpp:256
+msgid ""
+"Wide screen DVD menu (nopanscan/noletterbox) can contain maximal 18 buttons"
+msgstr ""
+
+#: src/MenuEditor.cpp:455 src/Menu.cpp:1063 src/DVD.cpp:260
+msgid "DVD menu can contain maximal 34 buttons"
+msgstr ""
+
+#: src/MenuEditor.cpp:482 src/MenuObjectPropDlg.cpp:392
+#, c-format
+msgid "vmMenu %d"
+msgstr ""
+
+#: src/MenuEditor.cpp:482
+#, c-format
+msgid "Menu %d"
+msgstr ""
+
+#: src/MenuEditor.cpp:484
+#, c-format
+msgid "button%d"
+msgstr ""
+
+#: src/MenuEditor.cpp:527
+msgid "Please type in text to insert"
+msgstr ""
+
+#: src/MenuEditor.cpp:527
+msgid "Input text"
+msgstr ""
+
+#: src/MenuEditor.cpp:529
+msgid "Please choose an image to insert"
+msgstr ""
+
+#: src/MenuEditor.cpp:530 src/MenuObjectPropDlg.cpp:240
+#: src/MenuObjectPropDlg.cpp:272 src/TitlePropDlg.cpp:376
+#: src/MenuPropDlg.cpp:101
+msgid "Image Files "
+msgstr ""
+
+#: src/MenuEditor.cpp:532 buttons/pill3.xml:17 buttons/pill3.xml:29
+#: buttons/arrow-text-right.xml:8 buttons/arrow-text-right.xml:13
+#: buttons/pill2.xml:29 buttons/pill2.xml:41 buttons/arrow-text-left.xml:7
+#: buttons/arrow-text-left.xml:25 buttons/text-v3.xml:3
+#: buttons/deprecated/text-v2.xml:3 buttons/deprecated/text.xml:3
+#: objects/text-v2.xml:3 objects/text-v2.xml:19 objects/deprecated/text.xml:3
+#: objects/deprecated/text.xml:12
+msgid "Text"
+msgstr ""
+
+#: src/VideoFrameDlg.cpp:54
+msgid "Video frame"
+msgstr ""
+
+#: src/VideoFrameDlg.cpp:63 src/ChaptersDlg.cpp:97 src/VideoPropDlg.cpp:117
+msgid "Time:"
+msgstr ""
+
+#: src/TitlesetManager.cpp:96
+#, c-format
+msgid "File '%s' doesn't contain any audio or video streams."
+msgstr ""
+
+#: src/TitlesetManager.cpp:166 src/TitlesetManager.cpp:185 src/MainWin.cpp:174
+#: src/MainWin.cpp:309
+msgid "&File..."
+msgstr ""
+
+#: src/TitlesetManager.cpp:167 src/TitlesetManager.cpp:186 src/MainWin.cpp:175
+#: src/MainWin.cpp:310
+msgid "File as &chapter..."
+msgstr ""
+
+#: src/TitlesetManager.cpp:168 src/TitlesetManager.cpp:187 src/MainWin.cpp:177
+msgid "&Menu"
+msgstr ""
+
+#: src/TitlesetManager.cpp:169 src/TitlesetManager.cpp:188 src/MainWin.cpp:178
+msgid "&vmMenu"
+msgstr ""
+
+#: src/TitlesetManager.cpp:170 src/TitlesetManager.cpp:189 src/MainWin.cpp:179
+msgid "&Titleset"
+msgstr ""
+
+#: src/TitlesetManager.cpp:181
+msgid "&Left"
+msgstr ""
+
+#: src/TitlesetManager.cpp:182
+msgid "&Right"
+msgstr ""
+
+#: src/TitlesetManager.cpp:193
+msgid "&Move"
+msgstr ""
+
+#: src/TitlesetManager.cpp:334 src/TitlesetManager.cpp:980
+#: src/MenuPropDlg.cpp:53 src/MenuPropDlg.cpp:196 buttons/pill.xml:33
+msgid "Menu"
+msgstr ""
+
+#: src/TitlesetManager.cpp:336 src/TitlePropDlg.cpp:69
+#: src/TitlePropDlg.cpp:214 src/MenuPropDlg.cpp:211
+msgid "Title"
+msgstr ""
+
+#: src/TitlesetManager.cpp:364
+msgid "Drag here your video files from file browser"
+msgstr ""
+
+#: src/TitlesetManager.cpp:412
+#, c-format
+msgid "Slideshow (%d images)"
+msgstr ""
+
+#: src/TitlesetManager.cpp:414
+msgid "Slideshow (1 image)"
+msgstr ""
+
+#: src/TitlesetManager.cpp:453
+#, c-format
+msgid "%s doesn't contain video stream."
+msgstr ""
+
+#: src/TitlesetManager.cpp:472
+msgid ""
+"This file contains video in PAL format. Do you want to change DVD format to "
+"PAL too?"
+msgstr ""
+
+#: src/TitlesetManager.cpp:476
+msgid ""
+"This file contains video in NTSC format. Do you want to change DVD format to "
+"NTSC too?"
+msgstr ""
+
+#: src/TitlesetManager.cpp:482
+msgid "Maximal 99 titles are allowed for one titleset."
+msgstr ""
+
+#: src/TitlesetManager.cpp:565
+msgid ""
+"The video bitrate is reduced below 2 MB/s to fit your video on DVD. This can "
+"produce DVD with bad video quality."
+msgstr ""
+
+#: src/TitlesetManager.cpp:578 src/TitlesetManager.cpp:603
+msgid "Please add a video track first."
+msgstr ""
+
+#: src/TitlesetManager.cpp:984
+#, c-format
+msgid "Do you really want to delete %s?"
+msgstr ""
+
+#: src/TitlesetManager.cpp:985
+msgid "Titleset Manager"
+msgstr ""
+
+#: src/MenuObject.cpp:318 src/MainWin.cpp:475 src/MenuObjectPropDlg.cpp:593
+#: src/MenuObjectPropDlg.cpp:608 buttons/text-circle-v2.xml:13
+#: buttons/text-underlined-v3.xml:12 buttons/text-square-v2.xml:13
+#: buttons/text-v3.xml:13 buttons/deprecated/text-v2.xml:6
+#: buttons/deprecated/text-underlined-v2.xml:5
+#: buttons/deprecated/text-underlined.xml:5
+#: buttons/deprecated/text-circle.xml:6 buttons/deprecated/text.xml:6
+#: buttons/deprecated/text-shadow.xml:8 buttons/deprecated/text-square.xml:6
+#: objects/deprecated/text-shadow.xml:8
+msgid "button"
+msgstr ""
+
+#: src/MenuObject.cpp:318
+msgid "object"
+msgstr ""
+
+#: src/MenuObject.cpp:1039 src/MenuObject.cpp:1048
+#, c-format
+msgid "can't open file '%s'"
+msgstr ""
+
+#: src/SubtitlePropDlg.cpp:103
+msgid "Subtitle Properties"
+msgstr ""
+
+#: src/SubtitlePropDlg.cpp:112
+msgid "Charset:"
+msgstr ""
+
+#: src/SubtitlePropDlg.cpp:116
+msgid "Font:"
+msgstr ""
+
+#: src/SubtitlePropDlg.cpp:133
+msgid "Preview:"
+msgstr ""
+
+#: src/SubtitlePropDlg.cpp:135
+msgid "ABCabcXYZxyz"
+msgstr ""
+
+#: src/SubtitlePropDlg.cpp:139
+msgid "Fill:"
+msgstr ""
+
+#: src/SubtitlePropDlg.cpp:149 src/SubtitlePropDlg.cpp:163
+#: src/SubtitlePropDlg.cpp:180
+msgid "%"
+msgstr ""
+
+#: src/SubtitlePropDlg.cpp:152
+msgid "Outline:"
+msgstr ""
+
+#: src/SubtitlePropDlg.cpp:165
+msgid "Thickness:"
+msgstr ""
+
+#: src/SubtitlePropDlg.cpp:170
+msgid "Shadow:"
+msgstr ""
+
+#: src/SubtitlePropDlg.cpp:182 src/MenuObjectPropDlg.cpp:300
+msgid "Offset:"
+msgstr ""
+
+#: src/SubtitlePropDlg.cpp:193
+msgid "Alignment"
+msgstr ""
+
+#: src/SubtitlePropDlg.cpp:214
+msgid "Margin"
+msgstr ""
+
+#: src/SubtitlePropDlg.cpp:370
+msgid "slant"
+msgstr ""
+
+#: src/SubtitlePropDlg.cpp:372
+msgid "italic"
+msgstr ""
+
+#: src/SubtitlePropDlg.cpp:377
+msgid "light"
+msgstr ""
+
+#: src/SubtitlePropDlg.cpp:379
+msgid "bold"
+msgstr ""
+
+#: src/MenuCellsDlg.cpp:107
+msgid "Type"
+msgstr ""
+
+#: src/MenuCellsDlg.cpp:107
+msgid "End"
+msgstr ""
+
+#: src/MenuCellsDlg.cpp:107
+msgid "Pause"
+msgstr ""
+
+#: src/MenuCellsDlg.cpp:107
+msgid "Commands"
+msgstr ""
+
+#: src/MenuCellsDlg.cpp:137
+msgid "Menu cells"
+msgstr ""
+
+#: src/MenuCellsDlg.cpp:139 src/MenuPropDlg.cpp:182
+msgid "Cells:"
+msgstr ""
+
+#: src/ChaptersDlg.cpp:90 src/TitlePropDlg.cpp:129
+msgid "Chapters:"
+msgstr ""
+
+#: src/ChaptersDlg.cpp:119
+msgid "Chapters"
+msgstr ""
+
+#: src/MessageDlg.cpp:75
+msgid "&Don't show this message again"
+msgstr ""
+
+#: src/MainWin.cpp:153
+msgid "&New\tCtrl-N"
+msgstr ""
+
+#: src/MainWin.cpp:154
+msgid "&Open...\tCtrl-O"
+msgstr ""
+
+#: src/MainWin.cpp:155
+msgid "&Save\tCtrl-S"
+msgstr ""
+
+#: src/MainWin.cpp:156
+msgid "S&ave as...\tShift-Ctrl-S"
+msgstr ""
+
+#: src/MainWin.cpp:157
+msgid "&Burn DVD...\tF9"
+msgstr ""
+
+#: src/MainWin.cpp:162
+msgid "&Exit\tAlt-X"
+msgstr ""
+
+#: src/MainWin.cpp:163
+msgid "&File"
+msgstr ""
+
+#: src/MainWin.cpp:165
+msgid "&Undo\tCtrl-Z"
+msgstr ""
+
+#: src/MainWin.cpp:168
+msgid "&Redo\tCtrl-Y"
+msgstr ""
+
+#: src/MainWin.cpp:171
+msgid "&Edit"
+msgstr ""
+
+#: src/MainWin.cpp:176 src/MainWin.cpp:311
+msgid "Titles from &DVD..."
+msgstr ""
+
+#: src/MainWin.cpp:182
+msgid "&Options..."
+msgstr ""
+
+#: src/MainWin.cpp:183
+msgid "&DVD"
+msgstr ""
+
+#: src/MainWin.cpp:185
+msgid "&Settings..."
+msgstr ""
+
+#: src/MainWin.cpp:186
+msgid "&Configuration"
+msgstr ""
+
+#: src/MainWin.cpp:188
+msgid "&Contents\tF1"
+msgstr ""
+
+#: src/MainWin.cpp:189
+msgid "&About..."
+msgstr ""
+
+#: src/MainWin.cpp:190
+msgid "&Help"
+msgstr ""
+
+#: src/MainWin.cpp:193
+msgid "Directory"
+msgstr ""
+
+#: src/MainWin.cpp:253
+msgid "&Assign to background"
+msgstr ""
+
+#: src/MainWin.cpp:284
+msgid "DVDStyler"
+msgstr ""
+
+#: src/MainWin.cpp:297
+msgid "New"
+msgstr ""
+
+#: src/MainWin.cpp:298
+msgid "Open..."
+msgstr ""
+
+#: src/MainWin.cpp:299
+msgid "Save"
+msgstr ""
+
+#: src/MainWin.cpp:301
+msgid "DVD Options..."
+msgstr ""
+
+#: src/MainWin.cpp:303
+msgid "Burn..."
+msgstr ""
+
+#: src/MainWin.cpp:307 src/MainWin.cpp:315
+msgid "Add File..."
+msgstr ""
+
+#: src/MainWin.cpp:333 src/MainWin.cpp:341
+msgid "File browser"
+msgstr ""
+
+#: src/MainWin.cpp:334 src/MainWin.cpp:343 src/MainWin.cpp:446
+msgid "Backgrounds"
+msgstr ""
+
+#: src/MainWin.cpp:335 src/MainWin.cpp:344 src/MainWin.cpp:479
+#: src/MenuPropDlg.cpp:136
+msgid "Buttons"
+msgstr ""
+
+#: src/MainWin.cpp:529
+msgid "Double click to set the background."
+msgstr ""
+
+#: src/MainWin.cpp:536
+#, c-format
+msgid "%s (%.1f KB)"
+msgstr ""
+
+#: src/MainWin.cpp:538
+#, c-format
+msgid "%s (%.1f MB)"
+msgstr ""
+
+#: src/MainWin.cpp:541
+#, c-format
+msgid "%s (%.1f GB)"
+msgstr ""
+
+#: src/MainWin.cpp:564 src/SettingsDlg.cpp:120
+msgid "min"
+msgstr ""
+
+#: src/MainWin.cpp:623
+#, c-format
+msgid "Are you sure you want to delete '%s' from the file system?"
+msgstr ""
+
+#: src/MainWin.cpp:696
+msgid "Play all"
+msgstr ""
+
+#: src/MainWin.cpp:698
+msgid "Select title"
+msgstr ""
+
+#: src/MainWin.cpp:700
+msgid "Back"
+msgstr ""
+
+#: src/MainWin.cpp:702
+msgid "Previous"
+msgstr ""
+
+#: src/MainWin.cpp:704
+msgid "Next"
+msgstr ""
+
+#: src/MainWin.cpp:748
+#, c-format
+msgid "Error opening '%s'"
+msgstr ""
+
+#: src/MainWin.cpp:766
+msgid "Open a DVDStyler project file"
+msgstr ""
+
+#: src/MainWin.cpp:767 src/MainWin.cpp:888
+msgid "Project files"
+msgstr ""
+
+#: src/MainWin.cpp:787 src/MainWin.cpp:843
+msgid "Untitled"
+msgstr ""
+
+#: src/MainWin.cpp:844
+#, c-format
+msgid "The file '%s' was modified, save changes?"
+msgstr ""
+
+#: src/MainWin.cpp:845
+msgid "Confirm"
+msgstr ""
+
+#: src/MainWin.cpp:887
+msgid "Save a DVDStyler project file"
+msgstr ""
+
+#: src/MainWin.cpp:889 src/MainWin.cpp:1042 src/MainWin.cpp:1046
+#: src/MenuObjectPropDlg.cpp:241 src/MenuObjectPropDlg.cpp:273
+#: src/SettingsDlg.cpp:220 src/TitlePropDlg.cpp:195 src/TitlePropDlg.cpp:377
+#: src/MenuPropDlg.cpp:102 src/MenuPropDlg.cpp:168
+msgid "All Files"
+msgstr ""
+
+#: src/MainWin.cpp:909
+msgid ""
+"The selected video files don't fit on DVD. Please reduce\n"
+"video quality (bitrate) or remove some titles."
+msgstr ""
+
+#: src/MainWin.cpp:930
+msgid ""
+"Project doesn't contain any video title. To add a title please\n"
+"drag a video file into the bottom section of the window."
+msgstr ""
+
+#: src/MainWin.cpp:935
+#, c-format
+msgid ""
+"Titleset %d doesn't contain any video title. To add a title\n"
+"please drag a video file into the bottom section of the window."
+msgstr ""
+
+#: src/MainWin.cpp:1036
+msgid "Audio/Video/Subtitle Files"
+msgstr ""
+
+#: src/MainWin.cpp:1038 src/TitlePropDlg.cpp:194 src/TitlePropDlg.cpp:391
+#: src/MenuPropDlg.cpp:167
+msgid "Audio Files"
+msgstr ""
+
+#: src/MainWin.cpp:1039 src/MainWin.cpp:1044
+msgid "Video Files"
+msgstr ""
+
+#: src/MainWin.cpp:1040 src/TitlePropDlg.cpp:392
+msgid "Subtitle Files"
+msgstr ""
+
+#: src/MainWin.cpp:1041 src/MainWin.cpp:1045
+msgid "Image Files"
+msgstr ""
+
+#: src/MainWin.cpp:1047 src/TitlePropDlg.cpp:375 src/TitlePropDlg.cpp:389
+#: wxVillaLib/PropDlg.cpp:774
+msgid "Choose a file"
+msgstr ""
+
+#: src/MainWin.cpp:1073
+msgid "Choose DVD device or directory"
+msgstr ""
+
+#: src/MPEG.cpp:17 src/MPEG.cpp:47
+#, c-format
+msgid "Can't open file %s"
+msgstr ""
+
+#: src/MenuActionsDlg.cpp:95
+msgid "ID"
+msgstr ""
+
+#: src/MenuActionsDlg.cpp:95
+msgid "Command"
+msgstr ""
+
+#: src/MenuActionsDlg.cpp:128
+msgid "Menu Actions"
+msgstr ""
+
+#: src/MenuActionsDlg.cpp:130 src/MenuPropDlg.cpp:183
+msgid "Actions:"
+msgstr ""
+
+#: src/MenuActionsDlg.cpp:210
+#, c-format
+msgid "Duplicated action ID '%s'."
+msgstr ""
+
+#: src/NewProjectDlg.cpp:19
+msgid "Create a new DVD"
+msgstr ""
+
+#: src/NewProjectDlg.cpp:34
+msgid "Disc label:"
+msgstr ""
+
+#: src/NewProjectDlg.cpp:37
+msgid "Disc capacity:"
+msgstr ""
+
+#: src/NewProjectDlg.cpp:43
+msgid "Video bitrate:"
+msgstr ""
+
+#: src/NewProjectDlg.cpp:46 src/NewProjectDlg.cpp:52 src/SettingsDlg.cpp:212
+#: src/SettingsDlg.cpp:213 src/SettingsDlg.cpp:214
+msgid "KBit/s"
+msgstr ""
+
+#: src/NewProjectDlg.cpp:52
+msgid "Audio bitrate:"
+msgstr ""
+
+#: src/NewProjectDlg.cpp:63
+msgid "Video Format"
+msgstr ""
+
+#: src/NewProjectDlg.cpp:72
+msgid "Aspect Ratio"
+msgstr ""
+
+#: src/NewProjectDlg.cpp:82
+msgid "Audio Format"
+msgstr ""
+
+#: src/NewProjectDlg.cpp:91 src/SettingsDlg.cpp:124
+msgid "Default title post command:"
+msgstr ""
+
+#: src/NewProjectDlg.cpp:97
+msgid "Please enter the volume name."
+msgstr ""
+
+#: src/NewProjectDlg.cpp:101
+msgid "Volume name can only be a maximum of 32 characters."
+msgstr ""
+
+#: src/ProgressDlg.cpp:54 src/ProgressDlg.cpp:82
+msgid "Executing command: "
+msgstr ""
+
+#: src/ProgressDlg.cpp:328
+msgid "Summary:"
+msgstr ""
+
+#: src/ProgressDlg.cpp:331
+msgid "Details:"
+msgstr ""
+
+#: src/ProgressDlg.cpp:333
+msgid "Hide details"
+msgstr ""
+
+#: src/ProgressDlg.cpp:334
+msgid "Minimize"
+msgstr ""
+
+#: src/ProgressDlg.cpp:349
+msgid "Generate DVD"
+msgstr ""
+
+#: src/ProgressDlg.cpp:389
+msgid "Show details"
+msgstr ""
+
+#: src/ProgressDlg.cpp:451
+msgid "Failed"
+msgstr ""
+
+#: src/ProgressDlg.cpp:457 src/ProgressDlg.cpp:963 src/ProgressDlg.cpp:1055
+#: src/ProgressDlg.cpp:1095 src/ProgressDlg.cpp:1113 src/ProgressDlg.cpp:1155
+msgid "Aborted"
+msgstr ""
+
+#: src/ProgressDlg.cpp:469
+msgid "Close"
+msgstr ""
+
+#: src/ProgressDlg.cpp:547
+#, c-format
+msgid "Found transcoded file in cache for '%s'"
+msgstr ""
+
+#: src/ProgressDlg.cpp:615
+msgid "Prepare"
+msgstr ""
+
+#: src/ProgressDlg.cpp:627
+msgid "Search for transcoded files in cache"
+msgstr ""
+
+#: src/ProgressDlg.cpp:690
+msgid "Burning was successful."
+msgstr ""
+
+#: src/ProgressDlg.cpp:692
+msgid "Generating was successful."
+msgstr ""
+
+#: src/ProgressDlg.cpp:723
+msgid "Generating menus"
+msgstr ""
+
+#: src/ProgressDlg.cpp:726
+#, c-format
+msgid "Generating menu %u of %lu"
+msgstr ""
+
+#: src/ProgressDlg.cpp:761
+msgid "Transcode/remultiplex"
+msgstr ""
+
+#: src/ProgressDlg.cpp:787
+msgid "Generate slideshow"
+msgstr ""
+
+#: src/ProgressDlg.cpp:790
+#, c-format
+msgid "Generating slideshow %u of %lu"
+msgstr ""
+
+#: src/ProgressDlg.cpp:821
+msgid "Multiplexing subtitles"
+msgstr ""
+
+#: src/ProgressDlg.cpp:824
+#, c-format
+msgid "Multiplexing subtitles %u of %lu"
+msgstr ""
+
+#: src/ProgressDlg.cpp:848
+#, c-format
+msgid "Can't rename temporary file '%s'"
+msgstr ""
+
+#: src/ProgressDlg.cpp:900
+msgid "Generating DVD"
+msgstr ""
+
+#: src/ProgressDlg.cpp:926
+msgid "Start preview"
+msgstr ""
+
+#: src/ProgressDlg.cpp:933
+msgid ""
+"Starting of DVD player is failed. Please check the path to the DVD player in "
+"the 'Settings/Core/Preview command' or open the following directory with "
+"your DVD player: "
+msgstr ""
+
+#: src/ProgressDlg.cpp:954
+msgid ""
+"Unfortunately there is no DVD player specified in the DVDStyler settings. "
+"Please set the path to the DVD player in the 'Settings/Core/Preview command' "
+"or open the following directory with your DVD player: "
+msgstr ""
+
+#: src/ProgressDlg.cpp:961
+msgid "Do you want to burn this video to DVD?"
+msgstr ""
+
+#: src/ProgressDlg.cpp:961
+msgid "Do you want to create an iso image of this video?"
+msgstr ""
+
+#: src/ProgressDlg.cpp:1001
+msgid "There is not enough space to store ISO: cache emptying."
+msgstr ""
+
+#: src/ProgressDlg.cpp:1004
+msgid "Creating ISO image"
+msgstr ""
+
+#: src/ProgressDlg.cpp:1025
+msgid "Adding ECC data"
+msgstr ""
+
+#: src/ProgressDlg.cpp:1043
+msgid "Formatting DVD-RW"
+msgstr ""
+
+#: src/ProgressDlg.cpp:1053
+#, c-format
+msgid "Please insert erasable DVD into the device %s."
+msgstr ""
+
+#: src/ProgressDlg.cpp:1063
+msgid "Formatting DVD-RW failed. Try again?"
+msgstr ""
+
+#: src/ProgressDlg.cpp:1068
+msgid "-> skipped <-"
+msgstr ""
+
+#: src/ProgressDlg.cpp:1086
+msgid "Burning"
+msgstr ""
+
+#: src/ProgressDlg.cpp:1093 src/ProgressDlg.cpp:1111
+#, c-format
+msgid "Please insert empty DVD into the device %s."
+msgstr ""
+
+#: src/ProgressDlg.cpp:1153
+#, c-format
+msgid "Size of Disc Image > %.2f GB. Do you want to continue?"
+msgstr ""
+
+#: src/ProgressDlg.cpp:1191
+msgid "Transcode video file: "
+msgstr ""
+
+#: src/ProgressDlg.cpp:1298 src/ProgressDlg.cpp:1308 src/ProgressDlg.cpp:1332
+#: src/ProgressDlg.cpp:1344 src/ProgressDlg.cpp:1474 src/ProgressDlg.cpp:1481
+msgid "Error transcoding of "
+msgstr ""
+
+#: src/ProgressDlg.cpp:1372
+msgid "Multiplexing video and audio streams"
+msgstr ""
+
+#: src/ProgressDlg.cpp:1402
+msgid "Create menu MPEG"
+msgstr ""
+
+#: src/ProgressDlg.cpp:1433 src/ProgressDlg.cpp:1450 src/ProgressDlg.cpp:1514
+#: src/ProgressDlg.cpp:1535
+msgid "Error creation of menu"
+msgstr ""
+
+#: src/ProgressDlg.cpp:1439
+#, c-format
+msgid "Video duration: %f sec"
+msgstr ""
+
+#: src/ProgressDlg.cpp:1447
+#, c-format
+msgid "Encoding frame %d of %d"
+msgstr ""
+
+#: src/ProgressDlg.cpp:1464
+msgid "Transcode audio from"
+msgstr ""
+
+#: src/ProgressDlg.cpp:1486 src/ProgressDlg.cpp:1546 src/ProgressDlg.cpp:1648
+msgid "Multiplexing audio and video"
+msgstr ""
+
+#: src/ProgressDlg.cpp:1523
+#, c-format
+msgid "Audio duration: %f sec"
+msgstr ""
+
+#: src/ProgressDlg.cpp:1569
+msgid "Multiplexing subpictures into mpeg"
+msgstr ""
+
+#: src/ProgressDlg.cpp:1576
+#, c-format
+msgid "Can't rename file '%s' in '%s'"
+msgstr ""
+
+#: src/ProgressDlg.cpp:1620
+msgid "Generating slideshow"
+msgstr ""
+
+#: src/ProgressDlg.cpp:1628 src/ProgressDlg.cpp:1637
+msgid "Error creation of slideshow"
+msgstr ""
+
+#: src/ProgressDlg.cpp:1633
+#, c-format
+msgid "Converting slide %u image to video"
+msgstr ""
+
+#: src/ProgressDlg.cpp:1697
+msgid "Cleaning temporary directory"
+msgstr ""
+
+#: src/MenuObjectPropDlg.cpp:42 src/TitlePropDlg.cpp:66 src/MenuPropDlg.cpp:49
+msgid "Properties"
+msgstr ""
+
+#: src/MenuObjectPropDlg.cpp:76
+msgid "Action"
+msgstr ""
+
+#: src/MenuObjectPropDlg.cpp:93
+msgid "Jump to"
+msgstr ""
+
+#: src/MenuObjectPropDlg.cpp:102
+msgid "Play all titles"
+msgstr ""
+
+#: src/MenuObjectPropDlg.cpp:114 src/MenuObjectPropDlg.cpp:332
+#: src/SettingsDlg.cpp:154 src/DVD.cpp:871
+msgid "Custom"
+msgstr ""
+
+#: src/MenuObjectPropDlg.cpp:127 src/MenuObjectPropDlg.cpp:136
+msgid "last selected"
+msgstr ""
+
+#: src/MenuObjectPropDlg.cpp:129 src/MenuObjectPropDlg.cpp:139
+msgid "track"
+msgstr ""
+
+#: src/MenuObjectPropDlg.cpp:130 src/TitlePropDlg.cpp:187
+#: src/MenuPropDlg.cpp:207
+msgid "Audio"
+msgstr ""
+
+#: src/MenuObjectPropDlg.cpp:137
+msgid "off"
+msgstr ""
+
+#: src/MenuObjectPropDlg.cpp:140
+msgid "subtitle"
+msgstr ""
+
+#: src/MenuObjectPropDlg.cpp:147
+msgid "Auto execute"
+msgstr ""
+
+#: src/MenuObjectPropDlg.cpp:150
+msgid "Navigation"
+msgstr ""
+
+#: src/MenuObjectPropDlg.cpp:160
+msgid "Look"
+msgstr ""
+
+#: src/MenuObjectPropDlg.cpp:179
+msgid "Normal"
+msgstr ""
+
+#: src/MenuObjectPropDlg.cpp:180
+msgid "Highlighted"
+msgstr ""
+
+#: src/MenuObjectPropDlg.cpp:181
+msgid "Selected"
+msgstr ""
+
+#: src/MenuObjectPropDlg.cpp:206
+msgid "Font..."
+msgstr ""
+
+#: src/MenuObjectPropDlg.cpp:238 buttons/ellipse-v2.xml:23
+#: buttons/deprecated/frame.xml:11 buttons/deprecated/frame-shadow.xml:18
+#: buttons/frame-v2.xml:18 objects/image.xml:3 objects/image.xml:9
+msgid "Image"
+msgstr ""
+
+#: src/MenuObjectPropDlg.cpp:245
+msgid "Video"
+msgstr ""
+
+#: src/MenuObjectPropDlg.cpp:308
+msgid "Deviation:"
+msgstr ""
+
+#: src/MenuObjectPropDlg.cpp:323
+msgid "Location"
+msgstr ""
+
+#: src/MenuObjectPropDlg.cpp:325
+msgid "X:"
+msgstr ""
+
+#: src/MenuObjectPropDlg.cpp:326
+msgid "Y:"
+msgstr ""
+
+#: src/MenuObjectPropDlg.cpp:332
+msgid "Size"
+msgstr ""
+
+#: src/MenuObjectPropDlg.cpp:334
+msgid "Width:"
+msgstr ""
+
+#: src/MenuObjectPropDlg.cpp:336
+msgid "Height:"
+msgstr ""
+
+#: src/MenuObjectPropDlg.cpp:339 src/MenuPropDlg.cpp:107
+#: src/VideoPropDlg.cpp:98
+msgid "Keep Aspect Ratio"
+msgstr ""
+
+#: src/MenuObjectPropDlg.cpp:383
+msgid "start of current menu"
+msgstr ""
+
+#: src/MenuObjectPropDlg.cpp:409
+msgid "title vmMenu"
+msgstr ""
+
+#: src/MenuObjectPropDlg.cpp:461 src/MenuObjectPropDlg.cpp:465
+#, c-format
+msgid "chapter %d"
+msgstr ""
+
+#: src/MenuObjectPropDlg.cpp:589 src/MenuObjectPropDlg.cpp:596
+msgid "none"
+msgstr ""
+
+#: src/MenuObjectPropDlg.cpp:595 src/MenuPropDlg.cpp:80
+#: src/VideoPropDlg.cpp:93
+msgid "auto"
+msgstr ""
+
+#: src/MenuObjectPropDlg.cpp:629
+msgid "Please enter the action command."
+msgstr ""
+
+#: src/DVDPropDlg.cpp:27
+msgid "First Play Commands:"
+msgstr ""
+
+#: src/DVDPropDlg.cpp:29
+msgid "Create jumppads"
+msgstr ""
+
+#: src/DVDPropDlg.cpp:30
+msgid "Create empty menu/vmMenu if it doesn't exist"
+msgstr ""
+
+#: src/SettingsDlg.cpp:33 src/SettingsDlg.cpp:295
+msgid "Settings"
+msgstr ""
+
+#: src/SettingsDlg.cpp:51
+msgid "Interface"
+msgstr ""
+
+#: src/SettingsDlg.cpp:66
+msgid "Default disc label:"
+msgstr ""
+
+#: src/SettingsDlg.cpp:68
+msgid "Default disc capacity:"
+msgstr ""
+
+#: src/SettingsDlg.cpp:72
+msgid "Default video format:"
+msgstr ""
+
+#: src/SettingsDlg.cpp:96
+msgid "Keep aspect ratio"
+msgstr ""
+
+#: src/SettingsDlg.cpp:101
+msgid "Default audio format:"
+msgstr ""
+
+#: src/SettingsDlg.cpp:120
+msgid "Default chapter length:"
+msgstr ""
+
+#: src/SettingsDlg.cpp:146
+msgid "Default button:"
+msgstr ""
+
+#: src/SettingsDlg.cpp:150
+msgid "Accept invalid actions"
+msgstr ""
+
+#: src/SettingsDlg.cpp:154
+msgid "Last directory"
+msgstr ""
+
+#: src/SettingsDlg.cpp:155
+msgid "File Browser start directory:"
+msgstr ""
+
+#: src/SettingsDlg.cpp:173
+msgid "Clear thumbnail cache after exit"
+msgstr ""
+
+#: src/SettingsDlg.cpp:177
+msgid "Undo history size:"
+msgstr ""
+
+#: src/SettingsDlg.cpp:180
+msgid "\"Don't show again\" flags:"
+msgstr ""
+
+#: src/SettingsDlg.cpp:182
+msgid "Reset All"
+msgstr ""
+
+#: src/SettingsDlg.cpp:191
+msgid "Core"
+msgstr ""
+
+#: src/SettingsDlg.cpp:207
+msgid "Frame count of menu:"
+msgstr ""
+
+#: src/SettingsDlg.cpp:211
+msgid "Draw buttons on background"
+msgstr ""
+
+#: src/SettingsDlg.cpp:212
+msgid "Menu video bitrate:"
+msgstr ""
+
+#: src/SettingsDlg.cpp:213
+msgid "Slideshow video bitrate:"
+msgstr ""
+
+#: src/SettingsDlg.cpp:214
+msgid "Default audio bitrate:"
+msgstr ""
+
+#: src/SettingsDlg.cpp:215
+msgid "Thread count:"
+msgstr ""
+
+#: src/SettingsDlg.cpp:216
+msgid "DVD reserved space:"
+msgstr ""
+
+#: src/SettingsDlg.cpp:216
+msgid "KB"
+msgstr ""
+
+#: src/SettingsDlg.cpp:218 src/SettingsDlg.cpp:222
+msgid "Preview command:"
+msgstr ""
+
+#: src/SettingsDlg.cpp:219
+msgid "Executable Files "
+msgstr ""
+
+#: src/SettingsDlg.cpp:224
+msgid "Create ISO command:"
+msgstr ""
+
+#: src/SettingsDlg.cpp:225
+msgid "Burn command:"
+msgstr ""
+
+#: src/SettingsDlg.cpp:226
+msgid "Burn ISO command:"
+msgstr ""
+
+#: src/SettingsDlg.cpp:227
+msgid "Add ECC command:"
+msgstr ""
+
+#: src/SettingsDlg.cpp:228
+msgid "Format command:"
+msgstr ""
+
+#: src/SettingsDlg.cpp:230
+msgid "Debug"
+msgstr ""
+
+#: src/SettingsDlg.cpp:231
+msgid "Don't remove temp files"
+msgstr ""
+
+#: src/SettingsDlg.cpp:232
+msgid "Use mplex"
+msgstr ""
+
+#: src/SettingsDlg.cpp:233
+msgid "Use mplex for menus"
+msgstr ""
+
+#: src/SettingsDlg.cpp:244
+msgid "Language change will not take effect until DVDStyler is restarted"
+msgstr ""
+
+#: src/SettingsDlg.cpp:295
+msgid "All \"don't show again\" flags are reseted."
+msgstr ""
+
+#: src/TitlePropDlg.cpp:68 src/MenuPropDlg.cpp:52
+msgid "Titleset"
+msgstr ""
+
+#: src/TitlePropDlg.cpp:97 src/MenuPropDlg.cpp:159
+msgid "Video object"
+msgstr ""
+
+#: src/TitlePropDlg.cpp:107
+msgid "Add file..."
+msgstr ""
+
+#: src/TitlePropDlg.cpp:111
+msgid "Remove file"
+msgstr ""
+
+#: src/TitlePropDlg.cpp:115
+msgid "Properties..."
+msgstr ""
+
+#: src/TitlePropDlg.cpp:123
+msgid "do not remultiplex/transcode"
+msgstr ""
+
+#: src/TitlePropDlg.cpp:148
+msgid "Slideshow"
+msgstr ""
+
+#: src/TitlePropDlg.cpp:164
+msgid "Add image..."
+msgstr ""
+
+#: src/TitlePropDlg.cpp:168
+msgid "Remove image"
+msgstr ""
+
+#: src/TitlePropDlg.cpp:176 src/TitlePropDlg.cpp:200 src/MenuPropDlg.cpp:70
+#: src/MenuPropDlg.cpp:173
+msgid "Format:"
+msgstr ""
+
+#: src/TitlePropDlg.cpp:193
+msgid "File:"
+msgstr ""
+
+#: src/TitlePropDlg.cpp:218
+msgid "Palette:"
+msgstr ""
+
+#: src/TitlePropDlg.cpp:220 src/MenuPropDlg.cpp:215
+msgid "Pre commands:"
+msgstr ""
+
+#: src/TitlePropDlg.cpp:222 src/MenuPropDlg.cpp:216
+msgid "Post commands:"
+msgstr ""
+
+#: src/TitlePropDlg.cpp:271 src/MenuPropDlg.cpp:244
+#, c-format
+msgid "File %s doesn't exist."
+msgstr ""
+
+#: src/TitlePropDlg.cpp:278 src/MenuPropDlg.cpp:251
+#, c-format
+msgid "File %s isn't audio file."
+msgstr ""
+
+#: src/TitlePropDlg.cpp:305 src/TitlePropDlg.cpp:449
+#, c-format
+msgid "Invalid chapter timestamp '%s'"
+msgstr ""
+
+#: src/TitlePropDlg.cpp:390
+msgid "Audio & Subtitle Files"
+msgstr ""
+
+#: src/MenuPropDlg.cpp:96
+msgid "Background"
+msgstr ""
+
+#: src/MenuPropDlg.cpp:100
+msgid "Image:"
+msgstr ""
+
+#: src/MenuPropDlg.cpp:110
+msgid "X Min"
+msgstr ""
+
+#: src/MenuPropDlg.cpp:111
+msgid "X Mid"
+msgstr ""
+
+#: src/MenuPropDlg.cpp:112
+msgid "X Max"
+msgstr ""
+
+#: src/MenuPropDlg.cpp:116
+msgid "Y Min"
+msgstr ""
+
+#: src/MenuPropDlg.cpp:117
+msgid "Y Mid"
+msgstr ""
+
+#: src/MenuPropDlg.cpp:118
+msgid "Y Max"
+msgstr ""
+
+#: src/MenuPropDlg.cpp:122
+msgid "Meet"
+msgstr ""
+
+#: src/MenuPropDlg.cpp:123
+msgid "Slice"
+msgstr ""
+
+#: src/MenuPropDlg.cpp:130
+msgid "Colour:"
+msgstr ""
+
+#: src/MenuPropDlg.cpp:140
+msgid "Start/End:"
+msgstr ""
+
+#: src/MenuPropDlg.cpp:145
+msgid "Remember last selected button"
+msgstr ""
+
+#: src/MenuPropDlg.cpp:148 src/DVD.cpp:841 src/DVD.cpp:868
+msgid "Auto"
+msgstr ""
+
+#: src/MenuPropDlg.cpp:166 src/VobListBox.cpp:135
+msgid "Audio:"
+msgstr ""
+
+#: src/MenuPropDlg.cpp:201
+msgid "Entry"
+msgstr ""
+
+#: src/MenuPropDlg.cpp:204
+msgid "Root"
+msgstr ""
+
+#: src/MenuPropDlg.cpp:205
+msgid "Subtitle"
+msgstr ""
+
+#: src/MenuPropDlg.cpp:208
+msgid "Angle"
+msgstr ""
+
+#: src/DVD.cpp:265
+msgid "Some buttons are overlapping"
+msgstr ""
+
+#: src/DVD.cpp:338
+msgid "Some actions are invalid. Please click 'Details' for more information."
+msgstr ""
+
+#: src/DVD.cpp:418
+#, c-format
+msgid "Cannot open file '%s'."
+msgstr ""
+
+#: src/DVD.cpp:424
+#, c-format
+msgid "'%s' is not a DVDStyler project file"
+msgstr ""
+
+#: src/DVD.cpp:504
+msgid "Can't load vmgm menus"
+msgstr ""
+
+#: src/DVD.cpp:513
+msgid "Can't load titleset"
+msgstr ""
+
+#: src/DVD.cpp:800 src/DVD.cpp:819 src/DVD.cpp:832
+msgid "None"
+msgstr ""
+
+#: src/DVD.cpp:802 src/DVD.cpp:821 src/DVD.cpp:834
+msgid "Copy"
+msgstr ""
+
+#: src/DVD.cpp:822
+msgid "MP2 48 kHz"
+msgstr ""
+
+#: src/DVD.cpp:823
+msgid "AC3 48 kHz"
+msgstr ""
+
+#: src/DVD.cpp:825
+msgid "PCM 48 kHz"
+msgstr ""
+
+#: src/DVD.cpp:849
+msgid "DVD-1 (1.4 GB)"
+msgstr ""
+
+#: src/DVD.cpp:850
+msgid "DVD-2 (2.6 GB)"
+msgstr ""
+
+#: src/DVD.cpp:851
+msgid "DVD-5 (4.7 GB)"
+msgstr ""
+
+#: src/DVD.cpp:852
+msgid "DVD-9 (8.5 GB)"
+msgstr ""
+
+#: src/DVD.cpp:853
+msgid "Unlimited"
+msgstr ""
+
+#: src/DVD.cpp:860
+msgid "Call last menu"
+msgstr ""
+
+#: src/DVD.cpp:861
+msgid "Call root menu"
+msgstr ""
+
+#: src/DVD.cpp:862
+msgid "Play next title"
+msgstr ""
+
+#: src/DVD.cpp:870
+#, c-format
+msgid "%d MBit/s"
+msgstr ""
+
+#: src/About.cpp:35
+msgid "About ..."
+msgstr ""
+
+#: src/About.cpp:39
+msgid "About"
+msgstr ""
+
+#: src/About.cpp:46
+msgid "Written by: "
+msgstr ""
+
+#: src/About.cpp:48
+msgid "Version: "
+msgstr ""
+
+#: src/About.cpp:50
+msgid "Licence type: "
+msgstr ""
+
+#: src/About.cpp:52
+msgid "Copyright: "
+msgstr ""
+
+#: src/About.cpp:73
+msgid "DVDStyler is a crossplatform authoring system for Video DVD production."
+msgstr ""
+
+#: src/About.cpp:85
+msgid "Forum"
+msgstr ""
+
+#: src/About.cpp:86
+#, c-format
+msgid ""
+"Please use %sDVDStyler forum%s to get support, ask questions, or discuss "
+"this software."
+msgstr ""
+
+#: src/About.cpp:88
+msgid "WIKI"
+msgstr ""
+
+#: src/About.cpp:89
+#, c-format
+msgid ""
+"Some documentation and %sFAQ%s you can find in %sDVDStyler WIKI%s or you can "
+"publish there your comments or small guides."
+msgstr ""
+
+#: src/About.cpp:92
+msgid "Bugs & RFE"
+msgstr ""
+
+#: src/About.cpp:93
+#, c-format
+msgid ""
+"Please use %sSourceforge Bugtracing system%s to report bug and %sSourceforge "
+"RFE system%s to submit a new feature request."
+msgstr ""
+
+#: src/About.cpp:98
+msgid "Support"
+msgstr ""
+
+#: src/About.cpp:106
+msgid "Author and Maintainer"
+msgstr ""
+
+#: src/About.cpp:111
+msgid "Doc Writer"
+msgstr ""
+
+#: src/About.cpp:116
+msgid "Packager (.deb)"
+msgstr ""
+
+#: src/About.cpp:121
+msgid "Translations"
+msgstr ""
+
+#: src/About.cpp:127
+msgid "Libraries and Tools"
+msgstr ""
+
+#: src/About.cpp:136
+msgid "Authors"
+msgstr ""
+
+#: src/About.cpp:143
+msgid ""
+"DVDStyler is <a href='http://www.gnu.org/philosophy/free-sw.html'>free "
+"software</a> distributed under <a href='http://www.gnu.org/copyleft/gpl."
+"html'>GNU General Public License (GPL)</a>. Please visit those sites for "
+"details of each agreement."
+msgstr ""
+
+#: src/About.cpp:148
+msgid ""
+"THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR "
+"IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, "
+"FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE "
+"AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER "
+"LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING "
+"FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS "
+"IN THE SOFTWARE."
+msgstr ""
+
+#: src/About.cpp:157
+msgid "Licence"
+msgstr ""
+
+#: src/VideoPropDlg.cpp:74
+msgid "Crop"
+msgstr ""
+
+#: src/VideoPropDlg.cpp:75
+msgid "Border"
+msgstr ""
+
+#: src/VideoPropDlg.cpp:88
+msgid "progressive"
+msgstr ""
+
+#: src/VideoPropDlg.cpp:89
+msgid "interlaced"
+msgstr ""
+
+#: src/VideoPropDlg.cpp:94
+msgid "BFF"
+msgstr ""
+
+#: src/VideoPropDlg.cpp:95
+msgid "TFF"
+msgstr ""
+
+#: src/VideoPropDlg.cpp:107
+msgid "Fade-In:"
+msgstr ""
+
+#: src/VideoPropDlg.cpp:110
+msgid "Fade-Out:"
+msgstr ""
+
+#: src/VideoPropDlg.cpp:113
+msgid "Filters:"
+msgstr ""
+
+#: src/VideoPropDlg.cpp:141
+msgid "Video properties"
+msgstr ""
+
+#: src/VideoPropDlg.cpp:521 src/VideoPropDlg.cpp:526
+msgid "Invalid time"
+msgstr ""
+
+#: src/Titleset.cpp:292 src/Titleset.cpp:359
+msgid "Can't load pgc"
+msgstr ""
+
+#: src/Titleset.cpp:407
+msgid "Can't load menus"
+msgstr ""
+
+#: src/Titleset.cpp:412
+msgid "Can't load titles"
+msgstr ""
+
+#: src/VobListBox.cpp:122
+msgid "Video:"
+msgstr ""
+
+#: src/VobListBox.cpp:158 src/VobListBox.cpp:203
+msgid "Subtitle:"
+msgstr ""
+
+#: wxVillaLib/PropDlg.cpp:182
+msgid "&Don't show this dialog again"
+msgstr ""
+
+#: wxVillaLib/imagjpg.cpp:255
+msgid "JPEG: Couldn't load - file is probably corrupted."
+msgstr ""
+
+#: wxVillaLib/imagjpg.cpp:427
+msgid "JPEG: Couldn't save image."
+msgstr ""
+
+#: wxVillaLib/imagjpg.cpp:512
+msgid "No handler found for image type."
+msgstr ""
+
+#: wxVillaLib/imagjpg.cpp:519
+#, c-format
+msgid "No image handler for type %d defined."
+msgstr ""
+
+#: wxVillaLib/imagjpg.cpp:537
+#, c-format
+msgid "Can't load image from file '%s': file does not exist."
+msgstr ""
+
+#: buttons/text-circle-v2.xml:3 buttons/deprecated/text-circle.xml:3
+msgid "Text with circle"
+msgstr ""
+
+#: buttons/text-circle-v2.xml:19 buttons/text-underlined-v3.xml:19
+#: buttons/text-square-v2.xml:19 buttons/pill.xml:53 buttons/text-v3.xml:19
+#: buttons/deprecated/text-v2.xml:11
+#: buttons/deprecated/text-underlined-v2.xml:11
+#: buttons/deprecated/text-underlined.xml:11
+#: buttons/deprecated/text-circle.xml:11 buttons/deprecated/text.xml:12
+#: buttons/deprecated/text-shadow.xml:16 buttons/deprecated/text-square.xml:11
+#: objects/deprecated/text-shadow.xml:16
+msgid "Label"
+msgstr ""
+
+#: buttons/text-circle-v2.xml:25 buttons/text-underlined-v3.xml:25
+#: buttons/text-square-v2.xml:25 buttons/pill.xml:59 buttons/text-v3.xml:25
+#: buttons/deprecated/text-v2.xml:17
+#: buttons/deprecated/text-underlined-v2.xml:17
+#: buttons/deprecated/text-underlined.xml:17
+#: buttons/deprecated/text-circle.xml:17 buttons/deprecated/text.xml:18
+#: buttons/deprecated/text-shadow.xml:22 buttons/deprecated/text-square.xml:17
+#: objects/deprecated/text-shadow.xml:22
+msgid "Text colour"
+msgstr ""
+
+#: buttons/text-circle-v2.xml:32 buttons/arrow-simple-v2.xml:49
+#: buttons/text-underlined-v3.xml:32 buttons/arrow3d-left.xml:41
+#: buttons/text-square-v2.xml:32 buttons/ellipse-v2.xml:44
+#: buttons/home-v2.xml:35 buttons/text-v3.xml:58 buttons/frame-v2.xml:53
+#: buttons/arrow3d-right.xml:41 objects/text-v2.xml:53
+#: objects/ellipse-v2.xml:38 objects/rectangle-v2.xml:38
+#: objects/frame-v2.xml:52
+msgid "Shadow"
+msgstr ""
+
+#: buttons/text-circle-v2.xml:39 buttons/deprecated/text-circle.xml:24
+msgid "Circle colour"
+msgstr ""
+
+#: buttons/text-circle-v2.xml:51 buttons/deprecated/text-circle.xml:36
+msgid "Circle radius"
+msgstr ""
+
+#: buttons/arrow-double.xml:4
+msgid "Double Arrow"
+msgstr ""
+
+#: buttons/arrow-double.xml:13 buttons/arrow3.xml:19
+#: buttons/arrow-green-double.xml:382 buttons/arrow-cool.xml:17
+#: buttons/arrow-simple-v2.xml:42 buttons/arrow2.xml:25
+#: buttons/arrow-star.xml:21 buttons/arrow-gold.xml:26
+#: buttons/arrow-red.xml:29 buttons/arrow-blue.xml:26 buttons/arrow.xml:42
+#: buttons/arrow-green.xml:374 buttons/deprecated/arrow-simple.xml:11
+msgid "Rotation"
+msgstr ""
+
+#: buttons/arrow-double.xml:20
+msgid "Arrow color 1"
+msgstr ""
+
+#: buttons/arrow-double.xml:32
+msgid "Arrow color 2"
+msgstr ""
+
+#: buttons/arrow3.xml:3
+msgid "Circle Arrow"
+msgstr ""
+
+#: buttons/arrow3.xml:26 buttons/deprecated/arrow-right.xml:23
+#: buttons/deprecated/arrow-left.xml:23 buttons/deprecated/arrow-down.xml:23
+#: buttons/deprecated/arrow-up.xml:23
+msgid "Colour of the circle"
+msgstr ""
+
+#: buttons/arrow3.xml:33 buttons/arrow2.xml:53
+#: buttons/deprecated/arrow-right.xml:30
+#: buttons/deprecated/arrow2-right.xml:47 buttons/deprecated/arrow2-up.xml:47
+#: buttons/deprecated/arrow-left.xml:30 buttons/deprecated/arrow-down.xml:30
+#: buttons/deprecated/arrow-up.xml:30 buttons/deprecated/arrow2-down.xml:47
+#: buttons/deprecated/arrow2-left.xml:47
+msgid "Ring colour"
+msgstr ""
+
+#: buttons/arrow3.xml:40 buttons/arrow2.xml:60 buttons/arrow.xml:11
+#: buttons/arrow-green.xml:381 buttons/deprecated/arrow-right.xml:37
+#: buttons/deprecated/arrow2-right.xml:54 buttons/deprecated/arrow2-up.xml:54
+#: buttons/deprecated/arrow-left.xml:37 buttons/deprecated/arrow-down.xml:37
+#: buttons/deprecated/arrow-up.xml:37 buttons/deprecated/arrow2-down.xml:54
+#: buttons/deprecated/arrow-next.xml:25 buttons/deprecated/arrow2-left.xml:54
+msgid "Arrow colour"
+msgstr ""
+
+#: buttons/arrow-green-double.xml:4
+msgid "Green Arrow Double"
+msgstr ""
+
+#: buttons/arrow-green-double.xml:389
+msgid "Arrow 1 colour"
+msgstr ""
+
+#: buttons/arrow-green-double.xml:401
+msgid "Arrow 2 colour"
+msgstr ""
+
+#: buttons/ok.xml:14 buttons/cancel.xml:16 objects/text-v2.xml:25
+#: objects/deprecated/text.xml:18
+msgid "Fill colour"
+msgstr ""
+
+#: buttons/ok.xml:27 buttons/cancel.xml:28 buttons/ellipse-v2.xml:51
+#: buttons/arrow.xml:23 buttons/deprecated/ellipse.xml:17
+#: buttons/deprecated/arrow-next.xml:13 objects/text-v2.xml:32
+#: objects/ellipse-v2.xml:24 objects/deprecated/ellipse.xml:18
+#: objects/deprecated/frame.xml:31 objects/deprecated/text.xml:25
+#: objects/frame-v2.xml:38
+msgid "Outline colour"
+msgstr ""
+
+#: buttons/arrow-cool.xml:4
+msgid "Cool Arrow"
+msgstr ""
+
+#: buttons/arrow-cool.xml:24
+msgid "Color 1"
+msgstr ""
+
+#: buttons/arrow-cool.xml:31
+msgid "Color 2"
+msgstr ""
+
+#: buttons/arrow-cool.xml:38 buttons/arrow-simple-v2.xml:30
+#: buttons/arrow-mirror-left.xml:19 buttons/arrow-gold.xml:33
+#: buttons/arrow-red.xml:50 buttons/arrow-blue.xml:47
+#: buttons/arrow-text-right.xml:26 buttons/arrow-mirror-right.xml:19
+#: buttons/arrow-text-left.xml:18 buttons/deprecated/arrow-simple.xml:30
+msgid "Arrow color"
+msgstr ""
+
+#: buttons/pill3.xml:4
+msgid "Pill 3"
+msgstr ""
+
+#: buttons/pill3.xml:22 buttons/arrow-red.xml:36
+msgid "Button color"
+msgstr ""
+
+#: buttons/pill3.xml:35 buttons/arrow-text-right.xml:19 buttons/pill2.xml:47
+#: buttons/arrow-text-left.xml:31
+msgid "Text color"
+msgstr ""
+
+#: buttons/hand-left.xml:4
+msgid "Hand Left"
+msgstr ""
+
+#: buttons/hand-left.xml:13 buttons/hand-right.xml:13
+msgid "Hand color"
+msgstr ""
+
+#: buttons/arrow-simple-v2.xml:4 buttons/deprecated/arrow-simple.xml:4
+msgid "Simple Arrow"
+msgstr ""
+
+#: buttons/arrow-simple-v2.xml:18 buttons/arrow3d-left.xml:29
+#: buttons/arrow-red.xml:43 buttons/arrow-blue.xml:40
+#: buttons/arrow-text-right.xml:33 buttons/arrow-text-left.xml:11
+#: buttons/deprecated/arrow-simple.xml:18 buttons/arrow3d-right.xml:29
+msgid "Stroke color"
+msgstr ""
+
+#: buttons/text-underlined-v3.xml:3
+#: buttons/deprecated/text-underlined-v2.xml:3
+#: buttons/deprecated/text-underlined.xml:3
+msgid "Underlined text"
+msgstr ""
+
+#: buttons/text-underlined-v3.xml:39
+#: buttons/deprecated/text-underlined-v2.xml:24
+#: buttons/deprecated/text-underlined.xml:24
+msgid "Underline colour"
+msgstr ""
+
+#: buttons/text-underlined-v3.xml:51
+#: buttons/deprecated/text-underlined-v2.xml:36
+msgid "Underline thickness"
+msgstr ""
+
+#: buttons/text-underlined-v3.xml:58
+#: buttons/deprecated/text-underlined-v2.xml:43
+msgid "Underline offset"
+msgstr ""
+
+#: buttons/arrow2.xml:3
+msgid "Circle Arrow 3D"
+msgstr ""
+
+#: buttons/arrow2.xml:32 buttons/deprecated/arrow2-right.xml:26
+#: buttons/deprecated/arrow2-up.xml:26 buttons/deprecated/arrow2-down.xml:26
+#: buttons/deprecated/arrow2-left.xml:26
+msgid "Colour 1"
+msgstr ""
+
+#: buttons/arrow2.xml:39 buttons/deprecated/arrow2-right.xml:33
+#: buttons/deprecated/arrow2-up.xml:33 buttons/deprecated/arrow2-down.xml:33
+#: buttons/deprecated/arrow2-left.xml:33
+msgid "Colour 2"
+msgstr ""
+
+#: buttons/arrow2.xml:46 buttons/deprecated/arrow2-right.xml:40
+#: buttons/deprecated/arrow2-up.xml:40 buttons/deprecated/arrow2-down.xml:40
+#: buttons/deprecated/arrow2-left.xml:40
+msgid "Colour 3"
+msgstr ""
+
+#: buttons/arrow-star.xml:3
+msgid "Star Arrow"
+msgstr ""
+
+#: buttons/arrow-star.xml:28
+msgid "Colour of the star"
+msgstr ""
+
+#: buttons/arrow-star.xml:35
+msgid "Colour of the triangle"
+msgstr ""
+
+#: buttons/arrow3d-left.xml:4
+msgid "3D Arrow Left"
+msgstr ""
+
+#: buttons/arrow3d-left.xml:15 buttons/arrow3d-right.xml:15
+msgid "Color of upper part"
+msgstr ""
+
+#: buttons/arrow3d-left.xml:22 buttons/arrow3d-right.xml:22
+msgid "Color of bottom part"
+msgstr ""
+
+#: buttons/text-square-v2.xml:3 buttons/deprecated/text-square.xml:3
+msgid "Text with square"
+msgstr ""
+
+#: buttons/text-square-v2.xml:39 buttons/deprecated/text-square.xml:24
+msgid "Square colour"
+msgstr ""
+
+#: buttons/hand-right.xml:4
+msgid "Hand Right"
+msgstr ""
+
+#: buttons/cancel2.xml:12 buttons/ok2.xml:11
+msgid "Box color"
+msgstr ""
+
+#: buttons/cancel2.xml:24
+msgid "X color"
+msgstr ""
+
+#: buttons/arrow-mirror-left.xml:4
+msgid "Arrow Mirror Left"
+msgstr ""
+
+#: buttons/arrow-mirror-left.xml:31 buttons/arrow-mirror-right.xml:31
+msgid "Reflection color 1"
+msgstr ""
+
+#: buttons/arrow-mirror-left.xml:38 buttons/arrow-mirror-right.xml:43
+msgid "Reflection color 2"
+msgstr ""
+
+#: buttons/ellipse-v2.xml:3 buttons/deprecated/ellipse.xml:3
+#: objects/ellipse-v2.xml:3 objects/deprecated/ellipse.xml:3
+msgid "Ellipse"
+msgstr ""
+
+#: buttons/ellipse-v2.xml:30 buttons/deprecated/frame.xml:18
+#: buttons/deprecated/frame-shadow.xml:25 buttons/frame-v2.xml:25
+msgid "Image opacity"
+msgstr ""
+
+#: buttons/ellipse-v2.xml:37 buttons/arrow.xml:35
+#: buttons/deprecated/ellipse.xml:10 objects/text-v2.xml:39
+#: objects/ellipse-v2.xml:17 objects/deprecated/ellipse.xml:11
+#: objects/deprecated/frame.xml:24 objects/deprecated/text.xml:32
+#: objects/frame-v2.xml:31
+msgid "Outline width"
+msgstr ""
+
+#: buttons/ellipse-v2.xml:63 buttons/deprecated/ellipse.xml:29
+#: buttons/deprecated/frame.xml:58 buttons/deprecated/frame-shadow.xml:86
+#: buttons/frame-v2.xml:72 objects/ellipse-v2.xml:31
+#: objects/deprecated/ellipse.xml:25 objects/deprecated/frame.xml:38
+#: objects/frame-v2.xml:45
+msgid "Inner colour"
+msgstr ""
+
+#: buttons/arrow-gold.xml:4
+msgid "Golden Arrow"
+msgstr ""
+
+#: buttons/arrow-red.xml:4
+msgid "Red Arrow"
+msgstr ""
+
+#: buttons/ok2.xml:4
+msgid "Ok"
+msgstr ""
+
+#: buttons/ok2.xml:24
+msgid "V color"
+msgstr ""
+
+#: buttons/arrow-blue.xml:4
+msgid "Blue Arrow"
+msgstr ""
+
+#: buttons/arrow-blue.xml:33
+msgid "Circle color"
+msgstr ""
+
+#: buttons/pill.xml:3
+msgid "Pill"
+msgstr ""
+
+#: buttons/pill.xml:39
+msgid "C1"
+msgstr ""
+
+#: buttons/pill.xml:46
+msgid "C2"
+msgstr ""
+
+#: buttons/arrow.xml:3 buttons/deprecated/arrow-right.xml:3
+#: buttons/deprecated/arrow2-right.xml:3 buttons/deprecated/arrow2-up.xml:3
+#: buttons/deprecated/arrow-left.xml:3 buttons/deprecated/arrow-down.xml:3
+#: buttons/deprecated/arrow-up.xml:3 buttons/deprecated/arrow2-down.xml:3
+#: buttons/deprecated/arrow-next.xml:3 buttons/deprecated/arrow2-left.xml:3
+msgid "Arrow"
+msgstr ""
+
+#: buttons/home-v2.xml:4 buttons/deprecated/home.xml:4
+msgid "Home"
+msgstr ""
+
+#: buttons/home-v2.xml:23 buttons/deprecated/home.xml:14
+#: objects/rectangle-v2.xml:31 objects/deprecated/rectangle.xml:24
+msgid "Colour"
+msgstr ""
+
+#: buttons/arrow-text-right.xml:4
+msgid "Text Arrow Right"
+msgstr ""
+
+#: buttons/pill2.xml:4
+msgid "Pill 2"
+msgstr ""
+
+#: buttons/pill2.xml:34
+msgid "Pill color"
+msgstr ""
+
+#: buttons/arrow-mirror-right.xml:4
+msgid "Arrow Mirror Right"
+msgstr ""
+
+#: buttons/arrow-text-left.xml:4
+msgid "Text Arrow Left"
+msgstr ""
+
+#: buttons/text-v3.xml:37 buttons/deprecated/text-v2.xml:29
+#: buttons/deprecated/text.xml:30 objects/text-v2.xml:46
+#: objects/deprecated/text.xml:39
+msgid "Background colour"
+msgstr ""
+
+#: buttons/text-v3.xml:44 buttons/deprecated/text-v2.xml:36
+#: buttons/deprecated/frame.xml:25 buttons/deprecated/frame-shadow.xml:53
+#: buttons/frame-v2.xml:32 objects/rectangle-v2.xml:17
+#: objects/deprecated/rectangle.xml:10 objects/deprecated/frame.xml:10
+#: objects/frame-v2.xml:17
+msgid "Rx"
+msgstr ""
+
+#: buttons/text-v3.xml:51 buttons/deprecated/text-v2.xml:43
+#: buttons/deprecated/frame.xml:32 buttons/deprecated/frame-shadow.xml:60
+#: buttons/frame-v2.xml:39 objects/rectangle-v2.xml:24
+#: objects/deprecated/rectangle.xml:17 objects/deprecated/frame.xml:17
+#: objects/frame-v2.xml:24
+msgid "Ry"
+msgstr ""
+
+#: buttons/arrow-green.xml:4
+msgid "Green Arrow"
+msgstr ""
+
+#: buttons/deprecated/frame.xml:3 buttons/frame-v2.xml:3
+#: objects/deprecated/frame.xml:3 objects/frame-v2.xml:3
+msgid "Frame"
+msgstr ""
+
+#: buttons/deprecated/frame.xml:39 buttons/deprecated/frame-shadow.xml:67
+#: buttons/frame-v2.xml:46
+msgid "Border width"
+msgstr ""
+
+#: buttons/deprecated/frame.xml:46 buttons/deprecated/frame-shadow.xml:74
+#: buttons/frame-v2.xml:60
+msgid "Border colour"
+msgstr ""
+
+#: buttons/deprecated/text-shadow.xml:3 objects/deprecated/text-shadow.xml:3
+msgid "Shadow text"
+msgstr ""
+
+#: buttons/deprecated/text-shadow.xml:34
+#: buttons/deprecated/frame-shadow.xml:32
+#: objects/deprecated/text-shadow.xml:29
+msgid "Shadow colour"
+msgstr ""
+
+#: buttons/deprecated/text-shadow.xml:41
+#: buttons/deprecated/frame-shadow.xml:39
+#: objects/deprecated/text-shadow.xml:36
+msgid "Shadow offset x"
+msgstr ""
+
+#: buttons/deprecated/text-shadow.xml:48
+#: buttons/deprecated/frame-shadow.xml:46
+#: objects/deprecated/text-shadow.xml:43
+msgid "Shadow offset y"
+msgstr ""
+
+#: buttons/deprecated/frame-shadow.xml:4
+msgid "Shadow frame"
+msgstr ""
+
+#: buttons/arrow3d-right.xml:4
+msgid "3D Arrow Right"
+msgstr ""
+
+#: objects/text-v2.xml:13 objects/deprecated/text.xml:6
+msgid "text"
+msgstr ""
+
+#: objects/image.xml:16 objects/deprecated/ellipse.xml:32
+msgid "Opacity"
+msgstr ""
+
+#: objects/rectangle-v2.xml:3 objects/deprecated/rectangle.xml:3
+msgid "Rectangle"
+msgstr ""
+
+#: templates/category.xml:3
+msgid "Basic"
+msgstr ""
+
+#: templates/category.xml:4
+msgid "Christmas"
+msgstr ""
+
+#: templates/category.xml:5
+msgid "Seasons"
+msgstr ""
+
+#: templates/category.xml:6
+msgid "Travel"
+msgstr ""

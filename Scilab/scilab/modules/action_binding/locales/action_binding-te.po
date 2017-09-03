@@ -1,0 +1,42 @@
+# Telugu translation for scilab
+# Copyright (c) 2011 Rosetta Contributors and Canonical Ltd 2011
+# This file is distributed under the same license as the scilab package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: scilab\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-10-03 10:34+0100\n"
+"PO-Revision-Date: 2011-05-31 09:31+0000\n"
+"Last-Translator: RajaSekharReddy Genupula <Unknown>\n"
+"Language-Team: Telugu <te@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2011-11-07 21:34+0000\n"
+"X-Generator: Launchpad (build 14231)\n"
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: A string expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: No more memory.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: A Java exception arisen:\n"
+"%s"
+msgstr ""
+
+msgid "Same command executed again"
+msgstr "క్రితం ఆదేశం మరల జరిగినది"
+
+msgid "Unable to communicate with the interpreter"
+msgstr "interpreter తో అనుసంధానం జరుపడం కుదరదు"
+
+#, c-format
+msgid "Scilab '%s' module not installed.\n"
+msgstr ""

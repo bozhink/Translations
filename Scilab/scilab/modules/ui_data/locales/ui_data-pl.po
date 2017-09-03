@@ -1,0 +1,259 @@
+# Polish translation for scilab
+# Copyright (c) 2011 Rosetta Contributors and Canonical Ltd 2011
+# This file is distributed under the same license as the scilab package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: scilab\n"
+"Report-Msgid-Bugs-To: <localization@lists.scilab.org>\n"
+"POT-Creation-Date: 2011-03-09 11:38+0100\n"
+"PO-Revision-Date: 2011-10-28 08:03+0000\n"
+"Last-Translator: Grzegorz Szostek <Unknown>\n"
+"Language-Team: Polish <pl@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2011-11-07 21:40+0000\n"
+"X-Generator: Launchpad (build 14231)\n"
+"Language: pl\n"
+
+#, c-format
+msgid "Scilab '%s' module disabled in -nogui or -nwni mode.\n"
+msgstr "Moduł '%s' Scilab jest wyłączony w trybie -nogui lub -nwni.\n"
+
+#, c-format
+msgid "%s: Wrong number of input argument(s): %d expected.\n"
+msgstr "%s: Nieprawidłowa liczba parametrów wejściowych: oczekiwano %d.\n"
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: A String expected.\n"
+msgstr ""
+"%s: Nieprawidłowy typ argumentu wejściowego nr %d: oczekiwano ciągu znaków.\n"
+
+#, c-format
+msgid "%s: Wrong size for input argument #%d: A string expected.\n"
+msgstr ""
+"%s: Niewłaściwy rozmiar parametru wejściowego nr %d: Oczekiwano ciągu "
+"znaków.\n"
+
+#, c-format
+msgid "%s: ans cannot be edited.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Undefined variable %s.\n"
+msgstr "%s: Niezdefiniowana zmienna %s.\n"
+
+#, c-format
+msgid "%s: Java memory problem, cannot edit %s\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Type not handle yet"
+msgstr ""
+
+msgid "&File"
+msgstr "&Plik"
+
+msgid "&Close"
+msgstr "&Zamknij"
+
+msgid "&?"
+msgstr "&?"
+
+msgid "&About Scilab..."
+msgstr "&Informacje o Scilab..."
+
+msgid "Name"
+msgstr "Nazwa"
+
+msgid "Dimension"
+msgstr "Rozmiar"
+
+msgid "Type"
+msgstr "Typ"
+
+msgid "Visibility"
+msgstr "Widoczność"
+
+msgid "Bytes"
+msgstr "Bajtów"
+
+msgid "User"
+msgstr "Użytkownik"
+
+msgid "Type int value"
+msgstr ""
+
+msgid "Feature not available in this mode..."
+msgstr ""
+
+msgid "File"
+msgstr "Plik"
+
+msgid "Close"
+msgstr "Zamknij"
+
+msgid "Filter"
+msgstr "Filtr"
+
+msgid "Hide Scilab variables"
+msgstr "Ukryj zmienne Scilab"
+
+msgid "Double"
+msgstr "Podwójne"
+
+msgid "Polynomial"
+msgstr "Wielomian"
+
+msgid "Boolean"
+msgstr "Logiczny"
+
+msgid "Sparse"
+msgstr ""
+
+msgid "Sparse boolean"
+msgstr ""
+
+msgid "Integer"
+msgstr "Liczba całkowita"
+
+msgid "Graphic handles"
+msgstr ""
+
+msgid "String"
+msgstr "Ciąg znaków"
+
+msgid "Un-compiled function"
+msgstr ""
+
+msgid "Compiled function"
+msgstr ""
+
+msgid "Function library"
+msgstr "Biblioteka funkcji"
+
+msgid "List"
+msgstr "Lista"
+
+msgid "Tlist"
+msgstr "Tlista"
+
+msgid "Mlist"
+msgstr "Mlista"
+
+msgid "Pointer"
+msgstr "Wskaźnik"
+
+msgid "Intrinsic function"
+msgstr ""
+
+msgid "Matlab sparse"
+msgstr "Rzadka (Matlab)"
+
+msgid "Implicit polynomial"
+msgstr ""
+
+msgid "Variable Editor"
+msgstr "Edytor zmiennych"
+
+msgid "Variable Browser"
+msgstr ""
+
+msgid "Global variables can not be edited."
+msgstr ""
+
+msgid "Refresh the variable "
+msgstr ""
+
+msgid "Copy"
+msgstr "Kopiuj"
+
+msgid "Paste"
+msgstr "Wklej"
+
+msgid "Cut"
+msgstr "Wytnij"
+
+msgid "Clear"
+msgstr "Wyczyść"
+
+msgid "Undo"
+msgstr "Cofnij"
+
+msgid "Redo"
+msgstr "Ponów"
+
+msgid "File Browser"
+msgstr "Przeglądarka plików"
+
+msgid "Size"
+msgstr "Rozmiar"
+
+msgid "Last modified"
+msgstr "Ostatnio zmodyfikowane"
+
+msgid "Directory"
+msgstr "Folder"
+
+#, c-format
+msgid "%s File"
+msgstr "Plik %s"
+
+msgid "File/directory filter"
+msgstr ""
+
+msgid "Enter your working folder"
+msgstr ""
+
+msgid "Case sensitive"
+msgstr "Uwzględnij wielkość liter"
+
+msgid "Regular expression"
+msgstr "Wyrażenie regularne"
+
+msgid "Select a directory"
+msgstr "Wybierz folder"
+
+msgid "Home"
+msgstr ""
+
+msgid "Scilab"
+msgstr ""
+
+#, c-format
+msgid "Cannot edit the file %s"
+msgstr ""
+
+#, c-format
+msgid "Cannot open the file %s"
+msgstr ""
+
+msgid "Open with SciNotes"
+msgstr ""
+
+msgid "Execute in Scilab"
+msgstr ""
+
+msgid "Open with Xcos"
+msgstr ""
+
+msgid "Load in Scilab"
+msgstr ""
+
+msgid "Edit with default application"
+msgstr ""
+
+msgid "Open with default application"
+msgstr ""
+
+msgid "Scilab type:"
+msgstr ""
+
+msgid "Bytes:"
+msgstr "Bajty:"
+
+#, c-format
+msgid "Scilab '%s' module not installed.\n"
+msgstr "Moduł %s Scilab nie jest zainstalowany.\n"

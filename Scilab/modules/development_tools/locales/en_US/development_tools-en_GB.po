@@ -1,0 +1,210 @@
+# English (United Kingdom) translation for scilab
+# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
+# This file is distributed under the same license as the scilab package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: scilab\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-03-09 11:38+0100\n"
+"PO-Revision-Date: 2011-09-15 13:50+0000\n"
+"Last-Translator: John Bradshaw <Unknown>\n"
+"Language-Team: English (United Kingdom) <en_GB@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2011-11-07 21:37+0000\n"
+"X-Generator: Launchpad (build 14231)\n"
+
+#, c-format
+msgid "%s: Wrong number of input arguments: %d to %d expected."
+msgstr ""
+"Copy text \t\r\n"
+"%s: Wrong number of input arguments: %d to %d expected."
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: Matrix expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: Matrix of strings expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong size for input argument #%d: %d-by-%d matrix expected.\n"
+msgstr "%s: Wrong size for input argument #%d: %d-by-%d matrix expected.\n"
+
+#, c-format
+msgid "%s: Wrong value for input argument #%d: Must be > %d.\n"
+msgstr "%s: Wrong value for input argument #%d: Must be > %d.\n"
+
+#, c-format
+msgid "%s: Wrong value for input argument #%d: Must be in the set  {%s}.\n"
+msgstr "%s: Wrong value for input argument #%d: Must be in the set {%s}.\n"
+
+#, c-format
+msgid "%s: Incompatible input arguments #%d and #%d: Same sizes expected.\n"
+msgstr "%s: Incompatible input arguments #%d and #%d: Same sizes expected.\n"
+
+#, c-format
+msgid "%s: Assertion failed: expected = %s while computed = %s"
+msgstr "%s: Assertion failed: expected = %s while computed = %s"
+
+#, c-format
+msgid "%s: Wrong number of input argument: %d expected.\n"
+msgstr "%s: Wrong number of input argument: %d expected.\n"
+
+#, c-format
+msgid "%s: Wrong number of input arguments: %d expected.\n"
+msgstr "%s: Wrong number of input arguments: %d expected.\n"
+
+#, c-format
+msgid "%s: Incompatible input arguments #%d and #%d: Same types expected.\n"
+msgstr "%s: Incompatible input arguments #%d and #%d: Same types expected.\n"
+
+#, c-format
+msgid "%s: Computed is real, but expected is complex."
+msgstr "%s: Computed is real, but expected is complex."
+
+#, c-format
+msgid "%s: Computed is complex, but expected is real."
+msgstr "%s: Computed is complex, but expected is real."
+
+#, c-format
+msgid "%s: Wrong number of input argument: At least %d expected.\n"
+msgstr "%s: Wrong number of input argument: At least %d expected.\n"
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: Non-negative integers expected.\n"
+msgstr ""
+"%s: Wrong value for input argument #%d: Non-negative integers expected.\n"
+
+#, c-format
+msgid "%s: No error was produced while evaluating %s."
+msgstr "%s: No error was produced while evaluating %s."
+
+#, c-format
+msgid "%s: Error while formatting the error message: %s"
+msgstr "%s: Error while formatting the error message: %s"
+
+#, c-format
+msgid ""
+"%s: Assertion failed: expected error message = %s while computed error "
+"message = %s."
+msgstr ""
+"%s: Assertion failed: expected error message = %s while computed error "
+"message = %s."
+
+#, c-format
+msgid ""
+"%s: Assertion failed: expected error number = %d while computed error number "
+"= %d."
+msgstr ""
+"%s: Assertion failed: expected error number = %d while computed error number "
+"= %d."
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: Boolean matrix expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Assertion failed: found false entry in condition = %s"
+msgstr "%s: Assertion failed: found false entry in condition = %s"
+
+#, c-format
+msgid ""
+"%s: Expected type %s or %s for input argument %s #%d, but got %s instead."
+msgstr ""
+"%s: Expected type %s or %s for input argument %s #%d, but got %s instead."
+
+#, c-format
+msgid "%s: The file %s does not exist.\n"
+msgstr "%s: The file %s does not exist.\n"
+
+#, c-format
+msgid "%s: Cannot open file %s.\n"
+msgstr "%s: Cannot open file %s\n"
+
+#, c-format
+msgid ""
+"%s: The content of computed file %s is different from the content of "
+"reference file %s."
+msgstr ""
+"%s: The content of computed file %s is different from the content of "
+"reference file %s."
+
+#, c-format
+msgid "%s: Cannot close file %s.\n"
+msgstr "%s: Cannot close file %s.\n"
+
+#, c-format
+msgid "%s: Wrong number of input arguments: %d to %d expected.\n"
+msgstr "%s: Wrong number of input arguments: %d to %d expected.\n"
+
+#, c-format
+msgid ""
+"%s: The number of output arguments %d do not match the number of input "
+"arguments %d."
+msgstr ""
+"%s: The number of output arguments %d do not match the number of input "
+"arguments %d."
+
+#, c-format
+msgid ""
+"%s: Expected %d rows in input argument #%d, but found %d rows instead."
+msgstr ""
+"%s: Expected %d rows in input argument #%d, but found %d rows instead."
+
+#, c-format
+msgid ""
+"%s: Expected %d columns in input argument #%d, but found %d columns instead."
+msgstr ""
+"%s: Expected %d columns in input argument #%d, but found %d columns instead."
+
+#, c-format
+msgid "%s is not an installed module"
+msgstr "%s is not an installed module"
+
+msgid "error : Input argument sizes are not valid"
+msgstr "error : Input argument sizes are not valid"
+
+#, c-format
+msgid "The test %s is not available from the %s module"
+msgstr "The test %s is not available from the %s module"
+
+#, c-format
+msgid "%s: Wrong first input argument: File with .dia suffix expected."
+msgstr "%s: Wrong first input argument: File with .dia suffix expected."
+
+#, c-format
+msgid "Test failed ERROR DETECTED while executing %s"
+msgstr "Test failed ERROR DETECTED while executing %s"
+
+#, c-format
+msgid "Test Failed. See : fc /L /N  %s"
+msgstr "Test Failed. See : fc /L /N  %s"
+
+#, c-format
+msgid "Test Failed. See : diff -wu  %s"
+msgstr "Test Failed. See : diff -wu  %s"
+
+msgid "Test passed"
+msgstr "Test passed"
+
+#, c-format
+msgid "%s: Wrong size for input argument."
+msgstr "%s: Wrong size for input argument."
+
+#, c-format
+msgid "%s is not an installed module or toolbox"
+msgstr "%s is not an installed module or toolbox"
+
+#, c-format
+msgid "The ref file (%s) doesn't exist"
+msgstr "The ref file (%s) doesn't exist"
+
+#, c-format
+msgid "No variable %s_ref in reference file"
+msgstr "No variable %s_ref in reference file"

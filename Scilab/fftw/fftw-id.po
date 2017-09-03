@@ -1,0 +1,108 @@
+# Indonesian translation for scilab
+# Copyright (c) 2009 Rosetta Contributors and Canonical Ltd 2009
+# This file is distributed under the same license as the scilab package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: scilab\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-10-03 10:34+0100\n"
+"PO-Revision-Date: 2010-05-21 03:06+0000\n"
+"Last-Translator: Waluyo Adi Siswanto <Unknown>\n"
+"Language-Team: Indonesian <id@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2011-11-07 21:35+0000\n"
+"X-Generator: Launchpad (build 14231)\n"
+
+#, c-format
+msgid "FFTW Library %s not found.\n"
+msgstr "Pustaka FFTW %s tidak ditemukan.\n"
+
+msgid "FFTW Library not found.\n"
+msgstr "Pustaka FFTW tidak ditemukan.\n"
+
+#, c-format
+msgid "%s: Wrong number of input arguments: %d not expected.\n"
+msgstr "%s: Kesalahan nomor dari argumen masukan: %d tidak diharapkan.\n"
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: A Real or Complex expected.\n"
+msgstr ""
+"%s: Kesalahan tipe untuk argumen masukan #%d: Diharapkan bilangan riil atau "
+"kompleks.\n"
+
+#, c-format
+msgid "%s: Wrong values for input argument #%d.\n"
+msgstr "%s: Kesalahan angka untuk argumen masukan #%d.\n"
+
+#, c-format
+msgid ""
+"%s: Wrong type for input argument #%d: N-dimensional array expected.\n"
+msgstr ""
+"%s: Kesalahan tipe untuk argumen masukan #%d: Diharapkan larik dimensi N.\n"
+
+#, c-format
+msgid "%s: Wrong size for input argument #%d.\n"
+msgstr "%s: Kesalahan ukuran untuk argumen masukan #%d.\n"
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: int matrix expected.\n"
+msgstr ""
+"%s: Kesalahan tipe untuk argumen masukan #%d: Diharapkan matriks int.\n"
+
+#, c-format
+msgid ""
+"%s: Incompatible input arguments '#%d and '#%d': Same sizes expected.\n"
+msgstr ""
+"%s: Ketidak sesuaian argumen masukan '#%d dan '#%d': Diharapkan mempunyai "
+"ukuran sama.\n"
+
+#, c-format
+msgid "%s: No more memory.\n"
+msgstr "%s: Tidak cukup memori\n"
+
+#, c-format
+msgid ""
+"%s: Wrong values for input argument #%d: Non-negative integers expected.\n"
+msgstr ""
+"%s: Kesalahan angka untuk argumen input #%d: Diharapkan bilangan bulat tidak-"
+"negatif.\n"
+
+#, c-format
+msgid "%s: Wrong values for input argument #%d: FFTW flag expected.\n"
+msgstr ""
+"%s: Kesalahan angka untuk argumen masukan #%d: Tanda FFTW diperlukan.\n"
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d.\n"
+msgstr "%s: Kesalahan tipe untuk argumen masukan #%d.\n"
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: A string expected.\n"
+msgstr "%s: Kesalahan tipe pada argumen masukan #%d: Diperlukan string.\n"
+
+#, c-format
+msgid "%s: An error occurred: %s\n"
+msgstr "%s: Terjadi kesalahan : %s\n"
+
+msgid "FFTW can't read wisdom."
+msgstr "FFTW tidak bisa membaca."
+
+msgid "Scilab FFTW module not installed.\n"
+msgstr "Modul FFTW Scilab tidak diinstal.\n"
+
+msgid "You choose to install scilab with fftw module."
+msgstr ""
+
+msgid "This module requires : "
+msgstr ""
+
+msgid ""
+"Scilab will use standard fft by default until you install this library."
+msgstr ""
+
+msgid "See help fftw for more informations."
+msgstr ""

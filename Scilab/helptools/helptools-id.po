@@ -1,0 +1,272 @@
+# Indonesian translation for scilab
+# Copyright (c) 2009 Rosetta Contributors and Canonical Ltd 2009
+# This file is distributed under the same license as the scilab package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: scilab\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-10-03 10:34+0100\n"
+"PO-Revision-Date: 2010-12-14 05:13+0000\n"
+"Last-Translator: Waluyo Adi Siswanto <Unknown>\n"
+"Language-Team: Indonesian <id@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2011-11-07 21:37+0000\n"
+"X-Generator: Launchpad (build 14231)\n"
+
+#, c-format
+msgid "Scilab '%s' module disabled in -nogui or -nwni mode.\n"
+msgstr "Modul Scilab '%s' tidak aktif pada mode -nogui atau -nwni.\n"
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: Single string expected.\n"
+msgstr ""
+"%s: Kesalahan tipe untuk argumen masukan #%d: Diharapkan string tunggal.\n"
+
+#, c-format
+msgid "%s: Could find or create the working directory %s.\n"
+msgstr "%s: Tidak bisa menemukan atau membuat direktori kerja %s.\n"
+
+#, c-format
+msgid "%s: Error while building documentation: %s.\n"
+msgstr "%s: Kesalahan ketika membangun dokumentasi: %s.\n"
+
+#, c-format
+msgid "%s: Execution Java stack %s.\n"
+msgstr "%s: Eksekusi Java stack %s.\n"
+
+msgid ""
+"If Scilab is started in a chroot, you might want to try to set the two "
+"environment variables: SCI_DISABLE_TK=1 SCI_JAVA_ENABLE_HEADLESS=1\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Execution Java stack: %s.\n"
+msgstr "%s: Menjalankan Java stack: %s.\n"
+
+#, c-format
+msgid "Scilab '%s' module not installed.\n"
+msgstr "Modul Scilab '%s' tidak dipasang.\n"
+
+msgid "Version"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong number of input argument: %d to %d expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: String array expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: A boolean expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Incompatible input arguments #%d and #%d: Same sizes expected.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: An existing directory expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong number of input arguments: %d expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong number of input arguments: %d to %d expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Directory %s does not exist or read access denied."
+msgstr ""
+
+msgid "-- Deleting help files --\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: A string expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: The help browser is disabled in %s mode.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: help file(.jar) is not installed.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: A valid existing directory is "
+"expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Reading from directory %s\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Processing file: %s to %s\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Processing file: %s\n"
+msgstr ""
+
+#, c-format
+msgid "%s: processed %i files.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: The file %s does not exist.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Cannot open file %s.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: File skipped %s."
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong size for input argument #%d: A string expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%02d-%02d-%04d"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong number of input argument: %d expected.\n"
+msgstr ""
+
+#, c-format
+msgid "\tProcessing file %s.xml\n"
+msgstr ""
+
+#, c-format
+msgid "Warning %s does not follow the dtd"
+msgstr ""
+
+#, c-format
+msgid "%s: This function is only supported on Windows platforms.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong number of input argument(s): At most %d expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: hhc.exe not found.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: no file generate.\n"
+msgstr ""
+
+msgid "Help chapter"
+msgstr ""
+
+#, c-format
+msgid ""
+"\n"
+"Building the Scilab manual master document for %s.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Building master documents:\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Building the master document:\n"
+msgstr ""
+
+#, c-format
+msgid "\t%s\n"
+msgstr ""
+
+msgid "Building the scilab manual file ["
+msgstr ""
+
+#, c-format
+msgid "%s: %s has not been generated."
+msgstr ""
+
+#, c-format
+msgid "%s: %s file hasn't been moved in the %s directory."
+msgstr ""
+
+#, c-format
+msgid ""
+"\n"
+"Building the manual file [%s] in %s.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"\n"
+"Building the manual file [%s].\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Please check %s, number of modules is invalid.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: An integer expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong size for input argument #%d: Single string expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong size for input argument #%d: An integer expected.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: A string that end with CHAPTER "
+"expected.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: A valid existing file is expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: The CHAPTER file is not well formated at line %d\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: A string that end with "
+".last_successful_build expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: The last_successful_build file is not well formated at line %d\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong type for input argument #%d: matrix oriented typed list expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: The 2 mlist must not have any field in common .\n"
+msgstr ""

@@ -1,0 +1,1139 @@
+# Indonesian translation for scilab
+# Copyright (c) 2008 Rosetta Contributors and Canonical Ltd 2008
+# This file is distributed under the same license as the scilab package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: scilab\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-10-03 10:34+0100\n"
+"PO-Revision-Date: 2010-05-21 03:03+0000\n"
+"Last-Translator: Waluyo Adi Siswanto <Unknown>\n"
+"Language-Team: Indonesian <id@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2011-11-07 21:32+0000\n"
+"X-Generator: Launchpad (build 14231)\n"
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: A real expected.\n"
+msgstr "%s: Kesalahan tipe untuk argumen masukan #%d: Diharapkan riil.\n"
+
+#, c-format
+msgid "%s: Wrong size for input argument #%d: A scalar expected.\n"
+msgstr ""
+"%s: Kesalahan ukuran untuk argumen masukan #%d: Nilai skalar diperlukan.\n"
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: A scilab function expected.\n"
+msgstr ""
+"%s: Kesalahan tipe untuk argumen masukan #%d: Diharapkan satu fungsi scilab "
+".\n"
+
+#, c-format
+msgid " results may be inaccurate. rcond = %s1\n"
+msgstr " hasilnya mungkin akan tidak akurat. rcond = %s1\n"
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: String expected.\n"
+msgstr ""
+"%s: Kesalahan tipe untuk argumen input  #%d: Yang diharapkan string.\n"
+
+#, c-format
+msgid "%s: Wrong value for input argument #%d: A integer value expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: An integer value expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong size for input argument #%d: A string expected.\n"
+msgstr ""
+"%s: Kesalahan ukuran untuk argumen masukan #%d: Tanda string diperlukan.\n"
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: Value greater than 0 expected.\n"
+msgstr ""
+"%s: Kesalahan angka untuk argumen masukan #%d: Diharapkan berupa angka lebih "
+"besar dari  0.\n"
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d.\n"
+msgstr "%s: Kesalahan tipe untuk argumen masukan #%d.\n"
+
+#, c-format
+msgid "%s: Wrong type for input argument.\n"
+msgstr "%s: Kesalahan tipe untuk argumen masukan.\n"
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: A scalar expected.\n"
+msgstr "%s: Kesalahan tipe untuk argumen masukan #%d: Diharapkan skalar.\n"
+
+#, c-format
+msgid "%s: Wrong value for input argument #%d: An integer expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong values for input argument #%d: '%s' or '%s' expected.\n"
+msgstr ""
+"%s: Kesalahan angka untuk argumen masukan #%d: '%s' atau '%s' diharapkan.\n"
+
+#, c-format
+msgid "%s: Wrong values for input argument #%d: A int expected.\n"
+msgstr ""
+"%s: Kesalahan angka untuk argumen masukan #%d: Diharapkan berupa bilangan "
+"bulat.\n"
+
+#, c-format
+msgid ""
+"%s: Wrong values for input argument #%d: Must be in the interval [%d, %d].\n"
+msgstr ""
+"%s: Kesalahan angka untuk argumen masukan #%d: Harus berada dlam interval "
+"[%d, %d].\n"
+
+#, c-format
+msgid ""
+"%s: Wrong type for input argument #%d: A string or a scalar expected.\n"
+msgstr ""
+"%s: Kesalahan tipe untuk argumen masukan #%d: Diharapkan string atau "
+"skalar.\n"
+
+#, c-format
+msgid "%s: Wrong value for input argument #%d: '0' or '1' expected.\n"
+msgstr ""
+"%s:  Kesalahan angka untuk argumen masukan #%d: diharapkan '0' atau '1'.\n"
+
+#, c-format
+msgid "%s: Wrong value for input argument #%d: A int expected.\n"
+msgstr ""
+"%s: Kesalahan angka untuk argumen masukan #%d: Diharapkan bilangan int.\n"
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: Must be in the interval [%d, %d].\n"
+msgstr ""
+"%s: Kesalahan angka untuk argumen masukan #%d: Harus dalam interval [%d, "
+"%d].\n"
+
+#, c-format
+msgid "%s: Wrong size for inputs arguments.\n"
+msgstr "%s: Kesalahan ukuran untuk argumen masukan.\n"
+
+#, c-format
+msgid "%s: Wrong type for inputs arguments.\n"
+msgstr "%s: Kesalahan tipe untuk argumen masukan.\n"
+
+#, c-format
+msgid "%s: Wrong value for input argument #%d: 1,2 or 3 expected.\n"
+msgstr ""
+"%s: Kesalahan angka untuk argumen masukan #%d: diharapkan 1,2 atau 3.\n"
+
+#, c-format
+msgid "%s: The file %s does not exist.\n"
+msgstr "%s: File %s tidak ada.\n"
+
+#, c-format
+msgid "%s: Memory allocation error.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong type of input argument #%d: String expected.\n"
+msgstr "%s: Kesalahan tipe untuk argumen masukan #%d: Diharapkan string.\n"
+
+#, c-format
+msgid "%s: Wrong value for input argument #%d: \"%s\" expected.\n"
+msgstr "%s: Salah angka untuk argumen masukan #%d: diharapkan \"%s\".\n"
+
+#, c-format
+msgid "%s: Wrong type for input arguments #%d or #%d: Strings expected.\n"
+msgstr ""
+"%s: Kesalahan tipe untuk argumen masukan #%d atau #%d: Diharapkan string.\n"
+
+#, c-format
+msgid "Warning: Problems with %s.\n"
+msgstr "Peringatan: Masalah dengan %s.\n"
+
+#, c-format
+msgid "%s: No more memory.\n"
+msgstr "%s: Tidak ada lagi memori\n"
+
+#, c-format
+msgid "%s: Wrong value for input argument #%d: '%s' or '%s' expected.\n"
+msgstr ""
+"%s: Kesalahan angka untuk argumen masukan #%d: diperlukan '%s' atau '%s'.\n"
+
+#, c-format
+msgid "%s: Wrong size for input argument #%d: String expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong file version.xml %s.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong module name %s.\n"
+msgstr "%s: Nama modul %s salah.\n"
+
+#, c-format
+msgid "%s: Wrong value for input argument #%d: '%s' expected.\n"
+msgstr "%s: Kesalahan angka untuk argumen input #%d: '%s' diperlukan.\n"
+
+#, c-format
+msgid "%s: Wrong type for input arguments #%d and #%d: Strings expected.\n"
+msgstr ""
+"%s: Kesalahan tipe untuk argumen masukan #%d dan #%d: Diharapkan string.\n"
+
+#, c-format
+msgid "%s: Cannot allocate memory.\n"
+msgstr "%s: Tidak bisa menggunakan memori.\n"
+
+#, c-format
+msgid "%s: Out of bounds value. Not in [%lu,%lu].\n"
+msgstr "%s: Melebihi nilai batas. Tidak di [%lu,%lu].\n"
+
+#, c-format
+msgid "%s: Wrong size for input argument #%d: Scalar expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: Scalar, '%s' or '%s'.\n"
+msgstr ""
+"%s: Kesalahan tipe untuk argumen masukan #%d: Skalar, '%s' atau '%s'.\n"
+
+#, c-format
+msgid "%s: Wrong size for input argument #%d: A boolean expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: A boolean expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: A string expected.\n"
+msgstr "%s: Kesalahan tipe pada argumen masukan #%d: Diperlukan string.\n"
+
+#, c-format
+msgid "%s: function-name is incorrect.\n"
+msgstr "%s: Nama fungsi tidak tepat.\n"
+
+#, c-format
+msgid "%s: Wrong value for input argument #%d: Must be %s.\n"
+msgstr "%s: Kesalahan angka untuk argumen masukan #%d: Harus berupa %s.\n"
+
+#, c-format
+msgid ""
+"%s: Wrong type for input argument #%d: A scalar or a string expected.\n"
+msgstr ""
+"%s: Kesalahan tipe untuk argumen masukan #%d: Diharapkan skalar atau "
+"string.\n"
+
+#, c-format
+msgid "%s: Impossible to read %s gateway.\n"
+msgstr "%s: Tidak mungkin membaca %s pintu gerbang.\n"
+
+#, c-format
+msgid "%s: Invalid module name : %s.\n"
+msgstr "%s: Nama modul tidak sah : %s.\n"
+
+#, c-format
+msgid "%s: Wrong number of input arguments: %d or %d expected.\n"
+msgstr "%s: Nomer argumen masukan salah: Diharapkan %d atau %d.\n"
+
+#, c-format
+msgid "%s: '%s' already exists.\n"
+msgstr "%s: '%s' sudah ada.\n"
+
+#, c-format
+msgid "%s: Unknown Error.\n"
+msgstr "%s: Galat tidak dikenal.\n"
+
+#, c-format
+msgid "WARNING: %s"
+msgstr "PERINGATAN: %s"
+
+#, c-format
+msgid "WARNING: %s\n"
+msgstr "PERINGATAN: %s\n"
+
+msgid "Internal Functions:\n"
+msgstr "Fungsi internal:\n"
+
+msgid "Commands:\n"
+msgstr "Perintah:\n"
+
+#, c-format
+msgid "%s: Wrong number of input arguments.\n"
+msgstr "%s: Kesalahan nomer pada argumen masukan.\n"
+
+#, c-format
+msgid "%s: Wrong number of output arguments: %d expected.\n"
+msgstr "%s: Kesalahan nomer pada argumen keluaran: Diharapkan %d.\n"
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: '%s', '%s', '%s' or '%s' expected.\n"
+msgstr ""
+"%s: Kesalahan angka untuk argumen masukan #%d: '%s', '%s', '%s' atau '%s' "
+"diharapkan.\n"
+
+#, c-format
+msgid "%s: Wrong value for input argument #%d: '%s', '%s', '%s' or '%s'.\n"
+msgstr ""
+"%s: Kesalahan angka untuk argumen masukan #%d: '%s', '%s', '%s' atau '%s'.\n"
+
+#, c-format
+msgid "%s: Wrong value for input argument #%d: '%s', '%s' or '%s'.\n"
+msgstr ""
+"%s: Kesalahan tipe untuk argumen masukan #%d: '%s', '%s' atau '%s'.\n"
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: '%s', '%s', '%s' expected. Input "
+"argument #%d must be '%s'.\n"
+msgstr ""
+"%s: Kesalahan angka untuk argumen masukan #%d: '%s', '%s', '%s' diharapkan. "
+"Argumen masukan #%d harus '%s'.\n"
+
+#, c-format
+msgid " using %10d elements out of  %10d.\n"
+msgstr " menggunakan %10d elemen lebih dari  %10d.\n"
+
+#, c-format
+msgid " and   %10d variables out of %10d.\n"
+msgstr " dan   %10d variabel lebih dari %10d.\n"
+
+msgid "Your variables are:"
+msgstr "Variabel anda adalah:"
+
+msgid "Your global variables are:"
+msgstr "Variabel global anda adalah:"
+
+msgid "Fatal Error: Can't create table for scilab functions.\n"
+msgstr "Kesalahan Fatal: Tidak bisa membuat tabel fungsi scilab.\n"
+
+#, c-format
+msgid "Error: Impossible to define %s environment variable.\n"
+msgstr "Kesalahan: Tidak mungkin mendefinisikan %s variabel lingkungan.\n"
+
+msgid "Consortium Scilab (DIGITEO)\n"
+msgstr ""
+
+msgid "Copyright (c) 1989-2011 (INRIA)\n"
+msgstr ""
+
+msgid "Copyright (c) 1989-2007 (ENPC)\n"
+msgstr ""
+
+#, c-format
+msgid "Impossible to load %s library: %s\n"
+msgstr "Tidak mungkin memuat pustaka %s: %s\n"
+
+#, c-format
+msgid "Impossible to load %s function in %s library: %s\n"
+msgstr "Tidak mungkin memuat fungsi %s dalam pustaka %s: %s\n"
+
+#, c-format
+msgid "Impossible to call %s in %s library: %s\n"
+msgstr "Tidak mungkin memanggil %s dalam pustaka %s : %s\n"
+
+#, c-format
+msgid "Error: Not a valid primitive ID %d.\n"
+msgstr "Kesalahan: Bukan ID primitif yang tepat %d.\n"
+
+msgid "Aborting current computation\n"
+msgstr ""
+
+#, c-format
+msgid "Error: Not a valid gateway ID %d.\n"
+msgstr "Kesalahan: Bukan gateway yang tepat ID %d.\n"
+
+msgid "The SCI environment variable is not set.\n"
+msgstr "Variabel lingkungan SCI belum di-set.\n"
+
+#, c-format
+msgid "Cannot load the module declaration file: %s.\n"
+msgstr "Tidak bisa memuat modul berkas deklarasi: %s.\n"
+
+#, c-format
+msgid "Warning: Could not find %s\n"
+msgstr ""
+
+#, c-format
+msgid "Error: Could not parse file %s.\n"
+msgstr "Kesalahan: Tidak bisa mengurai berkas %s.\n"
+
+#, c-format
+msgid "%s module not found.\n"
+msgstr "Modul %s tidak ditemukan.\n"
+
+#, c-format
+msgid ""
+"Error: Not a valid module file %s (encoding not '%s') Encoding '%s' found.\n"
+msgstr ""
+"Kesalahan: Bukan berkas modul yang tepat %s (Enkoding bukan '%s') Ditemukan "
+"enkoding '%s'.\n"
+
+msgid "SCI environment variable not defined.\n"
+msgstr "Variable linkungan SCI tidak terdefinisi.\n"
+
+msgid "Warning"
+msgstr "Peringatan"
+
+msgid "SCIHOME not defined.\n"
+msgstr "SCIHOME tidak terdefinisi.\n"
+
+msgid "TMPDIR not defined.\n"
+msgstr "TMPDIR tidak terdefinisi.\n"
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: Compiled macro expected.\n"
+msgstr ""
+"%s: Kesalahan tipe untuk argumen masukan #%d: Diharapkan makro yang sudah "
+"dikompail.\n"
+
+#, c-format
+msgid "%s: stack size exceeded (Use stacksize function to increase it).\n"
+msgstr ""
+"%s: Melebihi ukuran tumpukan (Gunakan fungsi stacksize untuk "
+"meningkatkannya).\n"
+
+#, c-format
+msgid "%s: Out of code.\n"
+msgstr "%s: Diluar program.\n"
+
+#, c-format
+msgid "%s: Wrong %s value %d instead of %d.\n"
+msgstr "%s: Salah %s angka %d sebagai ganti dari %d.\n"
+
+#, c-format
+msgid "%s: code %d not yet implemented.\n"
+msgstr "%s: kode %d belum diimplementasi.\n"
+
+#, c-format
+msgid "%s: Unknown code %d at index2 %d.\n"
+msgstr "%s: Kode %d tidak diketahui pada index2 %d.\n"
+
+#, c-format
+msgid "%s: Old version of if and while not implemented.\n"
+msgstr "%s: Versi lama dari if dan while belum di implementasi.\n"
+
+#, c-format
+msgid "%s: Wrong type value.\n"
+msgstr "%s: Tipe nilai salah.\n"
+
+#, c-format
+msgid "%s: Unknown operator %d.\n"
+msgstr "%s: Operator tidak dikenal %d.\n"
+
+#, c-format
+msgid "%s: Wrong fromwhat value %s.\n"
+msgstr "%s: Salah angka fromwhat %s.\n"
+
+#, c-format
+msgid "%s: wrong code %d.\n"
+msgstr "%s: kode %d salah.\n"
+
+#, c-format
+msgid "Error: Could not parse file %s\n"
+msgstr "Kesalahan: Tidak bisa mengurai berkas %s\n"
+
+#, c-format
+msgid ""
+"Error: Not a valid version file %s (should start with <MODULE_VERSION> and "
+"contain <VERSION major='' minor='' maintenance='' revision='' string=''>)\n"
+msgstr ""
+"Salah: Bukan versi berkas yang valid %s (harus dimulai dengan "
+"<MODULE_VERSION> dan mengandung <VERSION major='' minor='' maintenance='' "
+"revision='' string=''>)\n"
+
+#, c-format
+msgid ""
+"Error: Not a valid version file %s (encoding not 'utf-8') Encoding '%s' "
+"found\n"
+msgstr ""
+"Kesalahan: Bukan berkas versi yang tepat %s (enkoding bukan 'utf-8') "
+"Ditemukan enkoding '%s'\n"
+
+#, c-format
+msgid "Error: could not parse file %s\n"
+msgstr "Eror: tidak dapat mengurai file %s\n"
+
+#, c-format
+msgid "Error: Memory allocation.\n"
+msgstr "Kesalahan: Penggunaan memori.\n"
+
+#, c-format
+msgid ""
+"Error: Not a valid gateway file %s (should start with <GATEWAY> and contain "
+"<PRIMITIVE gatewayId='' primitiveId='' primitiveName=''>)\n"
+msgstr ""
+"Kesalahan: Bukan berkas gateway yang tepat %s (harus dimulai dengan "
+"<GATEWAY> dan memiliki <PRIMITIVE gatewayId='' primitiveId='' "
+"primitiveName=''>)\n"
+
+#, c-format
+msgid ""
+"Error: Not a valid gateway file %s (encoding not 'utf-8') Encoding '%s' "
+"found\n"
+msgstr ""
+"Kesalahan: Bukan berkas gateway yang tepat %s (bukan enkoding 'utf-8') "
+"Ditemukan enkoding '%s'\n"
+
+msgid "Error returning tlist, memory full.\n"
+msgstr "Eror mengembalikan tlist, memori penuh.\n"
+
+msgid "tlist not completely filled.\n"
+msgstr "tlist tidak sepenuhnya terisi.\n"
+
+msgid "List full.\n"
+msgstr "Daftar penuh.\n"
+
+msgid "Unexpected opcode, please report into the Scilab bug tracker."
+msgstr ""
+"Ada kesalahan program opcode, silahkan laporkan ke pelacak kutu Scilab."
+
+msgid "Functions compiled with very old versions are no more handled."
+msgstr ""
+"Fungsi dikompail menggunakan versi kuno sehingga tidak bisa dikenal lagi."
+
+msgid "No space to allocate Scilab stack.\n"
+msgstr "Tidak ada ruang untuk mengalokasikan tumpukan Scilab.\n"
+
+#, c-format
+msgid ""
+"\n"
+"Call stack:\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"End of stack\n"
+"\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"Oups. A fatal error has been detected by Scilab.\n"
+"Your instance will probably crash soon.\n"
+"Please report a bug on %s with the following\n"
+"information:\n"
+"%s %s\n"
+msgstr ""
+
+#, c-format
+msgid "%s: argument %d should be a list of size at least %d.\n"
+msgstr "%s: argumen %d hendaknya berupa baris dengan ukuran setidaknya %d.\n"
+
+#, c-format
+msgid "%s: Wrong type for argument %d: Real matrix expected.\n"
+msgstr "%s: Kesalahan tipe pada argumen %d: Mengharapkan matriks real.\n"
+
+#, c-format
+msgid "%s: Wrong size for argument %d: (%d,%d) expected.\n"
+msgstr "%s: Kesalahan ukuran pada argumen %d: Mengharapkan (%d,%d).\n"
+
+#, c-format
+msgid ""
+"%s: Wrong type for argument %d (List element: %d): Real or complex matrix "
+"expected.\n"
+msgstr ""
+"%s: Kesalahan tipe pada argumen %d (Daftar elemen: %d): Mengharapkan matriks "
+"real atau kompleks.\n"
+
+#, c-format
+msgid "%s: Wrong type for argument %d: Real or complex matrix expected.\n"
+msgstr ""
+"%s: Kesalahan tipe pada argumen %d: Mengharapkan matriks real atau "
+"kompleks.\n"
+
+#, c-format
+msgid "%s: Too many names.\n"
+msgstr "%s: Terlalu banyak nama-nama.\n"
+
+#, c-format
+msgid "%s: Wrong type for argument %d: List of size at least %d expected.\n"
+msgstr ""
+"%s: Kesalahan tipe pada argumen %d: mengharapkan baris ukuran setidaknya "
+"%d.\n"
+
+#, c-format
+msgid ""
+"%s: Wrong type for argument %d (List element: %d): Int matrix expected.\n"
+msgstr ""
+"%s: Kesalahan tipe pada argumen %d (Baris elemen: %d): Mengharapkan matriks "
+"lnt.\n"
+
+#, c-format
+msgid "%s: Wrong size for argument %d: At least %d expected.\n"
+msgstr "%s: Kesalahan ukuran pada argumen %d: Mengarapkan setidaknya %d.\n"
+
+#, c-format
+msgid ""
+"%s: Wrong type for argument %d (List element: %d): Boolean matrix expected.\n"
+msgstr ""
+"%s: Kesalahan tipe pada argumen %d (Baris elemen: %d): Mengharapkan matriks "
+"boolean.\n"
+
+#, c-format
+msgid "%s: Wrong type for argument %d: Boolean matrix expected.\n"
+msgstr "%s: Kesalahan tipe pada argumen %d: Mengharapkan matriks boolean.\n"
+
+#, c-format
+msgid ""
+"%s: Wrong type for argument %d (List element: %d): Sparse matrix expected.\n"
+msgstr ""
+"%s: Kesalahan tipe pada argumen %d (Daftar elemen: %d): Mengharapkan matriks "
+"sparse.\n"
+
+#, c-format
+msgid "%s: Wrong type for argument %d: Sparse matrix expected.\n"
+msgstr "%s: Kesalahan tipe pada argumen %d: Mengharapkan matriks sparse.\n"
+
+#, c-format
+msgid "%s: Wrong type for argument %d (List element: %d): Vector expected.\n"
+msgstr ""
+"%s: Kesalahan tipe pada argumen %d (Baris element: %d): Mengharapkan "
+"vektor.\n"
+
+#, c-format
+msgid "%s: Wrong type for argument %d: Vector expected.\n"
+msgstr "%s: Kesalahan tipe pada argumen %d: Mengharapkan vektor.\n"
+
+#, c-format
+msgid "%s: Wrong type for argument %d: Real vector expected.\n"
+msgstr "%s: Kesalahan tipe pada argumen %d: Mengharapkan vektor real.\n"
+
+#, c-format
+msgid "%s: Wrong size for argument %d: %d expected.\n"
+msgstr "%s: Kesalahan ukuran pada argumen %d: mengharapkan %d.\n"
+
+#, c-format
+msgid "%s: Wrong type for argument %d (List element: %d): Scalar expected.\n"
+msgstr ""
+"%s: Kesalahan tipe pada argumen %d (Baris elemen: %d): Mengharapkan skalar.\n"
+
+#, c-format
+msgid "%s: Wrong type for argument %d: Scalar, '%s' or '%s' expected.\n"
+msgstr ""
+"%s: Kesalahan tipe pada argumen %d: Mengharapakan skalar, '%s' atau '%s'.\n"
+
+#, c-format
+msgid ""
+"%s: Wrong type for argument %d (List element: %d): Matrix of strings "
+"expected.\n"
+msgstr ""
+"%s: Kesalahan tipe pada argumen %d (Daftar elemen: %d): Mengharapkan matriks "
+"string.\n"
+
+#, c-format
+msgid "%s: Wrong type for argument %d: Matrix of strings expected.\n"
+msgstr "%s: Kesalahan tipe pada argumen %d: Mengharapkan matriks string.\n"
+
+#, c-format
+msgid ""
+"%s: Wrong type for argument %d (List element: %d): String matrix expected.\n"
+msgstr ""
+"%s: Kesalahan tipe untuk argumen %d (Daftar elemen: %d): Matriks label "
+"diperlukan.\n"
+
+#, c-format
+msgid "%s: Wrong type for argument %d: String matrix expected.\n"
+msgstr "%s: Kesalahan tipe untuk argumen %d: Matriks label diperlukan.\n"
+
+#, c-format
+msgid "%s: Wrong type for argument %d: List expected.\n"
+msgstr "%s: Kesalahan tipe pada argumen %d: Diharapkan list.\n"
+
+#, c-format
+msgid "%s: Wrong type for argument %d: Polynomial matrix expected.\n"
+msgstr ""
+"%s: Kesalahan tipe pada argumen %d: Mengharapkan matriks polinomial.\n"
+
+#, c-format
+msgid "%s: Wrong type for argument %d : Polygon expected.\n"
+msgstr "%s: Kesalahan tipe pada argumen %d : Mengharapkan poligon.\n"
+
+#, c-format
+msgid "%s: Wrong type for argument %d: Working int matrix expected.\n"
+msgstr "%s: Kesalahan tipe untuk argumen %d: Diperlukan matriks int.\n"
+
+#, c-format
+msgid ""
+"%s: Wrong type for argument %d (List element: %d): Row vector expected.\n"
+msgstr ""
+"%s: Kesalahan tipe pada argumen %d (Daftar elemen: %d): Mengharapkan vektor "
+"baris.\n"
+
+#, c-format
+msgid "%s: Wrong type for argument %d: Row vector expected.\n"
+msgstr "%s: Kesalahan tipe pada argumen %d: Mengharapkan vektor baris.\n"
+
+#, c-format
+msgid "%s: argument %d >(%d) should be a column vector.\n"
+msgstr "%s: argumen %d >(%d) hendaknya vektor kolom.\n"
+
+#, c-format
+msgid "%s: Wrong type for argument %d: Column vector expected.\n"
+msgstr "%s: Kesalahan tipe pada argumen %d: Mengharapkan vektor kolom.\n"
+
+#, c-format
+msgid ""
+"%s: Wrong type for argument %d (List element: %d): Boxed pointer expected.\n"
+msgstr ""
+"%s: Kesalahan tipe pada argumen %d (Baris elemen: %d): Mengharapkan boxed "
+"pointer.\n"
+
+#, c-format
+msgid "%s: Wrong type for argument %d: Boxed pointer expected.\n"
+msgstr "%s: Kesalahan tipe pada argumen %d: Mengharapkan boxed pointer.\n"
+
+#, c-format
+msgid "%s: Wrong type for argument %d: Matrix expected.\n"
+msgstr "%s: Kesalahan tipe pada argumen %d: mengharapkan matriks.\n"
+
+#, c-format
+msgid "%s: entry point %s not found in predefined tables or link table.\n"
+msgstr ""
+"%s: titik entry %s tidak ditemukan di tabel yang telah didefinisikan atau "
+"tabel link.\n"
+
+#, c-format
+msgid ""
+"%s: Wrong type for argument %d: Function or string (external function) "
+"expected.\n"
+msgstr ""
+"%s: Kesalahan tipe pada argumen %d: Mengharapkan fungsi atau string (fungsi "
+"eksternal).\n"
+
+#, c-format
+msgid "%s: Incompatible sizes.\n"
+msgstr "%s: Ukuran tidak sesuai.\n"
+
+#, c-format
+msgid "%s: Optional argument %d not given and default value %s not found.\n"
+msgstr ""
+"%s: Argumen opsional %d tidak diberikan dan nilai default %s tidak "
+"ditemukan.\n"
+
+#, c-format
+msgid "%f: No more space to store string arguments.\n"
+msgstr "%f: Tidak ada lagi ruang untuk menyimpan argumen string.\n"
+
+#, c-format
+msgid ""
+"%s: Wrong type for argument %d (List element: %d): Matrix of handle "
+"expected.\n"
+msgstr ""
+"%s: Kesalahan tipe pada argumen %d (daftar elemen: %d): Mengharapkan matriks "
+"handle.\n"
+
+#, c-format
+msgid "%s: Wrong type for argument %d: Matrix of handle expected.\n"
+msgstr "%s: Kesalahan tipe pada argumen %d: Mengharapkan matriks handle.\n"
+
+#, c-format
+msgid "%s: Wrong number of input argument(s): %d expected.\n"
+msgstr "%s: Kesalahan nomer pada argumen masukan: %d diperlukan.\n"
+
+#, c-format
+msgid "%s: Wrong number of input argument(s): %d to %d expected.\n"
+msgstr "%s: Kesalahan nomor pada argumen masukan: %d sampai %d diperlukan.\n"
+
+#, c-format
+msgid "%s: Wrong number of output argument(s): %d expected.\n"
+msgstr "%s: Kesalahan nomer pada argumen keluaran: %d diperlukan.\n"
+
+#, c-format
+msgid "%s: Wrong number of output argument(s): %d to %d expected.\n"
+msgstr ""
+"%s: Kesalahan nomer pada argumen keluaran: %d sampai %d diperlukan.\n"
+
+#, c-format
+msgid "%s: Optional arguments name=val must be at the end.\n"
+msgstr "%s: Argumen opsional name=val hendaknya terletak pada akhir.\n"
+
+#, c-format
+msgid "%s: Unrecognized optional arguments %s.\n"
+msgstr "%s: Argumen opsional tidak dikenal %s.\n"
+
+msgid "Optional argument list is empty.\n"
+msgstr "Daftar argumen opsional kosong.\n"
+
+msgid "Optional arguments list: \n"
+msgstr "Daftar argumen opsional: \n"
+
+#, c-format
+msgid "and %s.\n"
+msgstr "dan %s.\n"
+
+#, c-format
+msgid "%s: bad call to %s! (1rst argument).\n"
+msgstr "%s: panggilan buruk untuk %s! (argumen ke-1).\n"
+
+#, c-format
+msgid ""
+"%s: (%s) too many arguments in the stack edit stack.h and enlarge intersiz.\n"
+msgstr ""
+"%s: (%s) terlalu banyak argumen di tumpukan, edit stack.h dan perbesar "
+"intersize.\n"
+
+#, c-format
+msgid "%s: (%s) bad third argument!\n"
+msgstr "%s: (%s) argumen buruk ketiga!\n"
+
+#, c-format
+msgid "%s: Wrong type for argument: Complex expected.\n"
+msgstr "%s: Kesalahan tipe pada argumen: Diharapkan complex.\n"
+
+#, c-format
+msgid "%s: bad call to %s!\n"
+msgstr "%s: panggilan buruk pada %s!\n"
+
+#, c-format
+msgid "%s: argument %d > (%d) should be a complex matrix.\n"
+msgstr "%s: argumen %d > (%d) hendaknya berupa matriks kompleks.\n"
+
+#, c-format
+msgid "%s: bad call to %s (third argument %c).\n"
+msgstr "%s: panggilan buruk pada %s (argumen ketiga %c).\n"
+
+#, c-format
+msgid "%s: (%s) bad second argument!\n"
+msgstr "%s: (%s) Argumen buruk kedua!\n"
+
+#, c-format
+msgid ""
+"%s: createcvarfromptr: too many arguments on the stack, enlarge intersiz.\n"
+msgstr ""
+"%s: createcvarfromptr: terlalu banyak argumen pada tumpukan, perbesar "
+"intersiz.\n"
+
+#, c-format
+msgid "%s: Recursion problems. Sorry ...\n"
+msgstr "%s: Permasalahan pada rekursi. Maaf...\n"
+
+#, c-format
+msgid "%s: %s is not a Scilab function.\n"
+msgstr "%s: %s bukanlah fungsi dalam Scilab.\n"
+
+msgid "built in"
+msgstr "bawaan"
+
+msgid "Invalid time domain.\n"
+msgstr "Domain waktu tidak valid.\n"
+
+msgid "Invalid system.\n"
+msgstr "Sistem tidak valid.\n"
+
+msgid "A non square matrix!\n"
+msgstr "Bukan matriks persegi!\n"
+
+#, c-format
+msgid "Invalid %c,%c matrices.\n"
+msgstr "Matrices %c,%c tidak valid.\n"
+
+#, c-format
+msgid "%s: internal error, info=%d.\n"
+msgstr "%s: eror internal, info=%d.\n"
+
+#, c-format
+msgid "%s: intersiz is too small.\n"
+msgstr "%s: intersiz terlalu kecil.\n"
+
+msgid "first"
+msgstr "pertama"
+
+msgid "second"
+msgstr "kedua"
+
+msgid "third"
+msgstr "ketiga"
+
+msgid "fourth"
+msgstr "keempat"
+
+#, c-format
+msgid "%s argument"
+msgstr "%s argumen"
+
+#, c-format
+msgid "argument number %d"
+msgstr "argumen nomer %d"
+
+#, c-format
+msgid "%s and %s arguments"
+msgstr "argumen %s dan %s"
+
+#, c-format
+msgid "%s argument and argument %d"
+msgstr "%s argumen dan argumen %d"
+
+#, c-format
+msgid "arguments %d and %d"
+msgstr "argumen %d dan %d"
+
+msgid "should be square"
+msgstr "hendaknya persegi"
+
+msgid "should be a vector"
+msgstr "hendaknya vektor"
+
+msgid "should be a row vector"
+msgstr "hendaknya vektor baris"
+
+msgid "should be a column vector"
+msgstr "hendaknya vektor kolom"
+
+msgid "should be a scalar"
+msgstr "hendaknya skalar"
+
+#, c-format
+msgid "%s: %s has wrong dimensions (%d,%d), expecting (%d,%d).\n"
+msgstr "%s: %s mengalami kesalahan dimensi (%d,%d), mengharapkan (%d,%d).\n"
+
+#, c-format
+msgid "%s: %s has wrong %s dimension (%d), expecting (%d).\n"
+msgstr "%s: %s memiliki dimensi %s yang salah (%d), mengharapkan (%d).\n"
+
+#, c-format
+msgid "%s: %s has wrong length %d, expecting (%d).\n"
+msgstr "%s: %s Memiliki panjang %d yang salah, mengharapkan (%d).\n"
+
+#, c-format
+msgid "%s: %s have incompatible dimensions (%dx%d) # (%dx%d)\n"
+msgstr "%s: %s memiliki dimensi yang tidak sesuai (%dx%d) # (%dx%d)\n"
+
+#, c-format
+msgid "%s: %s have incompatible dimensions.\n"
+msgstr "%s: %s memiliki dimensi yang tidak sesuai.\n"
+
+#, c-format
+msgid "%s: %s should be a list with %d-element being %s.\n"
+msgstr "%s: %s hendaknya berupa baris dengan %d-elemen being %s.\n"
+
+msgid "square"
+msgstr "persegi"
+
+msgid "a vector"
+msgstr "sebuah vektor"
+
+msgid "a row vector"
+msgstr "sebuah vektor baris"
+
+msgid "a column vector"
+msgstr "sebuah vektor kolom"
+
+msgid "a scalar"
+msgstr "sebuah skalar"
+
+#, c-format
+msgid "%s: argument %d(%d) has wrong %s dimension (%d), expecting (%d).\n"
+msgstr ""
+"%s: argumen %d(%d) memiliki dimensi %s yang salah (%d), mengharapkan (%d).\n"
+
+#, c-format
+msgid "GetDataFromName: variable %s not found.\n"
+msgstr "GetDataFromName: variable %s tidak ditemukan.\n"
+
+#, c-format
+msgid "%s: Variable %s not found.\n"
+msgstr "%s: Variable %s tidak ditemukan.\n"
+
+#, c-format
+msgid "Undefined variable %s.\n"
+msgstr "Variabel tak terdefinisi %s.\n"
+
+#, c-format
+msgid "%s: argument must be a string.\n"
+msgstr "%s: argumen harus berupa string.\n"
+
+#, c-format
+msgid "Unqueuing %s - No option.\n"
+msgstr ""
+
+#, c-format
+msgid "Unqueuing %s - seq.\n"
+msgstr ""
+
+msgid "Cannot find Windows temporary directory (1)."
+msgstr "Tidak bisa menemukan lokasi sementara Windows (1)."
+
+msgid "Error"
+msgstr "Eror"
+
+#, c-format
+msgid "Impossible to create : %s"
+msgstr "Tidak mungkin untuk membuat : %s"
+
+#, c-format
+msgid "Error: Could not create %s: %s\n"
+msgstr ""
+
+#, c-format
+msgid "Scilab version \"%d.%d.%d.%d\"\n"
+msgstr "Versi Scilab \"%d.%d.%d.%d\"\n"
+
+#, c-format
+msgid ""
+"Scilab version \"%d.%d.%d.%d\"\n"
+"%s\n"
+msgstr ""
+"Versi Scilab \"%d.%d.%d.%d\"\n"
+"%s\n"
+
+msgid "Scilab Version Info."
+msgstr "Informasi versi Scilab."
+
+msgid ""
+"No available console !\n"
+"Please use STD mode."
+msgstr ""
+
+msgid "Empty tab"
+msgstr ""
+
+msgid "Scilab Console"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong size for input argument #%d: Integer expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong type of input argument #%d: Integer expected.\n"
+msgstr ""
+
+msgid "Startup execution:"
+msgstr "Menjalankan startup:"
+
+msgid "  loading initial environment"
+msgstr "  Memuati lingkungan inisial"
+
+msgid "&File"
+msgstr "&Berkas"
+
+msgid "&Edit"
+msgstr "&Sunting"
+
+msgid "&Preferences"
+msgstr "&Preferensi"
+
+msgid "&Control"
+msgstr "&Kontrol"
+
+msgid "&Applications"
+msgstr "&Aplikasi"
+
+msgid "&?"
+msgstr "&?"
+
+msgid "&Toolboxes"
+msgstr "Ko&takBantuan"
+
+msgid "Introduction"
+msgstr ""
+
+msgid "Getting started with Scilab"
+msgstr ""
+
+#, c-format
+msgid "Checking: %s\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Please check: %s.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: File doesn't exist: %s"
+msgstr ""
+
+#, c-format
+msgid "%s: Requires scilab editor.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong number of input argument(s): At least %d expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: Double expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: %s is a uneditable hard coded function.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Unable to find Perl file: %s"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: Strings expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: No perl command specified."
+msgstr ""
+
+#, c-format
+msgid "%s: Unable to find Perl in '%s"
+msgstr ""
+
+#, c-format
+msgid "%s: Unable to find Perl.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: System error: Command executed: %s"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong number of input arguments: At least %d expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong value for input argument #%d: Defined variable expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s called at line %s of %s"
+msgstr ""
+
+#, c-format
+msgid "%s called at line %s of %s instruction."
+msgstr ""
+
+#, c-format
+msgid "%s called under %s"
+msgstr ""
+
+#, c-format
+msgid "%s called at line %s of macro %s"
+msgstr ""
+
+msgid "User variables are:"
+msgstr ""
+
+#, c-format
+msgid "Using %s elements out of %s"
+msgstr ""
+
+msgid " by "
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "Bytes"
+msgstr ""

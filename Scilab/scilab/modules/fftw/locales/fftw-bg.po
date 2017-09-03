@@ -1,0 +1,158 @@
+# Божин Ангелов Караиванов, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: Scilab\n"
+"Report-Msgid-Bugs-To: <localization@lists.scilab.org>\n"
+"POT-Creation-Date: 2011-10-03 10:34+0100\n"
+"PO-Revision-Date: 2012-10-04 22:23+0300\n"
+"Last-Translator: Божин Ангелов Караиванов\n"
+"Language-Team: Bulgarian <bozhink@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2011-11-07 21:35+0000\n"
+"X-Generator: Lokalize 1.2\n"
+"Revision-Date: 2011-11-03 10:55+0100\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# File: sci_gateway/c/gw_fftw.c, line: 46
+#, c-format
+msgid "FFTW Library %s not found.\n"
+msgstr "FFTW библиотеката %s не е намерена.\n"
+
+#
+# File: sci_gateway/c/gw_fftw.c, line: 50
+msgid "FFTW Library not found.\n"
+msgstr "FFTW библиотеката не е намерена.\n"
+
+#
+# File: sci_gateway/c/sci_fftw.c, line: 99
+#, c-format
+msgid "%s: Wrong number of input arguments: %d not expected.\n"
+msgstr "%s: Невалиден брой на входните аргументи: Очакват се %d .\n"
+
+#
+# File: sci_gateway/c/sci_fftw.c, line: 171
+#, c-format
+msgid "%s: Wrong type for input argument #%d: A Real or Complex expected.\n"
+msgstr ""
+"%s: Невалиден тип на входен аргумент #%d: Очаква се реално или комплексно "
+"число.\n"
+
+#
+# File: sci_gateway/c/sci_fftw.c, line: 178
+#, c-format
+msgid "%s: Wrong values for input argument #%d.\n"
+msgstr "%s: Невалидни стойности на входен аргумент #%d.\n"
+
+#
+# File: sci_gateway/c/sci_fftw.c, line: 194
+#, c-format
+msgid "%s: Wrong type for input argument #%d: N-dimensional array expected.\n"
+msgstr ""
+
+#
+# File: sci_gateway/c/sci_fftw.c, line: 204
+# File: sci_gateway/c/sci_fftw.c, line: 228
+#, c-format
+msgid "%s: Wrong size for input argument #%d.\n"
+msgstr ""
+
+#
+# File: sci_gateway/c/sci_fftw.c, line: 218
+#, c-format
+msgid "%s: Wrong type for input argument #%d: int matrix expected.\n"
+msgstr ""
+
+#
+# File: sci_gateway/c/sci_fftw.c, line: 235
+#, c-format
+msgid "%s: Incompatible input arguments '#%d and '#%d': Same sizes expected.\n"
+msgstr ""
+
+#
+# File: sci_gateway/c/sci_fftw.c, line: 242
+# File: sci_gateway/c/sci_fftw.c, line: 248
+# File: sci_gateway/c/sci_fftw.c, line: 442
+# File: sci_gateway/c/sci_fftw.c, line: 467
+# File: sci_gateway/c/sci_fftw.c, line: 502
+# File: sci_gateway/c/sci_fftw.c, line: 518
+# File: sci_gateway/c/sci_fftw.c, line: 549
+# File: sci_gateway/c/sci_fftw.c, line: 600
+# File: sci_gateway/c/sci_fftw.c, line: 632
+# File: sci_gateway/c/sci_fftw_flags.c, line: 178
+# File: sci_gateway/c/sci_fftw_flags.c, line: 185
+# File: sci_gateway/c/sci_fftw_flags.c, line: 202
+# File: sci_gateway/c/sci_fftw_flags.c, line: 210
+# File: sci_gateway/c/sci_get_fftw_wisdom.c, line: 62
+# File: sci_gateway/c/sci_get_fftw_wisdom.c, line: 71
+# File: sci_gateway/c/sci_get_fftw_wisdom.c, line: 92
+# File: sci_gateway/c/sci_get_fftw_wisdom.c, line: 100
+# File: sci_gateway/c/sci_set_fftw_wisdom.c, line: 61
+#, c-format
+msgid "%s: No more memory.\n"
+msgstr ""
+
+#
+# File: sci_gateway/c/sci_fftw.c, line: 315
+# File: sci_gateway/c/sci_fftw.c, line: 372
+#, c-format
+msgid ""
+"%s: Wrong values for input argument #%d: Non-negative integers expected.\n"
+msgstr ""
+
+#
+# File: sci_gateway/c/sci_fftw_flags.c, line: 148
+#, c-format
+msgid "%s: Wrong values for input argument #%d: FFTW flag expected.\n"
+msgstr ""
+
+#
+# File: sci_gateway/c/sci_fftw_flags.c, line: 160
+#, c-format
+msgid "%s: Wrong type for input argument #%d.\n"
+msgstr ""
+
+#
+# File: sci_gateway/c/sci_loadfftwlibrary.c, line: 50
+# File: sci_gateway/c/sci_set_fftw_wisdom.c, line: 86
+#, c-format
+msgid "%s: Wrong type for input argument #%d: A string expected.\n"
+msgstr ""
+
+#
+# File: sci_gateway/c/sci_set_fftw_wisdom.c, line: 79
+#, c-format
+msgid "%s: An error occurred: %s\n"
+msgstr ""
+
+#
+# File: sci_gateway/c/sci_set_fftw_wisdom.c, line: 79
+msgid "FFTW can't read wisdom."
+msgstr ""
+
+#
+# File: src/nofftw/nofftw.c, line: 21
+msgid "Scilab FFTW module not installed.\n"
+msgstr ""
+
+# File: etc/fftw.start, line: 34
+msgid "You choose to install scilab with fftw module."
+msgstr ""
+
+#
+# File: etc/fftw.start, line: 35
+msgid "This module requires : "
+msgstr ""
+
+#
+# File: etc/fftw.start, line: 36
+msgid "Scilab will use standard fft by default until you install this library."
+msgstr ""
+
+#
+# File: etc/fftw.start, line: 37
+msgid "See help fftw for more informations."
+msgstr ""
+

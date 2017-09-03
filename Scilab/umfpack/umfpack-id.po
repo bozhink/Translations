@@ -1,0 +1,276 @@
+# Indonesian translation for scilab
+# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
+# This file is distributed under the same license as the scilab package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: scilab\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-10-03 10:33+0100\n"
+"PO-Revision-Date: 2010-01-03 03:51+0000\n"
+"Last-Translator: Waluyo Adi Siswanto <Unknown>\n"
+"Language-Team: Indonesian <id@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2011-11-07 21:34+0000\n"
+"X-Generator: Launchpad (build 14231)\n"
+
+#, c-format
+msgid "%s: Wrong size for input arguments: Same sizes expected.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: not a valid reference to Cholesky "
+"factors.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: Must be symmetric positive definite "
+"matrix."
+msgstr ""
+
+#, c-format
+msgid "%s: No more memory.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: An error occurred: %s\n"
+msgstr "%s: Terjadi kesalahan : %s\n"
+
+msgid "factorization"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: Must be a valid reference to a "
+"Cholesky factorisation"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: No more memory : increase stacksize %d supplementary words needed.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: not a valid reference to Cholesky "
+"factors"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong size for input argument #%d.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong size for input argument #%d: not compatible with the Choleski "
+"factorisation.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: not enough memory.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: Must be a valid reference to (umf) "
+"LU factors.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: An error occurred: %s: %s\n"
+msgstr ""
+
+msgid "symbolic factorization"
+msgstr ""
+
+msgid "The (square) matrix appears to be singular."
+msgstr ""
+
+msgid "Warning"
+msgstr ""
+
+msgid "no place to store the LU pointer in ListNumeric."
+msgstr ""
+
+#, c-format
+msgid "%s: An error occurred: %s.\n"
+msgstr ""
+
+msgid "This is not a factorisation of a square matrix"
+msgstr ""
+
+msgid "This is a factorisation of a singular matrix"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong input argument #%d: '%s' or '%s' expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong size for input argument #%d: %s.\n"
+msgstr ""
+
+msgid "Matrix is not compatible with the given LU factors"
+msgstr ""
+
+msgid "numeric factorization"
+msgstr ""
+
+msgid "singular matrix"
+msgstr ""
+
+msgid "not enough memory"
+msgstr ""
+
+msgid "internal error"
+msgstr ""
+
+msgid "invalid matrix"
+msgstr ""
+
+msgid "GENMMD ordering only works on symmetric matrices.\n"
+msgstr ""
+
+msgid "The lower part of the matrix must be represented.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: No more memory (n=%d, nnz=%d).\n"
+msgstr ""
+
+msgid "    CC^T Factorization: Matrix is not positive definite.\n"
+msgstr ""
+
+#, c-format
+msgid "                        nonpositive pivot in column %d\n"
+msgstr ""
+
+msgid "Scilab UMFPACK module not installed.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong number of input argument(s).\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: sparse matrix expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: String expected.\n"
+msgstr ""
+
+msgid "Choose a sparse matrix"
+msgstr ""
+
+msgid "   then click on OK   "
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong number of input argument(s): At least %d expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: The file contains a rhs but it will not be read !"
+msgstr ""
+
+#, c-format
+msgid "%s: currently don't read unassembled (elemental) sparse matrix."
+msgstr ""
+
+#, c-format
+msgid "%s: No values for this matrix (only non zero pattern) : put some 1."
+msgstr ""
+
+msgid ""
+"\n"
+" approximate (lM,vM) with the iterative power method \n"
+msgstr ""
+
+msgid " ----------------------------------------------------- \n"
+msgstr ""
+
+#, c-format
+msgid " iteration %3d : lM = %e  \n"
+msgstr ""
+
+#, c-format
+msgid " Warning : for lM convergence at rtol = %e \n"
+msgstr ""
+
+#, c-format
+msgid "           don't reached after %d iterations (got only %e) \n"
+msgstr ""
+
+msgid ""
+"\n"
+" approximate (lm,vm) with the inverse iterative power method \n"
+msgstr ""
+
+msgid " ------------------------------------------------------------\n"
+msgstr ""
+
+#, c-format
+msgid " iteration %3d : lm = %e  \n"
+msgstr ""
+
+#, c-format
+msgid " Warning : for lm convergence at rtol = %e \n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong number of input arguments: %d to %d expected.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong type for input argument #%d: Square sparse matrix expected.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong size for input argument #%d: Square sparse matrix expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: The matrix and the LU factors have not the same dimension !\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Invalid type and/or size and/or value for the second arg.\n"
+msgstr ""
+
+msgid " For this demo the current stack size is not enough "
+msgstr ""
+
+msgid " enter the following at the scilab prompt :          "
+msgstr ""
+
+msgid "                                                     "
+msgstr ""
+
+msgid "              stacksize(3000000);                    "
+msgstr ""
+
+msgid "           then re enter scisptdemo()                "
+msgstr ""
+
+msgid "               CLICK TO  CONTINUE                    "
+msgstr ""
+
+msgid "how to use this stuff"
+msgstr ""
+
+msgid "display a speed comparison test"
+msgstr ""
+
+msgid "small tests for condestsp"
+msgstr ""
+
+msgid "Click to choose a demo"
+msgstr ""

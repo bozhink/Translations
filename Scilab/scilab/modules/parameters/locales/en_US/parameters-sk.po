@@ -1,0 +1,108 @@
+# Slovak translation for scilab
+# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
+# This file is distributed under the same license as the scilab package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: scilab\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-10-03 10:34+0100\n"
+"PO-Revision-Date: 2010-12-03 12:50+0000\n"
+"Last-Translator: Ondrej Staš <Unknown>\n"
+"Language-Team: Slovak <sk@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2011-11-07 21:39+0000\n"
+"X-Generator: Launchpad (build 14231)\n"
+
+#, c-format
+msgid "%s: wrong parameter type. %s expected. Return default value %d.\n"
+msgstr ""
+"%s: nesprávny typ parametru. Očakávané %s. Prednastavená návratová hodnota "
+"%d.\n"
+
+#, c-format
+msgid "%s: parameter not found. Return default value %d.\n"
+msgstr "%s: parameter nebol nájdený. Prednastavená návratová hodnota %d.\n"
+
+#, c-format
+msgid "%s: wrong min bound for parameter %s: min bound %d, value %d\n"
+msgstr ""
+"%s:  nesprávna min hranica pre parameter  %s: min hranica %d, hodnota %d\n"
+
+#, c-format
+msgid "%s: wrong max bound for parameter %s: max bound %d, value %d\n"
+msgstr ""
+"%s: nesprávna max hranica pre parameter %s: max hranice %d, hodnota %d\n"
+
+#, c-format
+msgid "%s: wrong value for parameter %s: value %d\n"
+msgstr "%s: nesprávna hodnota pre parameter %s: hodnota %d\n"
+
+#, c-format
+msgid "%s: awaited parameters: "
+msgstr "%s: očakávané parametre: "
+
+#, c-format
+msgid "%s: wrong parameter type. %s expected. Return default value %f.\n"
+msgstr ""
+"%s: nesprávny typ parametru. Očakávané %s. Prednastavená návratová hodnota "
+"%f.\n"
+
+#, c-format
+msgid "%s: parameter not found. Return default value %f.\n"
+msgstr "%s: parameter nebol nájdený. Prednastavená návratová hodnota %f.\n"
+
+#, c-format
+msgid "%s: wrong min bound for parameter %s: min bound %f, value %f\n"
+msgstr ""
+"%s: nesprávna min hranica pre parameter %s: min hranica %f, hodnota %f\n"
+
+#, c-format
+msgid "%s: wrong max bound for parameter %s: max bound %f, value %f\n"
+msgstr ""
+"%s: nesprávna max hranica pre parameter %s: max hranica %f, hodnota %f\n"
+
+#, c-format
+msgid "%s: wrong value for parameter %s: value %f\n"
+msgstr "%s: nesprávna hodnota pre parameter %s:  hodnota %f\n"
+
+#, c-format
+msgid "%s: wrong parameter type. %s expected. Return default value %s.\n"
+msgstr ""
+"%s:  nesprávny typ parametru. Očakávané %s. Prednastavená návratová hodnota "
+"%s.\n"
+
+#, c-format
+msgid "%s: parameter not found. Return default value %s.\n"
+msgstr "%s: parameter nebol nájdený. Prednastavená návratová hodnota %s.\n"
+
+#, c-format
+msgid "%s: wrong value for parameter %s: value %s\n"
+msgstr "%s: nesprávna hodnota pre parameter %s: hodnota %s\n"
+
+#, c-format
+msgid "%s: wrong size for parameter %s: %d requested, got %d\n"
+msgstr "%s: nesprávny rozmer pre parameter %s: %d požadované, obdržané %d\n"
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: %s expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: parameter %s not defined"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong number of input argument(s): An even number expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: String expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: parameter doesn't exist"
+msgstr ""

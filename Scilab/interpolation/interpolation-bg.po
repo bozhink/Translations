@@ -1,0 +1,230 @@
+# Indonesian translation for scilab
+# Copyright (c) 2009 Rosetta Contributors and Canonical Ltd 2009
+# This file is distributed under the same license as the scilab package.
+#
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
+# Bozhin Karaivanov <bozhink@gmail.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: scilab\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-10-03 10:33+0100\n"
+"PO-Revision-Date: 2011-11-08 12:13+0200\n"
+"Last-Translator: Bozhin Karaivanov <bozhink@gmail.com>\n"
+"Language-Team: Indonesian <id@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2011-11-07 21:35+0000\n"
+"X-Generator: Lokalize 1.2\n"
+"Language: id\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#, c-format
+msgid ""
+"%s: Wrong size for input arguments #%d, #%d and #%d: Same sizes expected.\n"
+msgstr ""
+"%s: Невалиден размер на входните аргументи #%d, #%d и #%d: Очакват се еднакви "
+"размери.\n"
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: %s tlist expected.\n"
+msgstr "%s: Невалиден тип на входен аргумент #%d: Очаква се %s tlist.\n"
+
+#, c-format
+msgid "%s: Wrong values for input argument #%d.\n"
+msgstr "%s: Невалидни стойности на входен аргумент #%d.\n"
+
+#, c-format
+msgid "%s: xyz must be a (n,3) real matrix with n >= 10\n"
+msgstr "%s: xyz трябва да бъде (n,3) реална матрица с n >= 10\n"
+
+#, c-format
+msgid "%s: Duplicate nodes or all nodes colinears (ier = %d).\n"
+msgstr "%s: Дублирани възли или всички възли са колинеарни (ier = %d).\n"
+
+#, c-format
+msgid "%s: Wrong size for input arguments #%d and #%d: Same sizes expected.\n"
+msgstr ""
+"%s: Невалиден размер на входните аргументи #%d и #%d: Очакват се еднакви "
+"размери.\n"
+
+#, c-format
+msgid "%s: Wrong values for input argument #%d: Unknown '%s' type.\n"
+msgstr "%s: Невалидни стойности на входен аргумент #%d: Неизвестен тип '%s'.\n"
+
+#, c-format
+msgid "%s: Wrong value for input arguments #%d and #%d: Same sizes expected.\n"
+msgstr ""
+"%s: Невалидни стойности на входни аргументи #%d и #%d: Очакват се еднакви "
+"размери.\n"
+
+#, c-format
+msgid "%s: Wrong values for input argument #%d: Unsupported '%s' type.\n"
+msgstr ""
+"%s: Невалидни стойности на входен аргумент #%d: Неподдържан тип '%s'.\n"
+
+#, c-format
+msgid "%s: Wrong number of input argument(s).\n"
+msgstr "%s: Невалиден брой на входните параметри.\n"
+
+#, c-format
+msgid "%s: Wrong size for input argument #%d.\n"
+msgstr "%s: Невалиден размер на входен аргумент #%d.\n"
+
+#, fuzzy, c-format
+msgid "%s: Grid abscissae of dim %d not in strict increasing order.\n"
+msgstr "%s: Абсцисата на решетката за dim %d не е в строго възходящ ред.\n"
+
+#, c-format
+msgid "%s: %s must be a real %d-dim hypermatrix.\n"
+msgstr "%s: %s трябва да бъде реална %d-мерна хиперматрица.\n"
+
+#, fuzzy, c-format
+msgid ""
+"%s: Size incompatibility between grid points and grid values in dimension "
+"%d.\n"
+msgstr ""
+"%s: Несъвместими размери на точките в решетката и стойностите в решетката в "
+"размерност %d.\n"
+
+#, fuzzy, c-format
+msgid ""
+"%s: Size incompatibility between grid points and values in dimension %d.\n"
+msgstr ""
+"%s: Несъвместими размери на точките в решетката и стойностите в размерност %d."
+"\n"
+
+#, fuzzy, c-format
+msgid ""
+"%s: Size incompatibility between grid points and values in dimension %d or "
+"%d.\n"
+msgstr ""
+"%s: Несъвместими размери на точките в решетката и стойностите в размерност %d "
+"или %d.\n"
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: Not (strictly) increasing or +-inf "
+"detected.\n"
+msgstr ""
+"%s: Невалидна стойност на входен аргумент #%d: Няма (строга) възходимост или "
+"има стойност  +-inf.\n"
+
+#, c-format
+msgid "%s: Not enough points for the fit.\n"
+msgstr "%s: Няма достатъчно точки за фита.\n"
+
+#, fuzzy, c-format
+msgid "%s: Warning: Rank deficiency of the least square matrix.\n"
+msgstr ""
+"%s: Внимание: Недостатъчен ранг на матрицата на най-малките квадрати.\n"
+
+#, c-format
+msgid ""
+"%s: Wrong size for input arguments #%d and #%d: Vector of same size "
+"expected.\n"
+msgstr ""
+"%s: Невалиден размер на входните аргументи #%d и #%d: Очаква се вектор със "
+"същия размер .\n"
+
+#, c-format
+msgid "%s: Wrong size for input argument #%d: Must be %s.\n"
+msgstr "%s: Невалиден размер на входен аргумент #%d: Трябва да бъде %s.\n"
+
+#, c-format
+msgid "%s: For a clamped spline, you must give the endpoint slopes.\n"
+msgstr ""
+
+#, fuzzy, c-format
+msgid "%s: Wrong size for input argument #%d: Endpoint slopes.\n"
+msgstr ""
+"%s: Невалиден размер на входен аргумент #%d:                        .\n"
+
+#, c-format
+msgid "%s: Wrong value for periodic spline %s: Must be equal to %s.\n"
+msgstr "%s: Kesalahan angka untuk spline periodik %s: Harus sama dengan %s.\n"
+
+#, c-format
+msgid "%s: Wrong size for input arguments #%d, #%d or #%d.\n"
+msgstr "%s: Kesalahan ukuran untuk argumen masukan #%d, #%d atau #%d.\n"
+
+#, c-format
+msgid "%s: x and/or y are not in strict increasing order (or +-inf detected)\n"
+msgstr "%s: x dan/atau y tidak mengikuti urutan naik (atau dideteksi +-inf)\n"
+
+#, c-format
+msgid ""
+"%s: Wrong size for input arguments: x, y and z grids must have at least %d "
+"points.\n"
+msgstr ""
+"%s: Kesalahan ukuran untuk argumen masukan: jejaring x, y dan z harus "
+"mempunyai paling tidak %d titik.\n"
+
+#, c-format
+msgid ""
+"%s: Wrong size for input argument #%d: A real 3-dimension hypermatrix "
+"expected.\n"
+msgstr ""
+"%s: Kesalahan ukuran untuk argumen masukan #%d: Diharapkan hipermatriks 3 "
+"dimensi.\n"
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: Vector with %d components expected.\n"
+msgstr ""
+"%s: Kesalahan angka untuk argumen masukan #%d: Diharapkan vektor dengan "
+"komponen %d.\n"
+
+#, c-format
+msgid "%s: Problem with 'flag' = %d\n"
+msgstr "%s: Masalah dengan 'flag' = %d\n"
+
+#, c-format
+msgid "Wrong type for input argument #%d: Real hypermatrix expected.\n"
+msgstr ""
+"Kesalahan tipe untuk argumen masukan #%d: Diharapkan hipermatriks riil.\n"
+
+#, c-format
+msgid "Wrong type for input argument #%d: String expected.\n"
+msgstr "Kesalahan tipe untuk argumen masukan #%d: Diharapkan string.\n"
+
+#, c-format
+msgid "%s: Wrong number of input arguments: Must be between %d and %d.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong size for input argument #%d: Vector or matrix expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: Array of reals expected.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: Reals expected but some NaN found.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong size for input arguments #%d and #%d: Same size expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong size for input argument #%d: Vector expected.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: '%s' or '%s' or '%s' expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong value for input argument #%d: '%s' or real expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong size for input argument #%d: Two rows expected.\n"
+msgstr ""
+
+

@@ -1,0 +1,825 @@
+# Slovak translation for scilab
+# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
+# This file is distributed under the same license as the scilab package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: scilab\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-10-03 10:34+0100\n"
+"PO-Revision-Date: 2010-12-17 16:29+0000\n"
+"Last-Translator: Ondrej Staš <Unknown>\n"
+"Language-Team: Slovak <sk@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2011-11-07 21:39+0000\n"
+"X-Generator: Launchpad (build 14231)\n"
+
+#, c-format
+msgid "%s: Wrong number of input arguments: %d expected.\n"
+msgstr "%s: Nesprávny počet vstupných argumentov: Počet očakávaných je %d.\n"
+
+#, c-format
+msgid "%s: Wrong number of input argument: %d to %d expected.\n"
+msgstr ""
+"%s: Nesprávny počet vstupných argumentov: Od %d do  %d očakávaných.\n"
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: String array expected.\n"
+msgstr ""
+"%s: Nesprávny typ vstupného argumentu #%d: Očakávané pole reťazcov "
+"(String).\n"
+
+#, c-format
+msgid ""
+"%s: Wrong size for input argument #%d: mx1, mx2 or mx3 string matrix "
+"expected.\n"
+msgstr ""
+"%s: Nesprávny rozmer  vstupného argumentu #%d: Očakávaná je mx1, mx2 alebo "
+"mx3 matica reťazcov (string).\n"
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: Single string expected.\n"
+msgstr ""
+"%s: Zlý typ vstupného argumentu #%d: Očakávaný typ je jednoduchý reťazec "
+"(Single string).\n"
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: 'user' or 'allusers' expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: You haven't write access on this directory : %s.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Module '%s' is not installed ('%s' section).\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Module '%s - %s' is not installed.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: The following module is installed in the user section, you cannot add it "
+"to the autoload list for all users:\n"
+msgstr ""
+"%s: Nasledovný modul je nainštalovaný v užívateľskej sekcii, nemôžeš ho "
+"pridať do zoznamu automatického načítania pre všetkých užívateľov:\n"
+
+#, c-format
+msgid "\t - '%s - %s'\n"
+msgstr ""
+
+#, c-format
+msgid "%s: The following module is not installed:\n"
+msgstr "%s: Nasledovný  modul nie je nainštalovaný :\n"
+
+#, c-format
+msgid "%s: The following modules are not installed:\n"
+msgstr "%s: Nasledovné moduly nie sú nainštalované:\n"
+
+#, c-format
+msgid ""
+"%s: Wrong type for input argument #%d: Boolean or single string expected.\n"
+msgstr ""
+"%s: Zlý typ vstupného argumentu #%d: Očakávaný logický typ (Boolean) alebo "
+"jednoduchý reťazec (single string).\n"
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: 'user','allusers' or 'all' "
+"expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong number of input argument: at most %d expected.\n"
+msgstr ""
+"%s: Nesprávny počet vstupných argumentov: najviac je očakávaných %d.\n"
+
+#, c-format
+msgid "%s: Wrong size for input argument #%d: Single string expected.\n"
+msgstr ""
+"%s: Nesprávny rozmer vstupného argumentut #%d:  Očakávaný typ Single "
+"string.\n"
+
+#, c-format
+msgid "%s: Wrong value for input argument #%d: 'all' or 'main' expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong number of input argument: %d expected.\n"
+msgstr "%s: Nesprávny počet vstupných argumentov: %d očakávaných.\n"
+
+#, c-format
+msgid ""
+"%s: Wrong size for input argument #%d: 1x1 or 1x2 string matrix expected.\n"
+msgstr ""
+"%s: Nesprávny rozmer vstupného argumentu #%d: je očakávaná matica "
+"reťazcov1x1 or 1x2.\n"
+
+#, c-format
+msgid "%s: The config file ('%s') is not well formated at line %d\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong size for input argument #%d: mx1,mx2 or mx3 string matrix "
+"expected.\n"
+msgstr ""
+"%s: Nesprávny rozmer  vstupného argumentu #%d: Očakávaná je mx1, mx2 alebo "
+"mx3 matica reťazcov (string).\n"
+
+#, c-format
+msgid "%s: Wrong number of input arguments: %d to %d expected.\n"
+msgstr ""
+"%s: Nesprávny počet vstupných argumentov: počet očakávaných je od %d do %d.\n"
+
+#, c-format
+msgid ""
+"%s: Wrong size for input argument #%d: mx1 or mx2 string matrix expected.\n"
+msgstr ""
+"%s: Nesprávny rozmer  vstupného argumentu #%d: Očakávaná je mx1 alebo mx2 "
+"matica reťazcov (string).\n"
+
+#, c-format
+msgid ""
+"%s: The directory '%s' cannot been created, please check if you have write "
+"access on this directory.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: The file '%s' doesn't exist or is not read accessible\n"
+msgstr ""
+
+#, c-format
+msgid "%s: DESCRIPTION file cannot be found in the package '%s'\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: The directory %s cannot been created, please check if you have write "
+"access on this directory.\n"
+msgstr ""
+"%s: Adresár %s nemohol byť vytvorený, prosím skontroluj svoj prístup k "
+"zápisu do tohto adresára.\n"
+
+#, c-format
+msgid "%s: Error while copying the file '%s' to the directory '%s'.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Error while creating the directory '%s'.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong number of input arguments: %d or %d expected.\n"
+msgstr "%s: Nesprávny počet vstupných argumentov: očakávané %d alebo %d.\n"
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: A string expected.\n"
+msgstr ""
+"%s: Zlý typ vstupného argumentu #%d: Očakávaný typ reťazec (string).\n"
+
+#, c-format
+msgid "%s: Wrong size for input argument #%d: A string expected.\n"
+msgstr ""
+"%s: Nesprávny rozmer vstupného argumentut #%d: Očakávaný typ string.\n"
+
+#, c-format
+msgid "%s: Wrong value for input argument #%d: A valid category expected.\n"
+msgstr ""
+"%s: Nesprávna hodnota vstupného argumentu #%d: Očakávaná je platná "
+"kategória.\n"
+
+#, c-format
+msgid "%s: Module '%s' is not installed.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Several versions of a package (%s) cannot be loaded at the same scilab "
+"session :\n"
+msgstr ""
+"%s: Viacero verzií balíčka (%s)  nemôže byť načítaných v tej istej scilab "
+"session :\n"
+
+#, c-format
+msgid "\t - You've asked '%s - %s'\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Another version of the package %s is already loaded : %s\n"
+msgstr "%s: Iná verzia balíka %s je už načítaná : %s\n"
+
+#, c-format
+msgid "\t - '%s - %s' is already loaded\n"
+msgstr ""
+
+#, c-format
+msgid "\t - '%s - %s' is needed by '%s - %s'\n"
+msgstr ""
+
+#, c-format
+msgid "\t - '%s - %s' is needed by '%s'\n"
+msgstr ""
+
+#, c-format
+msgid "%s: The file '%s' doesn't exist or is not read accessible.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: An error occurred while loading '%s-%s':\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: 'user' or 'allusers' or 'all' "
+"expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: You have not enough rights to remove the package %s (%s).\n"
+msgstr "%s: Nemáte dostatočné práva na odstránenie  balíčka %s (%s).\n"
+
+#, c-format
+msgid ""
+"%s: You have not enough rights to remove any version of the package %s.\n"
+msgstr "%s: Nemáte dostatočné práva na odstránenie verzie balíčka %s.\n"
+
+#, c-format
+msgid ""
+"%s: The directory of this package (%s-%s) is located neither in SCI nor in "
+"SCIHOME. For security reason, ATOMS refuses to delete this directory.\n"
+msgstr ""
+"%s: Adresár tohto balíčka (%s-%s) sa nenachádza v SCI ani v SCIHOME. Z "
+"bezpečnostných dôvodov, ATOMS odmieta vymazať tento adresár.\n"
+
+#, c-format
+msgid ""
+"%s: The directory of this package (%s-%s) cannot been deleted, please check "
+"if you have write access on this directory : %s.\n"
+msgstr ""
+"%s: Adresár tohto balíčka (%s-%s) nemôže byť vymazaný, prosím skontroluj "
+"svoj prístup k zápisu do tohto adresára : %s.\n"
+
+#, c-format
+msgid ""
+"%s: The root directory of this package (%s-%s) cannot been deleted, please "
+"check if you have write access on this directory : %s.\n"
+msgstr ""
+"%s: Koreňový adresár balíčka (%s-%s) nemohol byť vymazaný, prosím "
+"skontrolujte prístup zápisu do tohto adresára : %s.\n"
+
+#, c-format
+msgid "%s: Wrong value for input argument #%d: This ("
+msgstr "%s: Nesprávna hodnota vstupného argumentu #%d: Toto ("
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: 'all','user','allusers' or "
+"'official' expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Incompatible input arguments #%d and #%d: Same sizes expected.\n"
+msgstr ""
+"%s: Nekompatibilné vstupné argumenty #%d a #%d: Je očakávané rovnaká "
+"veľkosť.\n"
+
+#, c-format
+msgid "%s: The package %s is not available.\n"
+msgstr "%s: Balíček  %s nie je dostupný.\n"
+
+msgid "Package"
+msgstr "Balíček"
+
+msgid "Title"
+msgstr "Titulok"
+
+msgid "Summary"
+msgstr "Sumár"
+
+msgid "Version"
+msgstr "Verzia"
+
+msgid "Depend"
+msgstr "Závisieť"
+
+msgid "Category(ies)"
+msgstr "Kategória(rie)"
+
+msgid "Author(s)"
+msgstr "Autor(i)"
+
+msgid "Maintainer(s)"
+msgstr "Správca(ovia)"
+
+msgid "Entity"
+msgstr "Entita"
+
+msgid "WebSite"
+msgstr "WebSite"
+
+msgid "License"
+msgstr "Licencia"
+
+msgid "Scilab Version"
+msgstr "Scilab verzia"
+
+msgid "Status"
+msgstr "Stav"
+
+msgid "Automatically Installed"
+msgstr "Automaticky inštalované"
+
+msgid "Install Directory"
+msgstr "Inštalačný adresár"
+
+msgid "Description"
+msgstr "Popis"
+
+msgid ""
+"Option offLine of ATOMS configuration is set to True. atomsSystemUpdate did "
+"not check the latest modules availables."
+msgstr ""
+
+#, c-format
+msgid "%s: '%s - %s' is not installed.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: '%s' ('%s' section) is not installed.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: '%s - %s' ('%s' section) is not installed.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: '%s' isn't installed.\n"
+msgstr ""
+
+msgid "ATOMS error"
+msgstr "ATOMS chyba"
+
+msgid ""
+"No ATOMS module is available. Please, check your Internet connection or make "
+"sure that your OS is compatible with ATOMS."
+msgstr ""
+
+msgid "No ATOMS module is available: your repository list is empty."
+msgstr "Žiadny ATOMS modul nie je dostupný: Váš zoznam schránky je prázdny"
+
+msgid "ATOMS"
+msgstr "ATOMS"
+
+msgid "&File"
+msgstr "Súbor(&F)"
+
+msgid "&Tools"
+msgstr "Nástroje(&T)"
+
+msgid "&Edit"
+msgstr "Upraviť(&E)"
+
+msgid "&?"
+msgstr "&?"
+
+msgid "File"
+msgstr "Súbor"
+
+msgid "Installed modules"
+msgstr ""
+
+msgid "Close"
+msgstr "Zatvoriť"
+
+msgid "?"
+msgstr "?"
+
+msgid "Atoms Help..."
+msgstr "Atoms Nápoveda..."
+
+msgid "List of installed modules"
+msgstr "Zoznam inštalovaných modulov"
+
+msgid "Remove"
+msgstr "Odstrániť"
+
+msgid "Install"
+msgstr "Inštalovať"
+
+msgid "Update"
+msgstr "Aktualizácia"
+
+msgid "Installing"
+msgstr "Inštalovanie"
+
+msgid "Installation failed!"
+msgstr "Inštalácia zlyhala!"
+
+msgid ""
+"Installation done! Please restart Scilab to take changes into account."
+msgstr "Inštalácia dokončená! Prosím reštartujte Scilab pre aplikáciu zmien."
+
+msgid "Removing"
+msgstr "Odstraňovanie"
+
+msgid "Remove failed!"
+msgstr "Odstránenie zlyhalo!"
+
+msgid "Remove done! Please restart Scilab to take changes into account. "
+msgstr ""
+"Odstránenie dokončené! Prosím reštartujte Scilab pre aplikáciu zmien. "
+
+msgid "Updating"
+msgstr "Aktualizovanie"
+
+msgid "Update failed!"
+msgstr "Aktualizácia zlyhala!"
+
+msgid "Update done! Please restart Scilab to take changes into account."
+msgstr "Aktualizácia vykonaná! Prosím reštartujte Scilab vykonanie zmien."
+
+msgid "Download size"
+msgstr "Zóna sťahovania"
+
+msgid "See also"
+msgstr "Pozrite tiež"
+
+msgid "Release date"
+msgstr "Dátum vydania"
+
+#, c-format
+msgid "A new version ('%s') of '%s' is available"
+msgstr ""
+
+msgid "Bytes"
+msgstr "Bajty"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "MB"
+msgstr "MB"
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: 'user', 'allusers' or 'all' "
+"expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong size for input argument #%d: mx3 string matrix expected.\n"
+msgstr ""
+"%s: Nesprávny rozmer  vstupného argumentu #%d: Očakávaná je mx3 matica "
+"reťazcov (string).\n"
+
+#, c-format
+msgid ""
+"%s: Wrong type for input argument #%d: matrix oriented typed list expected.\n"
+msgstr ""
+"%s: Nesprávny typ vstupného argumentu #%d: očakávaná orientovaná matica.\n"
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: 'filter:all','filter:main' or a "
+"valid main category expected.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: String expected.\n"
+msgstr ""
+"%s: Zlý typ vstupného argumentu #%d: Očakávaný typ reťazec (String).\n"
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: Must be a atoms package name.\n"
+msgstr ""
+"%s: Nesprávna hodnota vstupného argumentu #%d:  Musí byť meno balíčku "
+"atoms.\n"
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: Struct expected.\n"
+msgstr "%s: Zlý typ vstupného argumentu #%d: Očakávaná štruktúra (Struct).\n"
+
+#, c-format
+msgid "%s: The package '%s' is not present in the struct.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: The version '%s' of the package '%s' is not present in the struct.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: It should have a field named '%s'.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: The matrix oriented typed list is "
+"not well formatted.\n"
+msgstr ""
+"%s: Nesprávna hodnota vstupného argumentu #%d: Zadaný maticovo orientovaný "
+"zoznam nie je správne naformátovaný.\n"
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: Boolean expected.\n"
+msgstr ""
+"%s: Zlý typ vstupného argumentu #%d: Očakávaný logický typ (Boolean).\n"
+
+#, c-format
+msgid "%s: DESCRIPTION file ('%s') does not exist.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: gzip not found.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Extraction of the DESCRIPTION file ('%s') has failed.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: String that contains 'TOOLBOXES' or "
+"'DESCRIPTION' expected.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: The file %s is not well formated, the toolbox %s - %s doesn't contain "
+"the %s field\n"
+msgstr ""
+
+#, c-format
+msgid "%s: name and version are not both defined\n"
+msgstr "%s: názov a verzia nie sú obe definované\n"
+
+#, c-format
+msgid "%s: The file '%s' is not well formated at line %d\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: '%s' is not a registered category"
+msgstr ""
+
+#, c-format
+msgid "%s: The file '%s' cannot be written.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: String that start with "
+"'http://','ftp://' or 'file://' expected.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong length for input argument #%d: String which has 32-characters "
+"length expected.\n"
+msgstr ""
+"%s: Nesprávna dĺžka pre vstupný argument #%d: Je očakávaný reťazec dĺžky 32 "
+"znakov.\n"
+
+#, c-format
+msgid "%s: Neither Wget or Curl found: Please install one of them\n"
+msgstr "%s: Nenájdený Wget ani  Curl : Prosím nainštaluj jeden z nich\n"
+
+#, c-format
+msgid "%s: Error: Invalid URL.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Error: Internet Open.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Error: URL Open.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Error: Createfile.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Error: Invalid File size.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Error: Internet Read file.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Error: Write file.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Error: Failure.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Error: Out Of Memory.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: The following file hasn't been downloaded:\n"
+msgstr ""
+
+#, c-format
+msgid "\t - URL      : '%s'\n"
+msgstr ""
+
+#, c-format
+msgid "\t - Local location : '%s'\n"
+msgstr ""
+
+#, c-format
+msgid "%s: The following file hasn't been copied:\n"
+msgstr ""
+
+#, c-format
+msgid "\t - source    : '%s'\n"
+msgstr ""
+
+#, c-format
+msgid "\t - destination : '%s'\n"
+msgstr ""
+
+#, c-format
+msgid "%s: The downloaded file doesn't check the MD5SUM:\n"
+msgstr ""
+
+#, c-format
+msgid "\t - file      : '%s'\n"
+msgstr ""
+
+#, c-format
+msgid "\t - MD5SUM expected : '%s'\n"
+msgstr ""
+
+#, c-format
+msgid "\t - MD5SUM watched  : '%s'\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d:'error' or 'warning' expected.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: Single string that ends with "
+".tar.gz, .tgz or .zip expected.\n"
+msgstr ""
+"%s: Nesprávna hodnota vstupného argumentu #%d:  Očakávaný je jednoduchý "
+"reťazec, ktorý končí na .tar.gz, .tgz alebo .zip.\n"
+
+#, c-format
+msgid "%s: The file %s doesn't exist or is not read accessible.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: The directory %s doesn't exist.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: The extraction of the archive '%s' has failed.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong size for input argument #%d: A 1x1 or 1x2 string matrix expected.\n"
+msgstr ""
+"%s: Nesprávny rozmer vstupného argumentu #%d: je očakávaná matica reťazcov "
+"1x1 or 1x2.\n"
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: A boolean expected.\n"
+msgstr "%s: Nesprávny typ vstupného argumentu #%d: Očakávaný typ boolean.\n"
+
+#, c-format
+msgid "%s: Wrong size for input argument #%d: A boolean expected.\n"
+msgstr ""
+"%s: Nesprávny rozmer vstupného argumentu #%d: Očakávaný dátový typ boolean.\n"
+
+#, c-format
+msgid "%s: Wrong size for input argument #%d: 1x2 string matrix expected.\n"
+msgstr ""
+"%s: Nesprávny rozmer vstupného argumentu #%d: je očakávaná matica reťazcov "
+"1x2.\n"
+
+#, c-format
+msgid ""
+"%s: Wrong size for input argument #%d: mx2 or mx3 string matrix expected.\n"
+msgstr ""
+"%s: Nesprávny rozmer  vstupného argumentu #%d: Očakávaná je mx2 alebo mx3 "
+"matica reťazcov (string).\n"
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: All modules version should be set.\n"
+msgstr ""
+"%s: Nesprávna hodnota vstupného argumentu #%d: Verzie všetkých modulov by "
+"mali byť nastavené.\n"
+
+#, c-format
+msgid "%s: Wrong size for input argument #%d: mx2 string matrix expected.\n"
+msgstr ""
+"%s: Nesprávny rozmer  vstupného argumentu #%d: Očakávaná je  mx2 matica "
+"reťazcov (string).\n"
+
+msgid "All modules"
+msgstr "Všetky moduly"
+
+msgid "Main categories"
+msgstr "Hlavné kategórie"
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: %s must be an available atoms "
+"package name.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: Wrong number of input arguments: at most %d expected.\n"
+msgstr "%s: Nesprávny počet vstupných argumentov: najviac je očakávané %d.\n"
+
+#, c-format
+msgid "%s: The dependency tree cannot be resolved.\n"
+msgstr "%s: Strom závislostí nemôže byť vyriešený.\n"
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: Letters 'A' or 'I' expected.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: This is not a valid "
+"version/dependency.\n"
+msgstr ""
+"%s: Nesprávna hodnota vstupného argumentu #%d: Toto nie je platná "
+"verzia/závislosť.\n"
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: 'system' or 'install' expected.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: 'all','allusers','user' or 'session' "
+"expected.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: String that ends with DESCRIPTION "
+"expected.\n"
+msgstr ""
+"%s: Nesprávna hodnota vstupného argumentu #%d: Očakávaný je reťazec končaci "
+"na DESCRIPTION.\n"
+
+#, c-format
+msgid "%s: Wrong type for input argument #%d: mlist expected.\n"
+msgstr "%s: Nesprávny typ vstupného argumentu #%d: očakávaný mlist.\n"
+
+#, c-format
+msgid "%s: The description is not well formated at line %d\n"
+msgstr "%s: Popis nie je správne naformátovaný na riadku %d\n"
+
+#, c-format
+msgid "%s: Wrong value for input argument #%d: '%s' is not a valid URL.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: the package '%s' doesn't exist.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: the package '%s' doesn't contain the field '%s'.\n"
+msgstr ""
+
+#, c-format
+msgid "%s: %s (%s) isn't installed.\n"
+msgstr ""
+
+#, c-format
+msgid ""
+"%s: Wrong value for input argument #%d: This is not a valid version.\n"
+msgstr ""
+"%s: Nesprávna hodnota vstupného argumentu #%d: Toto nie je platná verzia.\n"
+
+#, c-format
+msgid "%s: Wrong value for input argument #%d: ASC or DESC expected.\n"
+msgstr ""
+"%s: Nesprávna hodnota vstupného argumentu #%d: očakávané ASC alebo DESC.\n"
